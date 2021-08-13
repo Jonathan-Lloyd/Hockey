@@ -1,0 +1,1058 @@
+id,name,position,team,assists,games,games_started,goals,time_on_ice,blocked,penaltymin,plusMinus,wins,losses,gaa,shots_against,goals_against,shutouts,yearid
+8460465,Petr Sykora,Forward,New Jersey Devils,23,82,0,21,15:54,16,40,4,0,0,0,0,0,0,2011-2012
+8460542,Patrik Elias,Forward,New Jersey Devils,52,81,0,26,19:51,26,16,-8,0,0,0,0,0,0,2011-2012
+8460626,Bryce Salvador,Defenseman,New Jersey Devils,9,82,0,0,20:12,107,66,18,0,0,0,0,0,0,2011-2012
+8460720,Eric Boulton,Forward,New Jersey Devils,0,51,0,0,6:35,10,115,-12,0,0,0,0,0,0,2011-2012
+8464977,Dainius Zubrus,Forward,New Jersey Devils,27,82,0,17,18:41,41,34,7,0,0,0,0,0,0,2011-2012
+8466182,Henrik Tallinder,Defenseman,New Jersey Devils,6,39,0,0,21:18,41,16,-11,0,0,0,0,0,0,2011-2012
+8467412,Alexei Ponikarovsky,Forward,New Jersey Devils,19,82,0,14,14:44,36,34,-3,0,0,0,0,0,0,2011-2012
+8468501,Anton Volchenkov,Defenseman,New Jersey Devils,9,72,0,2,17:58,125,34,3,0,0,0,0,0,0,2011-2012
+8468520,Kurtis Foster,Defenseman,New Jersey Devils,10,51,0,4,15:53,35,35,-13,0,0,0,0,0,0,2011-2012
+8469454,Ilya Kovalchuk,Forward,New Jersey Devils,46,77,0,37,24:26:00,18,33,-9,0,0,0,0,0,0,2011-2012
+8469542,Stephane Veilleux,Forward,New Jersey Devils,2,22,0,0,9:48,5,15,-2,0,0,0,0,0,0,2011-2012
+8469623,Marek Zidlicky,Defenseman,New Jersey Devils,20,63,0,2,21:19,58,34,-6,0,0,0,0,0,0,2011-2012
+8470123,Cam Janssen,Forward,New Jersey Devils,1,48,0,0,4:40,3,75,-8,0,0,0,0,0,0,2011-2012
+8470609,Steve Bernier,Forward,New Jersey Devils,5,32,0,1,11:57,13,16,6,0,0,0,0,0,0,2011-2012
+8470610,Zach Parise,Forward,New Jersey Devils,38,82,0,31,21:29,39,32,-5,0,0,0,0,0,0,2011-2012
+8470920,David Clarkson,Forward,New Jersey Devils,16,80,0,30,16:21,19,138,-8,0,0,0,0,0,0,2011-2012
+8471233,Travis Zajac,Forward,New Jersey Devils,4,15,0,2,17:22,3,4,-3,0,0,0,0,0,0,2011-2012
+8471365,Steven Zalewski,Forward,New Jersey Devils,0,7,0,0,10:33,1,0,-2,0,0,0,0,0,0,2011-2012
+8471636,Tim Sestito,Forward,New Jersey Devils,0,18,0,0,8:15,5,7,-5,0,0,0,0,0,0,2011-2012
+8471748,Mark Fraser,Defenseman,New Jersey Devils,0,4,0,0,14:20,3,14,-2,0,0,0,0,0,0,2011-2012
+8471816,Mark Fayne,Defenseman,New Jersey Devils,13,82,0,4,20:11,88,26,-4,0,0,0,0,0,0,2011-2012
+8472355,Rod Pelley,Forward,New Jersey Devils,1,52,0,2,7:45,25,16,-3,0,0,0,0,0,0,2011-2012
+8472382,Andy Greene,Defenseman,New Jersey Devils,15,56,0,1,19:30,96,16,3,0,0,0,0,0,0,2011-2012
+8472394,Peter Harrold,Defenseman,New Jersey Devils,2,11,0,0,14:36,11,0,0,0,0,0,0,0,0,2011-2012
+8472410,Stephen Gionta,Forward,New Jersey Devils,0,1,0,1,10:37,1,0,1,0,0,0,0,0,0,2011-2012
+8473592,Vladimir Zharkov,Forward,New Jersey Devils,0,4,0,0,4:52,0,0,-2,0,0,0,0,0,0,2011-2012
+8473646,Ryan Carter,Forward,New Jersey Devils,4,72,0,4,10:21,25,90,-13,0,0,0,0,0,0,2011-2012
+8473927,Brad Mills,Forward,New Jersey Devils,1,27,0,0,7:10,3,32,-10,0,0,0,0,0,0,2011-2012
+8473999,Nick Palmieri,Forward,New Jersey Devils,3,38,0,4,10:35,7,14,-10,0,0,0,0,0,0,2011-2012
+8474582,Mattias Tedenby,Forward,New Jersey Devils,5,43,0,1,10:45,1,16,-15,0,0,0,0,0,0,2011-2012
+8474641,Adam Henrique,Forward,New Jersey Devils,35,74,0,16,18:09,57,7,8,0,0,0,0,0,0,2011-2012
+8475060,Matt Taormina,Defenseman,New Jersey Devils,6,30,0,1,16:32,36,4,6,0,0,0,0,0,0,2011-2012
+8475185,Jacob Josefson,Forward,New Jersey Devils,7,41,0,2,12:05,13,6,10,0,0,0,0,0,0,2011-2012
+8475248,Alexander Urbom,Defenseman,New Jersey Devils,0,5,0,1,13:35,2,9,1,0,0,0,0,0,0,2011-2012
+8476457,Adam Larsson,Defenseman,New Jersey Devils,16,65,0,2,20:37,67,20,-7,0,0,0,0,0,0,2011-2012
+8455710,Martin Brodeur,Goalie,New Jersey Devils,0,59,59,0,57:29:00,0,0,0,31,21,2.405318,1472,136,3,2011-2012
+8460704,Johan Hedberg,Goalie,New Jersey Devils,0,27,23,0,58:55:00,0,0,0,17,7,2.224783,718,59,4,2011-2012
+8458525,Brian Rolston,Forward,New York Islanders,17,70,0,7,14:16,21,14,-5,0,0,0,0,0,0,2011-2012
+8458541,Steve Staios,Defenseman,New York Islanders,8,65,0,0,17:04,140,53,-19,0,0,0,0,0,0,2011-2012
+8459454,Jay Pandolfo,Forward,New York Islanders,2,62,0,1,10:55,69,8,-14,0,0,0,0,0,0,2011-2012
+8464967,Marty Reasoner,Forward,New York Islanders,5,61,0,1,11:36,31,34,-25,0,0,0,0,0,0,2011-2012
+8466309,Mike Mottau,Defenseman,New York Islanders,2,35,0,0,14:04,47,15,-11,0,0,0,0,0,0,2011-2012
+8467579,Trevor Gillies,Forward,New York Islanders,0,3,0,0,2:52,0,0,-1,0,0,0,0,0,0,2011-2012
+8467580,Mark Eaton,Defenseman,New York Islanders,3,62,0,1,16:03,114,10,-17,0,0,0,0,0,0,2011-2012
+8468309,Mark Streit,Defenseman,New York Islanders,40,82,0,7,23:22,115,46,-27,0,0,0,0,0,0,2011-2012
+8469684,Milan Jurcina,Defenseman,New York Islanders,8,65,0,3,18:46,116,30,-34,0,0,0,0,0,0,2011-2012
+8469707,PA Parenteau,Forward,New York Islanders,49,80,0,18,18:39,23,89,-8,0,0,0,0,0,0,2011-2012
+8470144,Frans Nielsen,Forward,New York Islanders,30,82,0,17,17:27,66,6,-3,0,0,0,0,0,0,2011-2012
+8470798,Dylan Reese,Defenseman,New York Islanders,6,28,0,1,17:05,25,11,0,0,0,0,0,0,0,2011-2012
+8470852,Matt Moulson,Forward,New York Islanders,33,82,0,36,19:18,40,6,1,0,0,0,0,0,0,2011-2012
+8471260,Blake Comeau,Forward,New York Islanders,10,74,0,5,15:27,22,30,-11,0,0,0,0,0,0,2011-2012
+8473449,Kyle Okposo,Forward,New York Islanders,21,79,0,24,17:04,33,46,-15,0,0,0,0,0,0,2011-2012
+8473456,Rhett Rakhshani,Forward,New York Islanders,0,5,0,0,12:08,1,2,0,0,0,0,0,0,0,2011-2012
+8473501,Ty Wishart,Defenseman,New York Islanders,0,1,0,0,17:16,0,0,0,0,0,0,0,0,0,2011-2012
+8473546,Michael Grabner,Forward,New York Islanders,12,78,0,20,15:32,30,12,-18,0,0,0,0,0,0,2011-2012
+8473584,Andrew MacDonald,Defenseman,New York Islanders,14,75,0,5,23:22,185,26,-5,0,0,0,0,0,0,2011-2012
+8473734,Tim Wallace,Forward,New York Islanders,6,49,0,3,8:35,11,16,-3,0,0,0,0,0,0,2011-2012
+8474230,Micheal Haley,Forward,New York Islanders,0,14,0,0,7:56,2,57,-1,0,0,0,0,0,0,2011-2012
+8474573,Josh Bailey,Forward,New York Islanders,19,80,0,13,15:13,35,32,-10,0,0,0,0,0,0,2011-2012
+8474604,Aaron Ness,Defenseman,New York Islanders,0,9,0,0,16:56,17,2,0,0,0,0,0,0,0,2011-2012
+8474612,Travis Hamonic,Defenseman,New York Islanders,22,73,0,2,22:25,157,73,6,0,0,0,0,0,0,2011-2012
+8474659,Matt Donovan,Defenseman,New York Islanders,0,3,0,0,18:34,4,0,-3,0,0,0,0,0,0,2011-2012
+8474666,David Ullstrom,Forward,New York Islanders,4,29,0,4,10:58,8,6,-2,0,0,0,0,0,0,2011-2012
+8474709,Matt Martin,Forward,New York Islanders,7,80,0,7,12:09,41,121,-17,0,0,0,0,0,0,2011-2012
+8475166,John Tavares,Forward,New York Islanders,50,82,0,31,20:34,23,26,-6,0,0,0,0,0,0,2011-2012
+8475177,Calvin de Haan,Defenseman,New York Islanders,0,1,0,0,13:01,0,0,1,0,0,0,0,0,0,2011-2012
+8475231,Casey Cizikas,Forward,New York Islanders,4,15,0,0,10:36,9,6,1,0,0,0,0,0,0,2011-2012
+8475799,Nino Niederreiter,Forward,New York Islanders,0,55,0,1,10:06,14,12,-29,0,0,0,0,0,0,2011-2012
+8460705,Evgeni Nabokov,Goalie,New York Islanders,0,42,41,0,56:36:00,0,0,0,19,18,2.54861,1172,101,2,2011-2012
+8468481,Rick DiPietro,Goalie,New York Islanders,0,8,6,0,44:13:00,0,0,0,3,2,3.731449,177,22,0,2011-2012
+8471219,Al Montoya,Goalie,New York Islanders,0,31,26,0,55:28:00,0,0,0,9,11,3.105193,832,89,0,2011-2012
+8474690,Kevin Poulin,Goalie,New York Islanders,0,6,6,0,49:23:00,0,0,0,2,4,3.037462,162,15,0,2011-2012
+8475195,Anders Nilsson,Goalie,New York Islanders,0,4,3,0,54:27:00,0,0,0,1,2,2.754821,112,10,1,2011-2012
+8467336,Mike Rupp,Forward,New York Rangers,1,60,0,4,6:38,13,97,-1,0,0,0,0,0,0,2011-2012
+8467389,Brad Richards,Forward,New York Rangers,41,82,0,25,20:15,49,22,-1,0,0,0,0,0,0,2011-2012
+8468172,Ruslan Fedotenko,Forward,New York Rangers,11,73,0,9,13:35,57,16,-7,0,0,0,0,0,0,2011-2012
+8468224,Sean Avery,Forward,New York Rangers,0,15,0,3,7:00,1,21,2,0,0,0,0,0,0,2011-2012
+8468483,Marian Gaborik,Forward,New York Rangers,35,82,0,41,19:30,40,34,15,0,0,0,0,0,0,2011-2012
+8469480,Jeff Woywitka,Defenseman,New York Rangers,5,27,0,1,10:24,22,8,2,0,0,0,0,0,0,2011-2012
+8469516,Brendan Bell,Defenseman,New York Rangers,0,1,0,0,11:26,0,0,-1,0,0,0,0,0,0,2011-2012
+8470192,Steve Eminger,Defenseman,New York Rangers,3,42,0,2,13:16,53,28,0,0,0,0,0,0,0,2011-2012
+8470232,Kris Newbury,Forward,New York Rangers,0,7,0,0,5:53,1,24,-1,0,0,0,0,0,0,2011-2012
+8470299,Erik Christensen,Forward,New York Rangers,5,49,0,7,10:24,4,8,-13,0,0,0,0,0,0,2011-2012
+8470301,Andre Deveaux,Forward,New York Rangers,1,9,0,0,5:22,0,29,3,0,0,0,0,0,0,2011-2012
+8470619,Brian Boyle,Forward,New York Rangers,15,82,0,11,15:14,83,59,2,0,0,0,0,0,0,2011-2012
+8470750,John Mitchell,Forward,New York Rangers,11,63,0,5,10:09,27,8,10,0,0,0,0,0,0,2011-2012
+8471234,Wojtek Wolski,Forward,New York Rangers,8,31,0,4,13:45,5,2,-5,0,0,0,0,0,0,2011-2012
+8471273,Brandon Dubinsky,Forward,New York Rangers,24,77,0,10,16:16,36,110,16,0,0,0,0,0,0,2011-2012
+8471283,Brandon Prust,Forward,New York Rangers,12,82,0,5,11:56,51,156,-1,0,0,0,0,0,0,2011-2012
+8471339,Ryan Callahan,Forward,New York Rangers,25,76,0,29,21:02,88,61,-8,0,0,0,0,0,0,2011-2012
+8471686,Marc Staal,Defenseman,New York Rangers,3,46,0,2,19:53,68,16,-7,0,0,0,0,0,0,2011-2012
+8471714,Michael Sauer,Defenseman,New York Rangers,2,19,0,1,18:43,31,21,9,0,0,0,0,0,0,2011-2012
+8471873,Anton Stralman,Defenseman,New York Rangers,16,53,0,2,17:05,71,20,9,0,0,0,0,0,0,2011-2012
+8471958,Dan Girardi,Defenseman,New York Rangers,24,82,0,5,26:14:00,185,20,13,0,0,0,0,0,0,2011-2012
+8473573,Artem Anisimov,Forward,New York Rangers,20,79,0,16,15:24,46,34,12,0,0,0,0,0,0,2011-2012
+8473722,John Scott,Forward,New York Rangers,1,35,0,0,6:42,10,53,-1,0,0,0,0,0,0,2011-2012
+8474151,Ryan McDonagh,Defenseman,New York Rangers,25,82,0,7,24:44:00,182,44,25,0,0,0,0,0,0,2011-2012
+8474176,Carl Hagelin,Forward,New York Rangers,24,64,0,14,15:02,23,24,21,0,0,0,0,0,0,2011-2012
+8474584,Michael Del Zotto,Defenseman,New York Rangers,31,77,0,10,22:26,95,36,20,0,0,0,0,0,0,2011-2012
+8474613,Derek Stepan,Forward,New York Rangers,34,82,0,17,18:56,44,22,14,0,0,0,0,0,0,2011-2012
+8474772,Stu Bickel,Defenseman,New York Rangers,9,51,0,0,10:26,52,108,2,0,0,0,0,0,0,2011-2012
+8475148,Tim Erixon,Defenseman,New York Rangers,2,18,0,0,12:59,15,8,-2,0,0,0,0,0,0,2011-2012
+8475692,Mats Zuccarello,Forward,New York Rangers,1,10,0,2,10:02,3,6,0,0,0,0,0,0,0,2011-2012
+8462047,Martin Biron,Goalie,New York Rangers,0,21,20,0,58:05:00,0,0,0,12,6,2.458983,519,50,2,2011-2012
+8468685,Henrik Lundqvist,Goalie,New York Rangers,0,62,62,0,60:32:00,0,0,0,39,18,1.966165,1753,123,8,2011-2012
+8448208,Jaromir Jagr,Forward,Philadelphia Flyers,35,73,0,19,16:20,12,30,5,0,0,0,0,0,0,2011-2012
+8459424,Chris Pronger,Defenseman,Philadelphia Flyers,11,13,0,1,22:28,27,10,1,0,0,0,0,0,0,2011-2012
+8459670,Kimmo Timonen,Defenseman,Philadelphia Flyers,39,76,0,4,21:14,129,46,8,0,0,0,0,0,0,2011-2012
+8462535,Jody Shelley,Forward,Philadelphia Flyers,1,30,0,0,5:39,6,64,-6,0,0,0,0,0,0,2011-2012
+8464975,Daniel Briere,Forward,Philadelphia Flyers,33,70,0,16,17:21,16,69,5,0,0,0,0,0,0,2011-2012
+8465210,Pavel Kubina,Defenseman,Philadelphia Flyers,12,69,0,3,19:16,119,74,-2,0,0,0,0,0,0,2011-2012
+8467408,Matt Walker,Defenseman,Philadelphia Flyers,0,4,0,0,10:57,5,16,-2,0,0,0,0,0,0,2011-2012
+8468486,Scott Hartnell,Forward,Philadelphia Flyers,30,82,0,37,17:46,37,136,19,0,0,0,0,0,0,2011-2012
+8468534,Andreas Lilja,Defenseman,Philadelphia Flyers,6,46,0,0,13:41,72,34,9,0,0,0,0,0,0,2011-2012
+8470171,Max Talbot,Forward,Philadelphia Flyers,15,81,0,19,15:59,58,59,5,0,0,0,0,0,0,2011-2012
+8470601,Braydon Coburn,Defenseman,Philadelphia Flyers,20,81,0,4,22:02,119,56,10,0,0,0,0,0,0,2011-2012
+8470640,Matt Carle,Defenseman,Philadelphia Flyers,34,82,0,4,23:01,164,36,4,0,0,0,0,0,0,2011-2012
+8471236,Andrej Meszaros,Defenseman,Philadelphia Flyers,18,62,0,7,20:39,88,38,6,0,0,0,0,0,0,2011-2012
+8471269,Nicklas Grossmann,Defenseman,Philadelphia Flyers,11,74,0,0,18:48,152,36,5,0,0,0,0,0,0,2011-2012
+8473512,Claude Giroux,Forward,Philadelphia Flyers,65,77,0,28,21:32,44,29,6,0,0,0,0,0,0,2011-2012
+8473542,Tom Sestito,Forward,Philadelphia Flyers,1,14,0,0,6:53,2,83,-3,0,0,0,0,0,0,2011-2012
+8473568,Andreas Nodl,Forward,Philadelphia Flyers,5,60,0,3,11:42,17,8,-5,0,0,0,0,0,0,2011-2012
+8474037,James van Riemsdyk,Forward,Philadelphia Flyers,13,43,0,11,15:10,18,24,-1,0,0,0,0,0,0,2011-2012
+8474161,Jakub Voracek,Forward,Philadelphia Flyers,31,78,0,18,16:17,18,32,11,0,0,0,0,0,0,2011-2012
+8474163,Kevin Marshall,Defenseman,Philadelphia Flyers,0,10,0,0,8:45,4,8,-1,0,0,0,0,0,0,2011-2012
+8474190,Wayne Simmonds,Forward,Philadelphia Flyers,21,82,0,28,15:54,34,114,-1,0,0,0,0,0,0,2011-2012
+8474631,Marc-Andre Bourdon,Defenseman,Philadelphia Flyers,3,45,0,4,16:11,77,52,4,0,0,0,0,0,0,2011-2012
+8474736,Zac Rinaldo,Forward,Philadelphia Flyers,7,66,0,2,7:28,19,232,-1,0,0,0,0,0,0,2011-2012
+8474892,Eric Wellwood,Forward,Philadelphia Flyers,4,24,0,5,10:57,12,2,12,0,0,0,0,0,0,2011-2012
+8475170,Brayden Schenn,Forward,Philadelphia Flyers,6,54,0,12,14:07,26,34,-7,0,0,0,0,0,0,2011-2012
+8475430,Brandon Manning,Defenseman,Philadelphia Flyers,0,4,0,0,13:43,2,0,1,0,0,0,0,0,0,2011-2012
+8475603,Ben Holmstrom,Forward,Philadelphia Flyers,0,5,0,0,6:43,4,2,0,0,0,0,0,0,0,2011-2012
+8475640,Erik Gustafsson,Defenseman,Philadelphia Flyers,4,30,0,1,16:47,35,2,12,0,0,0,0,0,0,2011-2012
+8476158,Harry Zolnierczyk,Forward,Philadelphia Flyers,3,37,0,3,7:42,14,35,-11,0,0,0,0,0,0,2011-2012
+8476177,Matt Read,Forward,Philadelphia Flyers,23,79,0,24,17:03,58,12,13,0,0,0,0,0,0,2011-2012
+8476461,Sean Couturier,Forward,Philadelphia Flyers,14,77,0,13,14:08,33,14,18,0,0,0,0,0,0,2011-2012
+8468524,Ilya Bryzgalov,Goalie,Philadelphia Flyers,0,59,57,0,57:53:00,0,0,0,33,16,2.477125,1554,141,6,2011-2012
+8475683,Sergei Bobrovsky,Goalie,Philadelphia Flyers,0,29,25,0,53:27:00,0,0,0,14,10,3.019193,769,78,0,2011-2012
+8460541,Richard Park,Forward,Pittsburgh Penguins,7,54,0,7,10:54,18,12,-1,0,0,0,0,0,0,2011-2012
+8460719,Steve Sullivan,Forward,Pittsburgh Penguins,31,79,0,17,15:21,16,20,-3,0,0,0,0,0,0,2011-2012
+8465025,Arron Asham,Forward,Pittsburgh Penguins,11,64,0,5,9:14,8,76,-5,0,0,0,0,0,0,2011-2012
+8465166,Craig Adams,Forward,Pittsburgh Penguins,13,82,0,5,11:17,45,34,-6,0,0,0,0,0,0,2011-2012
+8465951,Matt Cooke,Forward,Pittsburgh Penguins,19,82,0,19,15:40,41,44,5,0,0,0,0,0,0,2011-2012
+8466393,Pascal Dupuis,Forward,Pittsburgh Penguins,34,82,0,25,16:55,44,34,18,0,0,0,0,0,0,2011-2012
+8468498,Brooks Orpik,Defenseman,Pittsburgh Penguins,16,73,0,2,22:33,139,61,19,0,0,0,0,0,0,2011-2012
+8468542,Paul Martin,Defenseman,Pittsburgh Penguins,25,73,0,2,23:00,117,18,9,0,0,0,0,0,0,2011-2012
+8468674,Deryk Engelland,Defenseman,Pittsburgh Penguins,13,73,0,4,16:08,77,56,10,0,0,0,0,0,0,2011-2012
+8468789,Jason Williams,Forward,Pittsburgh Penguins,1,8,0,1,10:34,2,4,1,0,0,0,0,0,0,2011-2012
+8469760,Zbynek Michalek,Defenseman,Pittsburgh Penguins,11,62,0,2,21:38,144,24,0,0,0,0,0,0,0,2011-2012
+8470543,Chris Kunitz,Forward,Pittsburgh Penguins,35,82,0,26,18:18,28,49,16,0,0,0,0,0,0,2011-2012
+8470644,Colin McDonald,Forward,Pittsburgh Penguins,0,5,0,0,8:28,0,0,0,0,0,0,0,0,0,2011-2012
+8470678,Alexandre Picard,Defenseman,Pittsburgh Penguins,4,17,0,0,13:08,14,4,4,0,0,0,0,0,0,2011-2012
+8470896,Steve MacIntyre,Forward,Pittsburgh Penguins,0,12,0,0,3:10,0,6,0,0,0,0,0,0,0,2011-2012
+8471215,Evgeni Malkin,Forward,Pittsburgh Penguins,59,75,0,50,21:01,41,70,18,0,0,0,0,0,0,2011-2012
+8471311,Tyler Kennedy,Forward,Pittsburgh Penguins,22,60,0,11,14:22,10,29,10,0,0,0,0,0,0,2011-2012
+8471675,Sidney Crosby,Forward,Pittsburgh Penguins,29,22,0,8,18:28,7,14,15,0,0,0,0,0,0,2011-2012
+8471702,Matt Niskanen,Defenseman,Pittsburgh Penguins,17,75,0,4,17:56,69,47,9,0,0,0,0,0,0,2011-2012
+8471707,James Neal,Forward,Pittsburgh Penguins,41,80,0,40,19:08,15,87,6,0,0,0,0,0,0,2011-2012
+8471724,Kris Letang,Defenseman,Pittsburgh Penguins,32,51,0,10,24:50:00,86,34,21,0,0,0,0,0,0,2011-2012
+8471811,Cal O'Reilly,Forward,Pittsburgh Penguins,5,33,0,2,12:45,10,4,-11,0,0,0,0,0,0,2011-2012
+8471856,Joe Vitale,Forward,Pittsburgh Penguins,10,68,0,4,11:10,36,56,-5,0,0,0,0,0,0,2011-2012
+8473533,Jordan Staal,Forward,Pittsburgh Penguins,25,62,0,25,20:03,23,34,11,0,0,0,0,0,0,2011-2012
+8473539,Carl Sneep,Defenseman,Pittsburgh Penguins,1,1,0,0,16:19,1,0,1,0,0,0,0,0,0,2011-2012
+8473565,Brian Strait,Defenseman,Pittsburgh Penguins,1,9,0,0,12:53,12,4,-2,0,0,0,0,0,0,2011-2012
+8473914,Mark Letestu,Forward,Pittsburgh Penguins,14,62,0,11,15:38,19,8,-9,0,0,0,0,0,0,2011-2012
+8473933,Ben Lovejoy,Defenseman,Pittsburgh Penguins,4,34,0,1,13:15,37,13,3,0,0,0,0,0,0,2011-2012
+8474025,Eric Tangradi,Forward,Pittsburgh Penguins,2,24,0,0,8:56,7,16,-4,0,0,0,0,0,0,2011-2012
+8474138,Dustin Jeffrey,Forward,Pittsburgh Penguins,2,26,0,4,12:06,8,2,-4,0,0,0,0,0,0,2011-2012
+8474145,Robert Bortuzzo,Defenseman,Pittsburgh Penguins,0,6,0,0,10:54,1,2,1,0,0,0,0,0,0,2011-2012
+8475155,Simon Despres,Defenseman,Pittsburgh Penguins,3,18,0,1,14:13,17,10,5,0,0,0,0,0,0,2011-2012
+8462161,Brent Johnson,Goalie,Pittsburgh Penguins,0,16,14,0,50:41:00,0,0,0,6,7,3.106956,359,42,0,2011-2012
+8470594,Marc-Andre Fleury,Goalie,Pittsburgh Penguins,0,67,64,0,58:09:00,0,0,0,42,17,2.356132,1768,153,3,2011-2012
+8475097,Brad Thiessen,Goalie,Pittsburgh Penguins,0,5,4,0,51:32:00,0,0,0,3,1,3.72478,113,16,0,2011-2012
+8458525,Brian Rolston,Forward,Boston Bruins,17,70,0,7,14:16,21,14,-5,0,0,0,0,0,0,2011-2012
+8465009,Zdeno Chara,Defenseman,Boston Bruins,40,79,0,12,25:00:00,87,86,33,0,0,0,0,0,0,2011-2012
+8465056,Trent Whitfield,Forward,Boston Bruins,0,1,0,0,13:59,3,0,0,0,0,0,0,0,0,2011-2012
+8465978,Shawn Thornton,Forward,Boston Bruins,8,81,0,5,9:10,12,154,-7,0,0,0,0,0,0,2011-2012
+8466215,Joe Corvo,Defenseman,Boston Bruins,21,75,0,4,18:48,56,13,10,0,0,0,0,0,0,2011-2012
+8466309,Mike Mottau,Defenseman,Boston Bruins,2,35,0,0,14:04,47,15,-11,0,0,0,0,0,0,2011-2012
+8466333,Andrew Ference,Defenseman,Boston Bruins,18,72,0,6,18:53,81,46,9,0,0,0,0,0,0,2011-2012
+8467967,Chris Kelly,Forward,Boston Bruins,19,82,0,20,14:44,56,41,33,0,0,0,0,0,0,2011-2012
+8468636,Greg Zanon,Defenseman,Boston Bruins,5,56,0,3,17:47,136,18,3,0,0,0,0,0,0,2011-2012
+8469619,Dennis Seidenberg,Defenseman,Boston Bruins,18,80,0,5,24:02:00,151,39,15,0,0,0,0,0,0,2011-2012
+8470169,Gregory Campbell,Forward,Boston Bruins,8,78,0,8,12:47,53,80,-3,0,0,0,0,0,0,2011-2012
+8470187,Johnny Boychuk,Defenseman,Boston Bruins,10,77,0,5,20:36,133,53,27,0,0,0,0,0,0,2011-2012
+8470230,Daniel Paille,Forward,Boston Bruins,6,69,0,9,11:29,24,15,-5,0,0,0,0,0,0,2011-2012
+8470596,Nathan Horton,Forward,Boston Bruins,15,46,0,17,15:55,11,54,0,0,0,0,0,0,0,2011-2012
+8470636,Josh Hennessy,Forward,Boston Bruins,0,3,0,0,6:46,0,2,1,0,0,0,0,0,0,2011-2012
+8470638,Patrice Bergeron,Forward,Boston Bruins,42,81,0,22,18:34,67,20,36,0,0,0,0,0,0,2011-2012
+8471276,David Krejci,Forward,Boston Bruins,39,79,0,23,18:25,46,36,-5,0,0,0,0,0,0,2011-2012
+8471514,Rich Peverley,Forward,Boston Bruins,31,57,0,11,16:53,13,22,20,0,0,0,0,0,0,2011-2012
+8471678,Benoit Pouliot,Forward,Boston Bruins,16,74,0,16,12:12,14,38,18,0,0,0,0,0,0,2011-2012
+8471717,Adam McQuaid,Defenseman,Boston Bruins,8,72,0,2,14:57,101,99,16,0,0,0,0,0,0,2011-2012
+8473419,Brad Marchand,Forward,Boston Bruins,27,76,0,28,17:37,21,87,31,0,0,0,0,0,0,2011-2012
+8473473,Milan Lucic,Forward,Boston Bruins,35,81,0,26,17:01,26,135,7,0,0,0,0,0,0,2011-2012
+8474000,Steven Kampfer,Defenseman,Boston Bruins,3,23,0,2,14:54,31,6,-1,0,0,0,0,0,0,2011-2012
+8474045,Zach Hamill,Forward,Boston Bruins,2,16,0,0,10:59,4,4,3,0,0,0,0,0,0,2011-2012
+8474607,Max Sauve,Forward,Boston Bruins,0,1,0,0,3:43,0,0,0,0,0,0,0,0,0,2011-2012
+8474749,Matt Bartkowski,Defenseman,Boston Bruins,0,3,0,0,6:07,2,0,-2,0,0,0,0,0,0,2011-2012
+8475150,Jordan Caron,Forward,Boston Bruins,8,48,0,7,11:31,15,14,0,0,0,0,0,0,0,2011-2012
+8475283,Lane MacDermid,Forward,Boston Bruins,0,5,0,0,8:54,3,5,-2,0,0,0,0,0,0,2011-2012
+8475794,Tyler Seguin,Forward,Boston Bruins,38,81,0,29,16:56,17,30,34,0,0,0,0,0,0,2011-2012
+8476211,Carter Camper,Forward,Boston Bruins,0,3,0,1,6:42,2,0,1,0,0,0,0,0,0,2011-2012
+8476792,Torey Krug,Defenseman,Boston Bruins,1,2,0,0,17:07,4,0,0,0,0,0,0,0,0,2011-2012
+8460612,Marty Turco,Goalie,Boston Bruins,0,5,4,0,52:07:00,0,0,0,2,2,3.683571,110,16,0,2011-2012
+8460703,Tim Thomas,Goalie,Boston Bruins,0,59,55,0,56:48:00,0,0,0,35,19,2.363109,1659,132,5,2011-2012
+8471418,Anton Khudobin,Goalie,Boston Bruins,0,1,1,0,60:00:00,0,0,0,1,0,1,45,1,0,2011-2012
+8471695,Tuukka Rask,Goalie,Boston Bruins,0,23,22,0,56:03:00,0,0,0,11,8,2.047464,621,44,3,2011-2012
+8462077,Jochen Hecht,Forward,Buffalo Sabres,4,22,0,4,16:49,9,6,1,0,0,0,0,0,0,2011-2012
+8467344,Robyn Regehr,Defenseman,Buffalo Sabres,4,76,0,1,18:37,112,56,-12,0,0,0,0,0,0,2011-2012
+8467917,Jordan Leopold,Defenseman,Buffalo Sabres,14,79,0,10,22:22,128,28,4,0,0,0,0,0,0,2011-2012
+8468504,Brad Boyes,Forward,Buffalo Sabres,15,65,0,8,13:10,24,6,2,0,0,0,0,0,0,2011-2012
+8468700,Paul Gaustad,Forward,Buffalo Sabres,14,70,0,7,14:46,47,76,-1,0,0,0,0,0,0,2011-2012
+8469485,Derek Roy,Forward,Buffalo Sabres,27,80,0,17,19:19,50,54,-7,0,0,0,0,0,0,2011-2012
+8469506,Jason Pominville,Forward,Buffalo Sabres,43,82,0,30,19:40,52,12,-7,0,0,0,0,0,0,2011-2012
+8469555,Christian Ehrhoff,Defenseman,Buffalo Sabres,27,66,0,5,23:03,82,47,-2,0,0,0,0,0,0,2011-2012
+8469582,Colin Stuart,Forward,Buffalo Sabres,0,2,0,0,6:11,0,0,-3,0,0,0,0,0,0,2011-2012
+8469591,Cody McCormick,Forward,Buffalo Sabres,3,50,0,1,7:49,11,56,-7,0,0,0,0,0,0,2011-2012
+8470018,Matt Ellis,Forward,Buffalo Sabres,5,60,0,3,9:43,17,25,-3,0,0,0,0,0,0,2011-2012
+8470598,Thomas Vanek,Forward,Buffalo Sabres,35,78,0,26,16:56,22,52,-6,0,0,0,0,0,0,2011-2012
+8470685,Alexander Sulzer,Defenseman,Buffalo Sabres,6,27,0,3,17:49,38,8,8,0,0,0,0,0,0,2011-2012
+8471226,Drew Stafford,Forward,Buffalo Sabres,30,80,0,20,17:38,22,46,5,0,0,0,0,0,0,2011-2012
+8471284,Andrej Sekera,Defenseman,Buffalo Sabres,10,69,0,3,19:36,93,18,3,0,0,0,0,0,0,2011-2012
+8471388,Patrick Kaleta,Forward,Buffalo Sabres,5,63,0,5,13:09,46,116,-5,0,0,0,0,0,0,2011-2012
+8471701,Joe Finley,Defenseman,Buffalo Sabres,0,5,0,0,7:47,0,12,-3,0,0,0,0,0,0,2011-2012
+8471752,Marc-Andre Gragnani,Defenseman,Buffalo Sabres,13,58,0,2,16:08,41,26,6,0,0,0,0,0,0,2011-2012
+8471804,Nathan Gerbe,Forward,Buffalo Sabres,19,62,0,6,14:12,13,32,2,0,0,0,0,0,0,2011-2012
+8473426,Mike Weber,Defenseman,Buffalo Sabres,4,51,0,1,18:34,90,64,-19,0,0,0,0,0,0,2011-2012
+8473898,Paul Szczechura,Forward,Buffalo Sabres,3,9,0,1,11:26,3,4,0,0,0,0,0,0,0,2011-2012
+8474113,TJ Brennan,Defenseman,Buffalo Sabres,0,11,0,1,14:07,6,6,0,0,0,0,0,0,0,2011-2012
+8474130,Corey Tropp,Forward,Buffalo Sabres,5,34,0,3,10:05,20,20,0,0,0,0,0,0,0,2011-2012
+8474500,Derek Whitmore,Forward,Buffalo Sabres,0,2,0,0,12:31,1,0,0,0,0,0,0,0,0,2011-2012
+8474551,Ville Leino,Forward,Buffalo Sabres,17,71,0,8,15:55,28,16,-2,0,0,0,0,0,0,2011-2012
+8474570,Cody Hodgson,Forward,Buffalo Sabres,22,83,0,19,13:49,29,10,1,0,0,0,0,0,0,2011-2012
+8474574,Tyler Myers,Defenseman,Buffalo Sabres,15,55,0,8,22:29,70,33,5,0,0,0,0,0,0,2011-2012
+8474589,Tyler Ennis,Forward,Buffalo Sabres,19,48,0,15,16:09,18,14,11,0,0,0,0,0,0,2011-2012
+8474609,Luke Adam,Forward,Buffalo Sabres,10,52,0,10,12:24,15,14,-6,0,0,0,0,0,0,2011-2012
+8475102,Travis Turnbull,Forward,Buffalo Sabres,0,3,0,1,4:55,2,5,0,0,0,0,0,0,0,2011-2012
+8475178,Zack Kassian,Forward,Buffalo Sabres,6,44,0,4,11:17,2,51,-2,0,0,0,0,0,0,2011-2012
+8475188,Brayden McNabb,Defenseman,Buffalo Sabres,7,25,0,1,17:50,30,15,-1,0,0,0,0,0,0,2011-2012
+8475220,Marcus Foligno,Forward,Buffalo Sabres,7,14,0,6,15:48,11,9,6,0,0,0,0,0,0,2011-2012
+8468011,Ryan Miller,Goalie,Buffalo Sabres,0,61,60,0,57:58:00,0,0,0,31,21,2.544949,1788,150,6,2011-2012
+8469569,Drew MacIntyre,Goalie,Buffalo Sabres,0,2,0,0,21:44,0,0,0,0,0,1.379839,18,1,0,2011-2012
+8473523,Jhonas Enroth,Goalie,Buffalo Sabres,0,26,22,0,53:49:00,0,0,0,8,11,2.701447,756,63,1,2011-2012
+8459628,Hal Gill,Defenseman,Montreal Canadiens,12,76,0,1,17:08,161,37,-3,0,0,0,0,0,0,2011-2012
+8465200,Tomas Kaberle,Defenseman,Montreal Canadiens,28,72,0,3,17:43,80,12,-18,0,0,0,0,0,0,2011-2012
+8467351,Scott Gomez,Forward,Montreal Canadiens,9,38,0,2,14:08,12,14,-9,0,0,0,0,0,0,2011-2012
+8467396,Erik Cole,Forward,Montreal Canadiens,26,82,0,35,18:31,30,48,11,0,0,0,0,0,0,2011-2012
+8467407,Brian Gionta,Forward,Montreal Canadiens,7,31,0,8,19:26,13,16,-7,0,0,0,0,0,0,2011-2012
+8467439,Jaroslav Spacek,Defenseman,Montreal Canadiens,10,46,0,5,16:05,68,8,6,0,0,0,0,0,0,2011-2012
+8467496,Andrei Markov,Defenseman,Montreal Canadiens,3,13,0,0,18:00,7,4,-4,0,0,0,0,0,0,2011-2012
+8468463,Mathieu Darche,Forward,Montreal Canadiens,7,61,0,5,12:07,45,18,-4,0,0,0,0,0,0,2011-2012
+8468635,Travis Moen,Forward,Montreal Canadiens,7,48,0,9,15:42,41,41,-3,0,0,0,0,0,0,2011-2012
+8469500,Michael Cammalleri,Forward,Montreal Canadiens,21,66,0,20,18:06,19,26,-10,0,0,0,0,0,0,2011-2012
+8469521,Tomas Plekanec,Forward,Montreal Canadiens,35,81,0,17,20:45,57,56,-15,0,0,0,0,0,0,2011-2012
+8470324,Josh Gorges,Defenseman,Montreal Canadiens,14,82,0,2,22:37,250,39,14,0,0,0,0,0,0,2011-2012
+8470329,Chris Campoli,Defenseman,Montreal Canadiens,9,43,0,2,17:12,59,8,-3,0,0,0,0,0,0,2011-2012
+8470603,Andrei Kostitsyn,Forward,Montreal Canadiens,20,72,0,16,15:06,9,26,-1,0,0,0,0,0,0,2011-2012
+8471229,Petteri Nokelainen,Forward,Montreal Canadiens,4,56,0,3,8:48,10,37,-6,0,0,0,0,0,0,2011-2012
+8471296,Alexei Emelin,Defenseman,Montreal Canadiens,4,67,0,3,17:17,88,30,-18,0,0,0,0,0,0,2011-2012
+8471504,Rene Bourque,Forward,Montreal Canadiens,6,76,0,18,17:49,25,68,-19,0,0,0,0,0,0,2011-2012
+8471521,Brad Staubitz,Forward,Montreal Canadiens,0,62,0,1,6:31,20,121,-5,0,0,0,0,0,0,2011-2012
+8471663,Mike Blunden,Forward,Montreal Canadiens,2,39,0,2,9:21,15,27,-1,0,0,0,0,0,0,2011-2012
+8471976,David Desharnais,Forward,Montreal Canadiens,44,81,0,16,18:23,48,24,10,0,0,0,0,0,0,2011-2012
+8473466,Ryan White,Forward,Montreal Canadiens,3,20,0,0,14:31,17,61,-7,0,0,0,0,0,0,2011-2012
+8473608,Blake Geoffrion,Forward,Montreal Canadiens,3,35,0,2,11:02,13,27,0,0,0,0,0,0,0,2011-2012
+8473647,Frédéric St-Denis,Defenseman,Montreal Canadiens,2,17,0,1,14:31,21,10,3,0,0,0,0,0,0,2011-2012
+8474030,Aaron Palushaj,Forward,Montreal Canadiens,4,38,0,1,7:33,11,8,1,0,0,0,0,0,0,2011-2012
+8474056,P.K. Subban,Defenseman,Montreal Canadiens,29,81,0,7,24:18:00,113,119,9,0,0,0,0,0,0,2011-2012
+8474134,Yannick Weber,Defenseman,Montreal Canadiens,14,60,0,4,15:37,47,30,-7,0,0,0,0,0,0,2011-2012
+8474157,Max Pacioretty,Forward,Montreal Canadiens,32,79,0,33,18:15,39,56,2,0,0,0,0,0,0,2011-2012
+8474189,Lars Eller,Forward,Montreal Canadiens,12,79,0,16,15:18,55,66,-5,0,0,0,0,0,0,2011-2012
+8475183,Louis Leblanc,Forward,Montreal Canadiens,5,42,0,5,11:11,18,28,3,0,0,0,0,0,0,2011-2012
+8475254,Gabriel Dumont,Forward,Montreal Canadiens,0,3,0,0,8:33,1,0,-1,0,0,0,0,0,0,2011-2012
+8475372,Andreas Engqvist,Forward,Montreal Canadiens,0,12,0,0,6:35,5,4,-1,0,0,0,0,0,0,2011-2012
+8476244,Raphael Diaz,Defenseman,Montreal Canadiens,13,59,0,3,18:00,102,30,-7,0,0,0,0,0,0,2011-2012
+8469514,Peter Budaj,Goalie,Montreal Canadiens,0,17,17,0,60:59:00,0,0,0,5,7,2.545928,508,44,0,2011-2012
+8471679,Carey Price,Goalie,Montreal Canadiens,0,65,65,0,60:40:00,0,0,0,26,28,2.434015,1914,160,4,2011-2012
+8458951,Sergei Gonchar,Defenseman,Ottawa Senators,32,74,0,5,22:15,115,55,-4,0,0,0,0,0,0,2011-2012
+8460621,Daniel Alfredsson,Forward,Ottawa Senators,32,75,0,27,18:56,31,18,16,0,0,0,0,0,0,2011-2012
+8462225,Filip Kuba,Defenseman,Ottawa Senators,26,73,0,6,23:36,149,26,26,0,0,0,0,0,0,2011-2012
+8464956,Chris Phillips,Defenseman,Ottawa Senators,14,80,0,5,19:06,137,16,12,0,0,0,0,0,0,2011-2012
+8467493,Chris Neil,Forward,Ottawa Senators,15,72,0,13,12:47,20,178,-10,0,0,0,0,0,0,2011-2012
+8467931,Matt Carkner,Defenseman,Ottawa Senators,2,29,0,1,11:54,26,33,0,0,0,0,0,0,0,2011-2012
+8469455,Jason Spezza,Forward,Ottawa Senators,50,80,0,34,19:55,23,36,11,0,0,0,0,0,0,2011-2012
+8469820,Zenon Konopka,Forward,Ottawa Senators,2,55,0,3,7:50,18,193,-4,0,0,0,0,0,0,2011-2012
+8470599,Milan Michalek,Forward,Ottawa Senators,25,77,0,35,19:33,46,32,4,0,0,0,0,0,0,2011-2012
+8471299,Peter Regin,Forward,Ottawa Senators,2,10,0,2,14:05,3,2,3,0,0,0,0,0,0,2011-2012
+8471683,Brian Lee,Defenseman,Ottawa Senators,15,55,0,1,15:32,62,35,-8,0,0,0,0,0,0,2011-2012
+8471862,Colin Greening,Forward,Ottawa Senators,20,82,0,17,15:35,48,46,-4,0,0,0,0,0,0,2011-2012
+8473422,Nick Foligno,Forward,Ottawa Senators,32,82,0,15,14:38,30,124,2,0,0,0,0,0,0,2011-2012
+8473484,Kaspars Daugavins,Forward,Ottawa Senators,6,65,0,5,11:19,33,12,-2,0,0,0,0,0,0,2011-2012
+8473588,Erik Condra,Forward,Ottawa Senators,17,81,0,8,14:09,69,30,11,0,0,0,0,0,0,2011-2012
+8473970,Rob Klinkhammer,Forward,Ottawa Senators,2,15,0,0,11:26,3,2,0,0,0,0,0,0,0,2011-2012
+8474024,Jim O'Brien,Forward,Ottawa Senators,3,28,0,3,11:45,9,4,6,0,0,0,0,0,0,2011-2012
+8474068,Kyle Turris,Forward,Ottawa Senators,17,55,0,12,16:51,14,31,10,0,0,0,0,0,0,2011-2012
+8474250,Zack Smith,Forward,Ottawa Senators,12,81,0,14,14:04,43,98,4,0,0,0,0,0,0,2011-2012
+8474498,Jesse Winchester,Forward,Ottawa Senators,6,32,0,2,10:38,9,22,2,0,0,0,0,0,0,2011-2012
+8474566,Nikita Filatov,Forward,Ottawa Senators,1,9,0,0,9:49,1,4,1,0,0,0,0,0,0,2011-2012
+8474578,Erik Karlsson,Defenseman,Ottawa Senators,59,81,0,19,25:19:00,65,42,16,0,0,0,0,0,0,2011-2012
+8474670,Andre Petersson,Forward,Ottawa Senators,0,1,0,0,5:02,0,0,0,0,0,0,0,0,0,2011-2012
+8474697,Mark Borowiecki,Defenseman,Ottawa Senators,0,2,0,0,12:29,0,2,-1,0,0,0,0,0,0,2011-2012
+8474884,Mike Hoffman,Forward,Ottawa Senators,0,1,0,0,9:01,0,0,-1,0,0,0,0,0,0,2011-2012
+8475118,Matt Gilroy,Defenseman,Ottawa Senators,17,67,0,3,17:30,75,18,2,0,0,0,0,0,0,2011-2012
+8475174,Jared Cowen,Defenseman,Ottawa Senators,12,82,0,5,18:53,74,56,-4,0,0,0,0,0,0,2011-2012
+8475182,David Rundblad,Defenseman,Ottawa Senators,6,30,0,1,15:00,28,6,-12,0,0,0,0,0,0,2011-2012
+8475637,Bobby Butler,Forward,Ottawa Senators,10,56,0,6,11:28,13,12,8,0,0,0,0,0,0,2011-2012
+8476205,Stephane Da Costa,Forward,Ottawa Senators,2,22,0,3,12:09,13,8,-9,0,0,0,0,0,0,2011-2012
+8476459,Mika Zibanejad,Forward,Ottawa Senators,1,9,0,0,12:54,5,2,-3,0,0,0,0,0,0,2011-2012
+8467913,Alex Auld,Goalie,Ottawa Senators,0,14,8,0,46:04:00,0,0,0,2,4,3.348664,310,36,0,2011-2012
+8467950,Craig Anderson,Goalie,Ottawa Senators,0,63,60,0,55:26:00,0,0,0,33,22,2.834808,1917,165,3,2011-2012
+8471750,Ben Bishop,Goalie,Ottawa Senators,0,10,9,0,53:09:00,0,0,0,3,3,2.482836,243,22,0,2011-2012
+8475215,Robin Lehner,Goalie,Ottawa Senators,0,5,5,0,59:49:00,0,0,0,3,2,2.005906,154,10,1,2011-2012
+8467878,Tim Connolly,Forward,Toronto Maple Leafs,23,70,0,13,17:00,76,40,-14,0,0,0,0,0,0,2011-2012
+8468639,John-Michael Liles,Defenseman,Toronto Maple Leafs,20,66,0,7,21:20,111,20,-14,0,0,0,0,0,0,2011-2012
+8468695,Matthew Lombardi,Forward,Toronto Maple Leafs,10,62,0,8,13:34,34,10,-19,0,0,0,0,0,0,2011-2012
+8468778,Colton Orr,Forward,Toronto Maple Leafs,0,5,0,1,4:28,0,5,1,0,0,0,0,0,0,2011-2012
+8469460,Mike Komisarek,Defenseman,Toronto Maple Leafs,4,45,0,1,16:39,80,41,-13,0,0,0,0,0,0,2011-2012
+8469474,Colby Armstrong,Forward,Toronto Maple Leafs,2,29,0,1,9:19,5,9,-8,0,0,0,0,0,0,2011-2012
+8469483,David Steckel,Forward,Toronto Maple Leafs,5,76,0,8,12:49,66,10,-14,0,0,0,0,0,0,2011-2012
+8470156,Joey Crabb,Forward,Toronto Maple Leafs,15,67,0,11,13:26,34,33,1,0,0,0,0,0,0,2011-2012
+8470207,Joffrey Lupul,Forward,Toronto Maple Leafs,42,66,0,25,18:36,25,48,1,0,0,0,0,0,0,2011-2012
+8470602,Dion Phaneuf,Defenseman,Toronto Maple Leafs,32,82,0,12,25:17:00,127,92,-10,0,0,0,0,0,0,2011-2012
+8470667,Clarke MacArthur,Forward,Toronto Maple Leafs,23,73,0,20,15:50,21,37,3,0,0,0,0,0,0,2011-2012
+8470697,Philippe Dupuis,Forward,Toronto Maple Leafs,0,30,0,0,10:29,16,16,-2,0,0,0,0,0,0,2011-2012
+8470816,Jay Rosehill,Forward,Toronto Maple Leafs,0,31,0,0,5:54,5,60,-4,0,0,0,0,0,0,2011-2012
+8470986,Darryl Boyce,Forward,Toronto Maple Leafs,4,37,0,1,9:58,14,35,-8,0,0,0,0,0,0,2011-2012
+8471362,Mikhail Grabovski,Forward,Toronto Maple Leafs,28,74,0,23,17:36,32,51,0,0,0,0,0,0,0,2011-2012
+8471371,Mike Brown,Forward,Toronto Maple Leafs,2,50,0,2,9:16,24,74,-8,0,0,0,0,0,0,2011-2012
+8471742,Cody Franson,Defenseman,Toronto Maple Leafs,16,57,0,5,16:11,53,22,-1,0,0,0,0,0,0,2011-2012
+8472424,Ryan Hamilton,Forward,Toronto Maple Leafs,1,2,0,0,13:08,0,2,-1,0,0,0,0,0,0,2011-2012
+8473548,Phil Kessel,Forward,Toronto Maple Leafs,45,82,0,37,20:03,21,20,-10,0,0,0,0,0,0,2011-2012
+8473579,Nikolay Kulemin,Forward,Toronto Maple Leafs,21,70,0,7,15:13,43,6,2,0,0,0,0,0,0,2011-2012
+8474048,Keith Aulie,Defenseman,Toronto Maple Leafs,3,36,0,0,13:26,38,29,-7,0,0,0,0,0,0,2011-2012
+8474125,Carl Gunnarsson,Defenseman,Toronto Maple Leafs,15,76,0,4,21:42,152,20,-9,0,0,0,0,0,0,2011-2012
+8474192,Matt Frattin,Forward,Toronto Maple Leafs,7,56,0,8,13:09,12,25,-4,0,0,0,0,0,0,2011-2012
+8474568,Luke Schenn,Defenseman,Toronto Maple Leafs,20,79,0,2,16:02,115,62,-6,0,0,0,0,0,0,2011-2012
+8474577,Joe Colborne,Forward,Toronto Maple Leafs,4,10,0,1,13:41,8,4,2,0,0,0,0,0,0,2011-2012
+8474581,Jake Gardiner,Defenseman,Toronto Maple Leafs,23,75,0,7,21:35,90,18,-2,0,0,0,0,0,0,2011-2012
+8475098,Tyler Bozak,Forward,Toronto Maple Leafs,29,73,0,18,18:50,34,22,-7,0,0,0,0,0,0,2011-2012
+8475154,Carter Ashton,Forward,Toronto Maple Leafs,0,15,0,0,10:25,2,13,-10,0,0,0,0,0,0,2011-2012
+8475172,Nazem Kadri,Forward,Toronto Maple Leafs,2,21,0,5,14:09,5,8,2,0,0,0,0,0,0,2011-2012
+8473503,James Reimer,Goalie,Toronto Maple Leafs,0,34,34,0,55:16:00,0,0,0,14,14,3.09698,974,97,3,2011-2012
+8475361,Jonas Gustavsson,Goalie,Toronto Maple Leafs,0,42,36,0,54:46:00,0,0,0,17,17,2.92085,1147,112,4,2011-2012
+8475680,Jussi Rynnas,Goalie,Toronto Maple Leafs,0,2,1,0,49:27:00,0,0,0,0,1,4.246714,40,7,0,2011-2012
+8475681,Ben Scrivens,Goalie,Toronto Maple Leafs,0,12,11,0,55:58:00,0,0,0,4,5,3.126784,359,35,0,2011-2012
+8465200,Tomas Kaberle,Defenseman,Carolina Hurricanes,28,72,0,3,17:43,80,12,-18,0,0,0,0,0,0,2011-2012
+8467332,Bryan Allen,Defenseman,Carolina Hurricanes,13,82,0,1,19:09,188,76,-1,0,0,0,0,0,0,2011-2012
+8467412,Alexei Ponikarovsky,Forward,Carolina Hurricanes,19,82,0,14,14:44,36,34,-3,0,0,0,0,0,0,2011-2012
+8467439,Jaroslav Spacek,Defenseman,Carolina Hurricanes,10,46,0,5,16:05,68,8,6,0,0,0,0,0,0,2011-2012
+8469462,Tuomo Ruutu,Forward,Carolina Hurricanes,16,72,0,18,16:27,24,50,-3,0,0,0,0,0,0,2011-2012
+8469476,Tim Gleason,Defenseman,Carolina Hurricanes,17,82,0,1,20:42,112,71,12,0,0,0,0,0,0,2011-2012
+8469531,Jay Harrison,Defenseman,Carolina Hurricanes,14,72,0,9,20:33,153,60,-10,0,0,0,0,0,0,2011-2012
+8469638,Jussi Jokinen,Forward,Carolina Hurricanes,34,79,0,12,17:40,48,54,-2,0,0,0,0,0,0,2011-2012
+8469812,Chad LaRose,Forward,Carolina Hurricanes,13,67,0,19,16:45,15,48,-15,0,0,0,0,0,0,2011-2012
+8470137,Joni Pitkanen,Defenseman,Carolina Hurricanes,12,30,0,5,22:18,43,16,-15,0,0,0,0,0,0,2011-2012
+8470283,Tim Brent,Forward,Carolina Hurricanes,12,79,0,12,10:53,33,27,-8,0,0,0,0,0,0,2011-2012
+8470302,Patrick Dwyer,Forward,Carolina Hurricanes,7,73,0,5,15:22,62,23,0,0,0,0,0,0,0,2011-2012
+8470595,Eric Staal,Forward,Carolina Hurricanes,46,82,0,24,21:32,35,48,-20,0,0,0,0,0,0,2011-2012
+8470618,Anthony Stewart,Forward,Carolina Hurricanes,11,77,0,9,8:07,15,30,-2,0,0,0,0,0,0,2011-2012
+8471810,Derek Joslin,Defenseman,Carolina Hurricanes,2,44,0,2,10:35,30,35,-15,0,0,0,0,0,0,2011-2012
+8471840,Brett Sutter,Forward,Carolina Hurricanes,3,15,0,0,7:34,1,11,-1,0,0,0,0,0,0,2011-2012
+8473482,Jiri Tlusty,Forward,Carolina Hurricanes,19,79,0,17,14:54,57,26,1,0,0,0,0,0,0,2011-2012
+8473568,Andreas Nodl,Forward,Carolina Hurricanes,5,60,0,3,11:42,17,8,-5,0,0,0,0,0,0,2011-2012
+8473571,Jamie McBain,Defenseman,Carolina Hurricanes,19,76,0,8,19:47,106,4,-7,0,0,0,0,0,0,2011-2012
+8473610,Bobby Sanguinetti,Defenseman,Carolina Hurricanes,0,3,0,0,11:56,2,0,0,0,0,0,0,0,0,2011-2012
+8474062,Riley Nash,Forward,Carolina Hurricanes,1,5,0,0,10:34,1,2,1,0,0,0,0,0,0,2011-2012
+8474091,Brandon Sutter,Forward,Carolina Hurricanes,15,82,0,17,17:23,85,21,-3,0,0,0,0,0,0,2011-2012
+8474137,Drayson Bowman,Forward,Carolina Hurricanes,7,37,0,6,13:21,10,4,2,0,0,0,0,0,0,2011-2012
+8474220,Jerome Samson,Forward,Carolina Hurricanes,3,16,0,2,12:16,5,8,-3,0,0,0,0,0,0,2011-2012
+8474576,Zach Boychuk,Forward,Carolina Hurricanes,2,16,0,0,8:55,2,0,-3,0,0,0,0,0,0,2011-2012
+8474610,Zac Dalpe,Forward,Carolina Hurricanes,2,16,0,1,9:35,4,4,-3,0,0,0,0,0,0,2011-2012
+8475753,Justin Faulk,Defenseman,Carolina Hurricanes,14,66,0,8,22:50,85,29,-16,0,0,0,0,0,0,2011-2012
+8475784,Jeff Skinner,Forward,Carolina Hurricanes,24,64,0,20,18:37,15,56,-8,0,0,0,0,0,0,2011-2012
+8476819,Jeremy Welsh,Forward,Carolina Hurricanes,0,1,0,0,16:32,0,4,0,0,0,0,0,0,0,2011-2012
+8462052,Brian Boucher,Goalie,Carolina Hurricanes,0,10,8,0,54:38:00,0,0,0,1,6,3.404411,260,31,0,2011-2012
+8470320,Cam Ward,Goalie,Carolina Hurricanes,0,68,68,0,58:38:00,0,0,0,30,23,2.73818,2143,182,5,2011-2012
+8471251,Justin Peters,Goalie,Carolina Hurricanes,0,7,6,0,55:17:00,0,0,0,2,3,2.480193,233,16,1,2011-2012
+8474729,Mike Murphy,Goalie,Carolina Hurricanes,0,2,0,0,18:03,0,0,0,0,1,0,9,0,0,2011-2012
+8460492,Ed Jovanovski,Defenseman,Florida Panthers,10,66,0,3,16:41,73,31,-11,0,0,0,0,0,0,2011-2012
+8464979,Marco Sturm,Forward,Florida Panthers,2,48,0,3,12:18,14,25,-13,0,0,0,0,0,0,2011-2012
+8465059,Matt Bradley,Forward,Florida Panthers,5,45,0,3,10:52,11,31,-3,0,0,0,0,0,0,2011-2012
+8466285,Brian Campbell,Defenseman,Florida Panthers,49,82,0,4,26:53:00,118,6,-9,0,0,0,0,0,0,2011-2012
+8466371,John Madden,Forward,Florida Panthers,0,31,0,3,11:58,12,4,-4,0,0,0,0,0,0,2011-2012
+8467428,Krys Barch,Forward,Florida Panthers,3,51,0,2,7:21,10,114,0,0,0,0,0,0,0,2011-2012
+8467463,Mikael Samuelsson,Forward,Florida Panthers,17,54,0,14,15:56,11,20,1,0,0,0,0,0,0,2011-2012
+8467910,Nolan Yonkman,Defenseman,Florida Panthers,0,1,0,0,6:19,0,0,0,0,0,0,0,0,0,2011-2012
+8468162,Jerred Smithson,Forward,Florida Panthers,5,69,0,1,11:42,43,34,-5,0,0,0,0,0,0,2011-2012
+8468478,Mike Weaver,Defenseman,Florida Panthers,16,82,0,0,20:19,137,14,-2,0,0,0,0,0,0,2011-2012
+8468518,Tomas Kopecky,Forward,Florida Panthers,22,80,0,10,17:16,35,32,-8,0,0,0,0,0,0,2011-2012
+8469457,Stephen Weiss,Forward,Florida Panthers,37,80,0,20,20:30,61,60,5,0,0,0,0,0,0,2011-2012
+8469473,Marcel Goc,Forward,Florida Panthers,16,57,0,11,17:37,23,10,5,0,0,0,0,0,0,2011-2012
+8470005,Mark Cullen,Forward,Florida Panthers,1,6,0,0,7:59,1,2,2,0,0,0,0,0,0,2011-2012
+8470039,Tomas Fleischmann,Forward,Florida Panthers,34,82,0,27,19:05,33,26,-7,0,0,0,0,0,0,2011-2012
+8470105,Scottie Upshall,Forward,Florida Panthers,3,26,0,2,12:43,2,29,-3,0,0,0,0,0,0,2011-2012
+8470176,Sean Bergenheim,Forward,Florida Panthers,6,62,0,17,16:24,21,48,-5,0,0,0,0,0,0,2011-2012
+8470729,Tyson Strachan,Defenseman,Florida Panthers,2,15,0,1,14:20,21,5,1,0,0,0,0,0,0,2011-2012
+8471234,Wojtek Wolski,Forward,Florida Panthers,8,31,0,4,13:45,5,2,-5,0,0,0,0,0,0,2011-2012
+8471266,David Booth,Forward,Florida Panthers,14,62,0,16,14:55,13,34,-5,0,0,0,0,0,0,2011-2012
+8471346,Kris Versteeg,Forward,Florida Panthers,31,71,0,23,19:54,19,49,4,0,0,0,0,0,0,2011-2012
+8471390,Mike Santorelli,Forward,Florida Panthers,2,60,0,9,12:24,17,18,-10,0,0,0,0,0,0,2011-2012
+8471681,Jack Skille,Forward,Florida Panthers,6,46,0,4,11:57,16,28,-9,0,0,0,0,0,0,2011-2012
+8471842,Tim Kennedy,Forward,Florida Panthers,1,27,0,1,11:08,11,4,-11,0,0,0,0,0,0,2011-2012
+8471996,Bracken Kearns,Forward,Florida Panthers,0,5,0,0,7:14,1,10,0,0,0,0,0,0,0,2011-2012
+8472361,Bill Thomas,Forward,Florida Panthers,0,7,0,1,8:44,1,0,0,0,0,0,0,0,0,2011-2012
+8473444,Jon Matsumoto,Forward,Florida Panthers,0,1,0,0,5:04,0,0,0,0,0,0,0,0,0,2011-2012
+8473574,Shawn Matthias,Forward,Florida Panthers,14,79,0,10,13:48,38,49,-2,0,0,0,0,0,0,2011-2012
+8473646,Ryan Carter,Forward,Florida Panthers,4,72,0,4,10:21,25,90,-13,0,0,0,0,0,0,2011-2012
+8473867,Greg Rallo,Forward,Florida Panthers,0,1,0,0,3:31,0,0,0,0,0,0,0,0,0,2011-2012
+8474149,Evgenii Dadonov,Forward,Florida Panthers,1,15,0,2,10:02,1,2,-4,0,0,0,0,0,0,2011-2012
+8474153,Michal Repik,Forward,Florida Panthers,3,17,0,2,10:21,1,6,-3,0,0,0,0,0,0,2011-2012
+8474184,Keaton Ellerby,Defenseman,Florida Panthers,5,40,0,0,15:23,75,10,-3,0,0,0,0,0,0,2011-2012
+8474520,Jason Garrison,Defenseman,Florida Panthers,17,77,0,16,23:41,124,32,6,0,0,0,0,0,0,2011-2012
+8474606,Colby Robak,Defenseman,Florida Panthers,0,3,0,0,12:34,2,0,1,0,0,0,0,0,0,2011-2012
+8475179,Dmitry Kulikov,Defenseman,Florida Panthers,24,58,0,4,21:51,74,36,-5,0,0,0,0,0,0,2011-2012
+8475790,Erik Gudbranson,Defenseman,Florida Panthers,6,72,0,2,14:11,73,78,-19,0,0,0,0,0,0,2011-2012
+8460535,Jose Theodore,Goalie,Florida Panthers,0,53,51,0,57:32:00,0,0,0,22,16,2.45946,1502,125,3,2011-2012
+8466339,Scott Clemmensen,Goalie,Florida Panthers,0,30,25,0,52:11:00,0,0,0,14,6,2.567268,773,67,1,2011-2012
+8471822,Brian Foster,Goalie,Florida Panthers,0,1,0,0,4:52,0,0,0,0,0,0,1,0,0,2011-2012
+8474593,Jacob Markstrom,Goalie,Florida Panthers,0,7,6,0,54:45:00,0,0,0,2,4,2.661448,222,17,0,2011-2012
+8465122,Brett Clark,Defenseman,Tampa Bay Lightning,13,82,0,2,18:22,199,20,-26,0,0,0,0,0,0,2011-2012
+8465210,Pavel Kubina,Defenseman,Tampa Bay Lightning,12,69,0,3,19:16,119,74,-2,0,0,0,0,0,0,2011-2012
+8466142,Eric Brewer,Defenseman,Tampa Bay Lightning,20,82,0,1,23:16,176,49,-5,0,0,0,0,0,0,2011-2012
+8466378,Martin St. Louis,Forward,Tampa Bay Lightning,49,77,0,25,22:37,39,16,-3,0,0,0,0,0,0,2011-2012
+8467329,Vincent Lecavalier,Forward,Tampa Bay Lightning,27,64,0,22,18:55,31,50,-2,0,0,0,0,0,0,2011-2012
+8467915,Mike Commodore,Defenseman,Tampa Bay Lightning,2,30,0,0,12:36,32,38,7,0,0,0,0,0,0,2011-2012
+8467925,Adam Hall,Forward,Tampa Bay Lightning,5,57,0,2,11:51,30,17,-11,0,0,0,0,0,0,2011-2012
+8467988,Ryan Malone,Forward,Tampa Bay Lightning,28,68,0,20,17:41,36,92,-11,0,0,0,0,0,0,2011-2012
+8468575,Dominic Moore,Forward,Tampa Bay Lightning,21,79,0,4,15:32,23,54,-18,0,0,0,0,0,0,2011-2012
+8469755,Brandon Segal,Forward,Tampa Bay Lightning,0,10,0,0,6:35,5,4,-2,0,0,0,0,0,0,2011-2012
+8469765,Marc-Andre Bergeron,Defenseman,Tampa Bay Lightning,20,43,0,4,19:21,43,20,6,0,0,0,0,0,0,2011-2012
+8470774,Bruno Gervais,Defenseman,Tampa Bay Lightning,7,50,0,6,14:16,63,8,-4,0,0,0,0,0,0,2011-2012
+8470775,Nate Thompson,Forward,Tampa Bay Lightning,6,68,0,9,14:49,56,21,-23,0,0,0,0,0,0,2011-2012
+8471312,JT Wyman,Forward,Tampa Bay Lightning,9,40,0,2,10:32,15,8,1,0,0,0,0,0,0,2011-2012
+8471634,Ryan Shannon,Forward,Tampa Bay Lightning,8,45,0,4,12:01,15,10,-11,0,0,0,0,0,0,2011-2012
+8471668,Mattias Ritola,Forward,Tampa Bay Lightning,0,5,0,0,10:50,1,6,-2,0,0,0,0,0,0,2011-2012
+8471683,Brian Lee,Defenseman,Tampa Bay Lightning,15,55,0,1,15:32,62,35,-8,0,0,0,0,0,0,2011-2012
+8471703,Steve Downie,Forward,Tampa Bay Lightning,27,75,0,14,15:55,25,137,-6,0,0,0,0,0,0,2011-2012
+8471705,Brendan Mikkelson,Defenseman,Tampa Bay Lightning,2,41,0,1,14:24,44,13,-4,0,0,0,0,0,0,2011-2012
+8471767,Blair Jones,Forward,Tampa Bay Lightning,5,43,0,3,11:21,29,18,-1,0,0,0,0,0,0,2011-2012
+8471768,Tom Pyatt,Forward,Tampa Bay Lightning,7,74,0,12,14:47,52,8,-19,0,0,0,0,0,0,2011-2012
+8471916,Mike Angelidis,Forward,Tampa Bay Lightning,0,6,0,1,6:29,2,5,-1,0,0,0,0,0,0,2011-2012
+8473734,Tim Wallace,Forward,Tampa Bay Lightning,6,49,0,3,8:35,11,16,-3,0,0,0,0,0,0,2011-2012
+8473942,Trevor Smith,Forward,Tampa Bay Lightning,3,16,0,2,12:27,7,4,2,0,0,0,0,0,0,2011-2012
+8473962,Teddy Purcell,Forward,Tampa Bay Lightning,41,81,0,24,16:07,11,16,9,0,0,0,0,0,0,2011-2012
+8474048,Keith Aulie,Defenseman,Tampa Bay Lightning,3,36,0,0,13:26,38,29,-7,0,0,0,0,0,0,2011-2012
+8474095,Dana Tyrell,Forward,Tampa Bay Lightning,5,26,0,0,10:30,15,6,-5,0,0,0,0,0,0,2011-2012
+8474201,Pierre-Cedric Labrie,Forward,Tampa Bay Lightning,2,14,0,0,5:54,5,15,-2,0,0,0,0,0,0,2011-2012
+8474564,Steven Stamkos,Forward,Tampa Bay Lightning,37,82,0,60,22:01,37,66,7,0,0,0,0,0,0,2011-2012
+8475104,Evan Oberg,Defenseman,Tampa Bay Lightning,0,3,0,0,9:50,0,0,2,0,0,0,0,0,0,2011-2012
+8475118,Matt Gilroy,Defenseman,Tampa Bay Lightning,17,67,0,3,17:30,75,18,2,0,0,0,0,0,0,2011-2012
+8475167,Victor Hedman,Defenseman,Tampa Bay Lightning,18,61,0,5,23:05,127,65,-9,0,0,0,0,0,0,2011-2012
+8475792,Brett Connolly,Forward,Tampa Bay Lightning,11,68,0,4,11:28,19,30,-9,0,0,0,0,0,0,2011-2012
+8476806,JT Brown,Forward,Tampa Bay Lightning,1,5,0,0,13:51,3,0,2,0,0,0,0,0,0,2011-2012
+8460806,Dwayne Roloson,Goalie,Tampa Bay Lightning,0,40,31,0,52:27:00,0,0,0,13,16,3.659728,1126,128,1,2011-2012
+8464999,Mathieu Garon,Goalie,Tampa Bay Lightning,0,48,44,0,51:44:00,0,0,0,23,16,2.850528,1191,118,1,2011-2012
+8467959,Sebastien Caron,Goalie,Tampa Bay Lightning,0,3,2,0,44:53:00,0,0,0,1,1,3.118812,57,7,0,2011-2012
+8474682,Dustin Tokarski,Goalie,Tampa Bay Lightning,0,5,5,0,48:43:00,0,0,0,1,3,3.448512,116,14,0,2011-2012
+8458590,Mike Knuble,Forward,Washington Capitals,12,72,0,6,13:56,45,32,-15,0,0,0,0,0,0,2011-2012
+8458938,Roman Hamrlik,Defenseman,Washington Capitals,11,68,0,2,19:13,149,34,11,0,0,0,0,0,0,2011-2012
+8466251,Jason Chimera,Forward,Washington Capitals,19,82,0,20,14:25,27,78,4,0,0,0,0,0,0,2011-2012
+8467365,John Erskine,Defenseman,Washington Capitals,2,28,0,0,12:05,27,51,3,0,0,0,0,0,0,2011-2012
+8467831,Jeff Halpern,Forward,Washington Capitals,12,69,0,4,12:36,44,24,-1,0,0,0,0,0,0,2011-2012
+8468208,Joel Ward,Forward,Washington Capitals,12,73,0,6,12:25,41,20,12,0,0,0,0,0,0,2011-2012
+8468611,Matt Hendricks,Forward,Washington Capitals,5,78,0,4,12:07,52,95,-6,0,0,0,0,0,0,2011-2012
+8469639,Brooks Laich,Forward,Washington Capitals,25,82,0,16,18:29,92,34,-8,0,0,0,0,0,0,2011-2012
+8469770,Dennis Wideman,Defenseman,Washington Capitals,35,82,0,11,23:54,132,46,-8,0,0,0,0,0,0,2011-2012
+8469779,Keith Aucoin,Forward,Washington Capitals,8,27,0,3,11:03,7,0,4,0,0,0,0,0,0,2011-2012
+8470120,Alexander Semin,Forward,Washington Capitals,33,77,0,21,16:47,19,58,9,0,0,0,0,0,0,2011-2012
+8470294,DJ King,Forward,Washington Capitals,0,1,0,0,6:58,0,0,0,0,0,0,0,0,0,2011-2012
+8471214,Alex Ovechkin,Forward,Washington Capitals,27,78,0,38,19:48,42,26,-8,0,0,0,0,0,0,2011-2012
+8471240,Jeff Schultz,Defenseman,Washington Capitals,5,54,0,1,15:17,58,12,-2,0,0,0,0,0,0,2011-2012
+8471242,Mike Green,Defenseman,Washington Capitals,4,32,0,3,21:02,44,12,5,0,0,0,0,0,0,2011-2012
+8471426,Troy Brouwer,Forward,Washington Capitals,15,82,0,18,17:10,60,61,-15,0,0,0,0,0,0,2011-2012
+8473563,Nicklas Backstrom,Forward,Washington Capitals,30,42,0,14,19:09,25,24,-4,0,0,0,0,0,0,2011-2012
+8473618,Mathieu Perreault,Forward,Washington Capitals,14,64,0,16,12:01,29,24,9,0,0,0,0,0,0,2011-2012
+8473913,Sean Collins,Defenseman,Washington Capitals,0,2,0,0,10:56,1,0,-1,0,0,0,0,0,0,2011-2012
+8473991,Karl Alzner,Defenseman,Washington Capitals,16,82,0,1,20:52,139,29,12,0,0,0,0,0,0,2011-2012
+8474163,Kevin Marshall,Defenseman,Washington Capitals,0,10,0,0,8:45,4,8,-1,0,0,0,0,0,0,2011-2012
+8474291,Jay Beagle,Forward,Washington Capitals,1,41,0,4,11:51,23,23,-2,0,0,0,0,0,0,2011-2012
+8474383,Joel Rechlicz,Forward,Washington Capitals,0,3,0,0,1:58,0,10,0,0,0,0,0,0,0,2011-2012
+8474590,John Carlson,Defenseman,Washington Capitals,23,82,0,9,21:51,153,22,-15,0,0,0,0,0,0,2011-2012
+8474649,Tomas Kundratek,Defenseman,Washington Capitals,0,5,0,0,9:45,4,2,0,0,0,0,0,0,0,2011-2012
+8475149,Marcus Johansson,Forward,Washington Capitals,32,80,0,14,16:48,28,8,-5,0,0,0,0,0,0,2011-2012
+8475200,Dmitry Orlov,Defenseman,Washington Capitals,16,60,0,3,16:52,54,18,1,0,0,0,0,0,0,2011-2012
+8475236,Cody Eakin,Forward,Washington Capitals,4,30,0,4,9:16,7,4,2,0,0,0,0,0,0,2011-2012
+8460712,Tomas Vokoun,Goalie,Washington Capitals,0,48,46,0,53:48:00,0,0,0,25,17,2.508565,1299,108,4,2011-2012
+8473607,Michal Neuvirth,Goalie,Washington Capitals,0,38,30,0,53:09:00,0,0,0,13,13,2.821712,976,95,3,2011-2012
+8474651,Braden Holtby,Goalie,Washington Capitals,0,7,6,0,51:30:00,0,0,0,4,2,2.496071,192,15,1,2011-2012
+8458637,Sean O'Donnell,Defenseman,Chicago Blackhawks,7,51,0,0,13:30,44,23,-6,0,0,0,0,0,0,2011-2012
+8459461,Brendan Morrison,Forward,Chicago Blackhawks,7,39,0,4,13:21,21,12,-5,0,0,0,0,0,0,2011-2012
+8459514,Jamal Mayers,Forward,Chicago Blackhawks,9,81,0,6,9:48,25,91,-4,0,0,0,0,0,0,2011-2012
+8459596,Andrew Brunette,Forward,Chicago Blackhawks,15,78,0,12,13:32,15,4,-13,0,0,0,0,0,0,2011-2012
+8466148,Marian Hossa,Forward,Chicago Blackhawks,48,81,0,29,19:57,40,20,18,0,0,0,0,0,0,2011-2012
+8468927,Steve Montador,Defenseman,Chicago Blackhawks,9,52,0,5,14:45,46,45,4,0,0,0,0,0,0,2011-2012
+8469544,Patrick Sharp,Forward,Chicago Blackhawks,36,74,0,33,19:53,18,38,28,0,0,0,0,0,0,2011-2012
+8469665,Johnny Oduya,Defenseman,Chicago Blackhawks,15,81,0,3,20:27,140,33,-6,0,0,0,0,0,0,2011-2012
+8470281,Duncan Keith,Defenseman,Chicago Blackhawks,36,74,0,4,26:53:00,121,42,15,0,0,0,0,0,0,2011-2012
+8470607,Brent Seabrook,Defenseman,Chicago Blackhawks,25,78,0,9,24:43:00,165,22,21,0,0,0,0,0,0,2011-2012
+8470666,Daniel Carcillo,Forward,Chicago Blackhawks,9,28,0,2,11:24,9,82,10,0,0,0,0,0,0,2011-2012
+8471220,Rostislav Olesz,Forward,Chicago Blackhawks,0,6,0,0,9:06,1,6,-1,0,0,0,0,0,0,2011-2012
+8471245,Dave Bolland,Forward,Chicago Blackhawks,18,76,0,19,16:30,38,47,0,0,0,0,0,0,0,2011-2012
+8471254,Bryan Bickell,Forward,Chicago Blackhawks,15,71,0,9,12:08,23,48,-3,0,0,0,0,0,0,2011-2012
+8471279,Sami Lepisto,Defenseman,Chicago Blackhawks,2,26,0,1,10:33,9,4,3,0,0,0,0,0,0,2011-2012
+8471769,Niklas Hjalmarsson,Defenseman,Chicago Blackhawks,14,69,0,1,20:10,142,14,9,0,0,0,0,0,0,2011-2012
+8473537,Viktor Stalberg,Forward,Chicago Blackhawks,21,79,0,22,14:04,24,34,6,0,0,0,0,0,0,2011-2012
+8473564,Michael Frolik,Forward,Chicago Blackhawks,10,63,0,5,12:52,32,22,-10,0,0,0,0,0,0,2011-2012
+8473604,Jonathan Toews,Forward,Chicago Blackhawks,28,59,0,29,20:50,14,28,17,0,0,0,0,0,0,2011-2012
+8473722,John Scott,Forward,Chicago Blackhawks,1,35,0,0,6:42,10,53,-1,0,0,0,0,0,0,2011-2012
+8474141,Patrick Kane,Forward,Chicago Blackhawks,43,82,0,23,20:11,27,40,7,0,0,0,0,0,0,2011-2012
+8474625,Jimmy Hayes,Forward,Chicago Blackhawks,4,31,0,5,10:14,6,16,-3,0,0,0,0,0,0,2011-2012
+8474727,Ben Smith,Forward,Chicago Blackhawks,0,13,0,2,9:48,5,0,-5,0,0,0,0,0,0,2011-2012
+8475153,Dylan Olsen,Defenseman,Chicago Blackhawks,1,28,0,0,13:01,23,6,-5,0,0,0,0,0,0,2011-2012
+8475181,Nick Leddy,Defenseman,Chicago Blackhawks,34,82,0,3,22:04,78,10,-12,0,0,0,0,0,0,2011-2012
+8475204,Brandon Pirri,Forward,Chicago Blackhawks,2,5,0,0,13:31,2,0,2,0,0,0,0,0,0,2011-2012
+8475214,Jeremy Morin,Forward,Chicago Blackhawks,0,3,0,0,8:51,0,0,-1,0,0,0,0,0,0,2011-2012
+8475323,Marcus Kruger,Forward,Chicago Blackhawks,17,71,0,9,15:23,36,22,11,0,0,0,0,0,0,2011-2012
+8475650,Brandon Bollig,Forward,Chicago Blackhawks,0,18,0,0,5:53,6,58,-2,0,0,0,0,0,0,2011-2012
+8476381,Andrew Shaw,Forward,Chicago Blackhawks,11,37,0,12,15:12,21,50,-1,0,0,0,0,0,0,2011-2012
+8476438,Brandon Saad,Forward,Chicago Blackhawks,0,2,0,0,14:01,1,0,0,0,0,0,0,0,0,2011-2012
+8469548,Ray Emery,Goalie,Chicago Blackhawks,0,34,27,0,52:10:00,0,0,0,15,9,2.807558,834,83,0,2011-2012
+8470645,Corey Crawford,Goalie,Chicago Blackhawks,0,57,55,0,56:27:00,0,0,0,30,17,2.722004,1507,146,0,2011-2012
+8457063,Nicklas Lidstrom,Defenseman,Detroit Red Wings,23,70,0,11,23:46,79,28,21,0,0,0,0,0,0,2011-2012
+8459444,Todd Bertuzzi,Forward,Detroit Red Wings,24,71,0,14,15:33,23,64,23,0,0,0,0,0,0,2011-2012
+8460743,Tomas Holmstrom,Forward,Detroit Red Wings,13,74,0,11,11:52,6,40,-9,0,0,0,0,0,0,2011-2012
+8466149,Daniel Cleary,Forward,Detroit Red Wings,21,75,0,12,15:58,33,30,2,0,0,0,0,0,0,2011-2012
+8467331,Brad Stuart,Defenseman,Detroit Red Wings,15,81,0,6,21:03,115,29,16,0,0,0,0,0,0,2011-2012
+8467514,Pavel Datsyuk,Forward,Detroit Red Wings,48,70,0,19,19:34,31,14,21,0,0,0,0,0,0,2011-2012
+8467915,Mike Commodore,Defenseman,Detroit Red Wings,2,30,0,0,12:36,32,38,7,0,0,0,0,0,0,2011-2012
+8467928,Doug Janik,Defenseman,Detroit Red Wings,1,9,0,0,14:30,6,6,2,0,0,0,0,0,0,2011-2012
+8468083,Henrik Zetterberg,Forward,Detroit Red Wings,47,82,0,22,19:50,26,47,14,0,0,0,0,0,0,2011-2012
+8468509,Niklas Kronwall,Defenseman,Detroit Red Wings,21,82,0,15,22:51,177,38,-2,0,0,0,0,0,0,2011-2012
+8470047,Valtteri Filppula,Forward,Detroit Red Wings,43,81,0,23,18:15,23,14,18,0,0,0,0,0,0,2011-2012
+8470201,Jiri Hudler,Forward,Detroit Red Wings,25,81,0,25,15:40,15,42,10,0,0,0,0,0,0,2011-2012
+8470273,Ian White,Defenseman,Detroit Red Wings,25,77,0,7,22:58,92,22,23,0,0,0,0,0,0,2011-2012
+8470318,Jonathan Ericsson,Defenseman,Detroit Red Wings,10,69,0,1,17:05,43,47,16,0,0,0,0,0,0,2011-2012
+8470622,Patrick Eaves,Forward,Detroit Red Wings,1,10,0,0,11:02,7,2,0,0,0,0,0,0,0,2011-2012
+8470724,Kyle Quincey,Defenseman,Detroit Red Wings,19,72,0,7,21:51,94,89,-1,0,0,0,0,0,0,2011-2012
+8470778,Drew Miller,Forward,Detroit Red Wings,11,80,0,14,12:52,66,20,6,0,0,0,0,0,0,2011-2012
+8471309,Johan Franzen,Forward,Detroit Red Wings,27,77,0,29,17:42,30,40,23,0,0,0,0,0,0,2011-2012
+8471693,Jakub Kindl,Defenseman,Detroit Red Wings,12,55,0,1,14:03,32,25,7,0,0,0,0,0,0,2011-2012
+8471716,Justin Abdelkader,Forward,Detroit Red Wings,14,81,0,8,12:18,42,62,4,0,0,0,0,0,0,2011-2012
+8471794,Darren Helm,Forward,Detroit Red Wings,17,68,0,9,14:30,27,12,5,0,0,0,0,0,0,2011-2012
+8472368,Chris Conner,Forward,Detroit Red Wings,2,8,0,1,10:33,3,0,2,0,0,0,0,0,0,2011-2012
+8473558,Cory Emmerton,Forward,Detroit Red Wings,4,71,0,6,8:06,31,14,1,0,0,0,0,0,0,2011-2012
+8473569,Jan Mursak,Forward,Detroit Red Wings,2,25,0,1,7:33,11,0,2,0,0,0,0,0,0,2011-2012
+8474090,Brendan Smith,Defenseman,Detroit Red Wings,6,14,0,1,15:37,8,13,3,0,0,0,0,0,0,2011-2012
+8474168,Joakim Andersson,Forward,Detroit Red Wings,0,5,0,0,6:40,1,0,1,0,0,0,0,0,0,2011-2012
+8474552,Fabian Brunnstrom,Forward,Detroit Red Wings,1,5,0,0,9:03,1,4,-2,0,0,0,0,0,0,2011-2012
+8474679,Gustav Nyquist,Forward,Detroit Red Wings,6,18,0,1,10:35,0,2,2,0,0,0,0,0,0,2011-2012
+8475772,Riley Sheahan,Forward,Detroit Red Wings,0,1,0,0,6:03,1,4,0,0,0,0,0,0,0,2011-2012
+8469152,Ty Conklin,Goalie,Detroit Red Wings,0,15,13,0,53:38:00,0,0,0,5,6,3.281269,378,44,1,2011-2012
+8469732,Joey MacDonald,Goalie,Detroit Red Wings,0,14,12,0,57:32:00,0,0,0,8,5,2.160015,330,29,0,2011-2012
+8470657,Jimmy Howard,Goalie,Detroit Red Wings,0,57,57,0,58:57:00,0,0,0,35,17,2.124821,1496,119,6,2011-2012
+8459628,Hal Gill,Defenseman,Nashville Predators,12,76,0,1,17:08,161,37,-3,0,0,0,0,0,0,2011-2012
+8465914,Francis Bouillon,Defenseman,Nashville Predators,7,66,0,4,17:32,65,33,-4,0,0,0,0,0,0,2011-2012
+8467330,David Legwand,Forward,Nashville Predators,34,78,0,19,18:31,29,26,3,0,0,0,0,0,0,2011-2012
+8467370,Mike Fisher,Forward,Nashville Predators,27,72,0,24,19:17,76,33,11,0,0,0,0,0,0,2011-2012
+8467977,Brian McGrattan,Forward,Nashville Predators,2,30,0,0,5:19,3,61,-1,0,0,0,0,0,0,2011-2012
+8468064,Martin Erat,Forward,Nashville Predators,39,71,0,19,18:28,37,30,12,0,0,0,0,0,0,2011-2012
+8468162,Jerred Smithson,Forward,Nashville Predators,5,69,0,1,11:42,43,34,-5,0,0,0,0,0,0,2011-2012
+8468700,Paul Gaustad,Forward,Nashville Predators,14,70,0,7,14:46,47,76,-1,0,0,0,0,0,0,2011-2012
+8469547,Jordin Tootoo,Forward,Nashville Predators,24,77,0,6,13:09,17,92,-5,0,0,0,0,0,0,2011-2012
+8470600,Ryan Suter,Defenseman,Nashville Predators,39,79,0,7,26:30:00,116,30,15,0,0,0,0,0,0,2011-2012
+8470603,Andrei Kostitsyn,Forward,Nashville Predators,20,72,0,16,15:06,9,26,-1,0,0,0,0,0,0,2011-2012
+8470630,Kevin Klein,Defenseman,Nashville Predators,17,66,0,4,19:56,151,4,-8,0,0,0,0,0,0,2011-2012
+8470642,Shea Weber,Defenseman,Nashville Predators,30,78,0,19,26:09:00,140,46,21,0,0,0,0,0,0,2011-2012
+8470687,Zack Stortini,Forward,Nashville Predators,0,1,0,0,4:53,0,7,0,0,0,0,0,0,0,2011-2012
+8471228,Alexander Radulov,Forward,Nashville Predators,4,9,0,3,19:20,5,4,3,0,0,0,0,0,0,2011-2012
+8471450,Brandon Yip,Forward,Nashville Predators,4,35,0,3,10:40,10,28,1,0,0,0,0,0,0,2011-2012
+8471483,Kyle Wilson,Forward,Nashville Predators,0,5,0,0,8:08,1,0,-1,0,0,0,0,0,0,2011-2012
+8471697,Niclas Bergfors,Forward,Nashville Predators,1,11,0,1,8:04,5,2,-2,0,0,0,0,0,0,2011-2012
+8471741,Teemu Laakso,Defenseman,Nashville Predators,0,9,0,0,11:35,7,8,-1,0,0,0,0,0,0,2011-2012
+8471811,Cal O'Reilly,Forward,Nashville Predators,5,33,0,2,12:45,10,4,-11,0,0,0,0,0,0,2011-2012
+8471859,Sergei Kostitsyn,Forward,Nashville Predators,26,75,0,17,16:28,27,34,8,0,0,0,0,0,0,2011-2012
+8471887,Patric Hornqvist,Forward,Nashville Predators,16,76,0,27,15:19,28,28,9,0,0,0,0,0,0,2011-2012
+8473608,Blake Geoffrion,Forward,Nashville Predators,3,35,0,2,11:02,13,27,0,0,0,0,0,0,0,2011-2012
+8474094,Matt Halischuk,Forward,Nashville Predators,13,73,0,15,11:15,33,27,9,0,0,0,0,0,0,2011-2012
+8474096,Nick Spaling,Forward,Nashville Predators,12,77,0,10,15:42,38,18,-7,0,0,0,0,0,0,2011-2012
+8474143,Ryan Thang,Forward,Nashville Predators,0,1,0,0,8:32,0,0,0,0,0,0,0,0,0,2011-2012
+8474164,Jonathon Blum,Defenseman,Nashville Predators,4,33,0,3,17:56,71,6,-14,0,0,0,0,0,0,2011-2012
+8474519,Jack Hillen,Defenseman,Nashville Predators,4,55,0,2,14:03,65,20,6,0,0,0,0,0,0,2011-2012
+8474535,Chris Mueller,Forward,Nashville Predators,0,4,0,0,9:08,2,0,-1,0,0,0,0,0,0,2011-2012
+8474569,Colin Wilson,Forward,Nashville Predators,20,68,0,15,16:07,21,21,5,0,0,0,0,0,0,2011-2012
+8474600,Roman Josi,Defenseman,Nashville Predators,11,52,0,5,18:23,98,14,1,0,0,0,0,0,0,2011-2012
+8475176,Ryan Ellis,Defenseman,Nashville Predators,8,32,0,3,14:49,37,4,5,0,0,0,0,0,0,2011-2012
+8475218,Mattias Ekholm,Defenseman,Nashville Predators,0,2,0,0,12:25,3,0,-1,0,0,0,0,0,0,2011-2012
+8475225,Craig Smith,Forward,Nashville Predators,22,72,0,14,14:11,17,30,-9,0,0,0,0,0,0,2011-2012
+8475268,Gabriel Bourque,Forward,Nashville Predators,12,43,0,7,12:47,19,6,-2,0,0,0,0,0,0,2011-2012
+8471469,Pekka Rinne,Goalie,Nashville Predators,0,73,72,0,57:06:00,0,0,0,43,18,2.389139,2153,166,5,2011-2012
+8474765,Anders Lindback,Goalie,Nashville Predators,0,16,10,0,49:31:00,0,0,0,5,8,2.422968,364,32,0,2011-2012
+8459429,Jason Arnott,Forward,St. Louis Blues,17,72,0,17,14:05,13,26,13,0,0,0,0,0,0,2011-2012
+8459457,Jamie Langenbrunner,Forward,St. Louis Blues,18,70,0,6,14:36,19,32,7,0,0,0,0,0,0,2011-2012
+8459687,Scott Nichol,Forward,St. Louis Blues,5,80,0,3,9:18,29,83,-5,0,0,0,0,0,0,2011-2012
+8467478,Kent Huskins,Defenseman,St. Louis Blues,5,25,0,2,15:28,35,10,9,0,0,0,0,0,0,2011-2012
+8467890,Barret Jackman,Defenseman,St. Louis Blues,12,81,0,1,20:40,153,57,20,0,0,0,0,0,0,2011-2012
+8468434,Andy McDonald,Forward,St. Louis Blues,12,25,0,10,18:31,5,2,4,0,0,0,0,0,0,2011-2012
+8469470,Carlo Colaiacovo,Defenseman,St. Louis Blues,17,64,0,2,19:00,81,22,7,0,0,0,0,0,0,2011-2012
+8470257,Alexander Steen,Forward,St. Louis Blues,13,43,0,15,19:07,29,28,24,0,0,0,0,0,0,2011-2012
+8470647,B.J. Crombeen,Forward,St. Louis Blues,2,40,0,1,8:18,2,71,-2,0,0,0,0,0,0,2011-2012
+8470655,David Backes,Forward,St. Louis Blues,30,82,0,24,19:59,72,101,15,0,0,0,0,0,0,2011-2012
+8470737,Brett Sterling,Forward,St. Louis Blues,0,4,0,0,7:33,0,0,-1,0,0,0,0,0,0,2011-2012
+8470871,Chris Porter,Forward,St. Louis Blues,3,47,0,4,10:23,4,11,-1,0,0,0,0,0,0,2011-2012
+8471348,Nikita Nikitin,Defenseman,St. Louis Blues,25,61,0,7,23:11,114,18,-10,0,0,0,0,0,0,2011-2012
+8471392,Roman Polak,Defenseman,St. Louis Blues,11,77,0,0,18:51,141,57,6,0,0,0,0,0,0,2011-2012
+8471490,Adam Cracknell,Forward,St. Louis Blues,0,2,0,1,7:38,3,0,1,0,0,0,0,0,0,2011-2012
+8471698,T.J. Oshie,Forward,St. Louis Blues,35,80,0,19,19:31,45,50,15,0,0,0,0,0,0,2011-2012
+8471710,Taylor Chorney,Defenseman,St. Louis Blues,0,5,0,0,14:08,4,0,-1,0,0,0,0,0,0,2011-2012
+8471729,Kris Russell,Defenseman,St. Louis Blues,6,55,0,6,17:00,78,25,12,0,0,0,0,0,0,2011-2012
+8471743,Vladimir Sobotka,Forward,St. Louis Blues,15,73,0,5,15:50,29,42,12,0,0,0,0,0,0,2011-2012
+8471817,Ryan Reaves,Forward,St. Louis Blues,1,60,0,3,6:31,7,124,0,0,0,0,0,0,0,2011-2012
+8471851,Matt D'Agostini,Forward,St. Louis Blues,9,55,0,9,14:01,18,27,12,0,0,0,0,0,0,2011-2012
+8473485,Chris Stewart,Forward,St. Louis Blues,15,79,0,15,15:26,21,109,1,0,0,0,0,0,0,2011-2012
+8473534,Patrik Berglund,Forward,St. Louis Blues,19,82,0,19,17:57,36,30,4,0,0,0,0,0,0,2011-2012
+8474013,Ian Cole,Defenseman,St. Louis Blues,5,26,0,1,15:54,27,22,7,0,0,0,0,0,0,2011-2012
+8474029,Cade Fairchild,Defenseman,St. Louis Blues,1,5,0,0,9:39,4,0,-1,0,0,0,0,0,0,2011-2012
+8474031,Kevin Shattenkirk,Defenseman,St. Louis Blues,34,81,0,9,21:36,103,60,20,0,0,0,0,0,0,2011-2012
+8474102,David Perron,Forward,St. Louis Blues,21,57,0,21,18:17,13,28,19,0,0,0,0,0,0,2011-2012
+8474565,Alex Pietrangelo,Defenseman,St. Louis Blues,39,81,0,12,24:43:00,133,36,16,0,0,0,0,0,0,2011-2012
+8474634,Evgeny Grachev,Forward,St. Louis Blues,3,26,0,1,9:20,10,2,-4,0,0,0,0,0,0,2011-2012
+8475768,Jaden Schwartz,Forward,St. Louis Blues,1,7,0,2,11:41,5,0,1,0,0,0,0,0,0,2011-2012
+8470860,Jaroslav Halak,Goalie,St. Louis Blues,0,46,46,0,59:42:00,0,0,0,26,12,1.966055,1211,90,6,2011-2012
+8470880,Brian Elliott,Goalie,St. Louis Blues,0,38,36,0,58:48:00,0,0,0,23,10,1.557337,972,58,9,2011-2012
+8459461,Brendan Morrison,Forward,Calgary Flames,7,39,0,4,13:21,21,12,-5,0,0,0,0,0,0,2011-2012
+8462042,Jarome Iginla,Forward,Calgary Flames,35,82,0,32,20:36,43,43,-10,0,0,0,0,0,0,2011-2012
+8464981,Cory Sarich,Defenseman,Calgary Flames,6,62,0,1,16:06,60,66,1,0,0,0,0,0,0,2011-2012
+8466140,Olli Jokinen,Forward,Calgary Flames,38,82,0,23,18:57,31,54,-12,0,0,0,0,0,0,2011-2012
+8466158,Scott Hannan,Defenseman,Calgary Flames,10,78,0,2,20:21,126,38,-10,0,0,0,0,0,0,2011-2012
+8466398,Tom Kostopoulos,Forward,Calgary Flames,8,81,0,4,12:19,48,57,-15,0,0,0,0,0,0,2011-2012
+8467338,Alex Tanguay,Forward,Calgary Flames,36,64,0,13,19:02,47,28,7,0,0,0,0,0,0,2011-2012
+8467943,Niklas Hagman,Forward,Calgary Flames,14,71,0,9,14:34,29,14,-7,0,0,0,0,0,0,2011-2012
+8468499,Krys Kolanos,Forward,Calgary Flames,1,13,0,0,9:51,0,2,-1,0,0,0,0,0,0,2011-2012
+8469120,Raitis Ivanans,Forward,Calgary Flames,0,1,0,0,11:05,1,0,-1,0,0,0,0,0,0,2011-2012
+8469490,Tim Jackman,Forward,Calgary Flames,6,75,0,1,9:07,16,94,-21,0,0,0,0,0,0,2011-2012
+8469500,Michael Cammalleri,Forward,Calgary Flames,21,66,0,20,18:06,19,26,-10,0,0,0,0,0,0,2011-2012
+8469664,David Moss,Forward,Calgary Flames,7,32,0,2,14:00,24,12,-3,0,0,0,0,0,0,2011-2012
+8470151,Jay Bouwmeester,Defenseman,Calgary Flames,24,82,0,5,25:57:00,118,26,-21,0,0,0,0,0,0,2011-2012
+8470162,Matt Stajan,Forward,Calgary Flames,10,61,0,8,13:00,33,29,-3,0,0,0,0,0,0,2011-2012
+8470265,Anton Babchuk,Defenseman,Calgary Flames,8,32,0,2,14:29,48,6,2,0,0,0,0,0,0,2011-2012
+8470708,Guillaume Desbiens,Forward,Calgary Flames,0,10,0,0,7:06,2,25,-1,0,0,0,0,0,0,2011-2012
+8470740,Lee Stempniak,Forward,Calgary Flames,14,61,0,14,16:13,22,16,-2,0,0,0,0,0,0,2011-2012
+8470966,Mark Giordano,Defenseman,Calgary Flames,18,61,0,9,23:01,127,75,0,0,0,0,0,0,0,2011-2012
+8471185,Curtis Glencross,Forward,Calgary Flames,22,67,0,26,18:01,49,62,-13,0,0,0,0,0,0,2011-2012
+8471260,Blake Comeau,Forward,Calgary Flames,10,74,0,5,15:27,22,30,-11,0,0,0,0,0,0,2011-2012
+8471321,Brett Carson,Defenseman,Calgary Flames,0,2,0,0,11:21,1,0,-2,0,0,0,0,0,0,2011-2012
+8471428,Pierre-Luc Letourneau-Leblond,Forward,Calgary Flames,0,3,0,0,4:51,0,10,1,0,0,0,0,0,0,2011-2012
+8471504,Rene Bourque,Forward,Calgary Flames,6,76,0,18,17:49,25,68,-19,0,0,0,0,0,0,2011-2012
+8471761,Chris Butler,Defenseman,Calgary Flames,13,68,0,2,21:36,115,34,-9,0,0,0,0,0,0,2011-2012
+8471767,Blair Jones,Forward,Calgary Flames,5,43,0,3,11:21,29,18,-1,0,0,0,0,0,0,2011-2012
+8472262,Clay Wilson,Defenseman,Calgary Flames,0,5,0,0,13:15,2,4,0,0,0,0,0,0,0,2011-2012
+8473921,Joe Piskula,Defenseman,Calgary Flames,0,5,0,0,10:53,5,2,-5,0,0,0,0,0,0,2011-2012
+8473953,Derek Smith,Defenseman,Calgary Flames,9,47,0,2,15:56,55,12,-1,0,0,0,0,0,0,2011-2012
+8474038,Paul Byron,Forward,Calgary Flames,2,22,0,3,10:13,2,2,3,0,0,0,0,0,0,2011-2012
+8474049,Akim Aliu,Forward,Calgary Flames,1,2,0,2,11:02,0,12,3,0,0,0,0,0,0,2011-2012
+8474150,Mikael Backlund,Forward,Calgary Flames,7,41,0,4,15:23,19,16,-13,0,0,0,0,0,0,2011-2012
+8474587,Greg Nemisz,Forward,Calgary Flames,0,9,0,0,7:42,1,0,1,0,0,0,0,0,0,2011-2012
+8474642,Lance Bouma,Forward,Calgary Flames,2,27,0,1,10:09,26,11,-5,0,0,0,0,0,0,2011-2012
+8474673,TJ Brodie,Defenseman,Calgary Flames,12,54,0,2,16:28,38,14,3,0,0,0,0,0,0,2011-2012
+8475264,Roman Horak,Forward,Calgary Flames,8,61,0,3,10:11,20,14,3,0,0,0,0,0,0,2011-2012
+8476466,Sven Baertschi,Forward,Calgary Flames,0,5,0,3,11:08,0,4,2,0,0,0,0,0,0,2011-2012
+8462147,Miikka Kiprusoff,Goalie,Calgary Flames,0,70,68,0,58:58:00,0,0,0,35,22,2.354651,2040,162,4,2011-2012
+8473414,Leland Irving,Goalie,Calgary Flames,0,7,7,0,56:20:00,0,0,0,1,3,3.194591,239,21,0,2011-2012
+8475431,Henrik Karlsson,Goalie,Calgary Flames,0,9,7,0,50:27:00,0,0,0,1,4,3.170642,239,24,0,2011-2012
+8460577,Milan Hejduk,Forward,Colorado Avalanche,23,81,0,14,17:00,29,14,-12,0,0,0,0,0,0,2011-2012
+8469467,Chuck Kobasew,Forward,Colorado Avalanche,7,58,0,7,11:50,20,51,-10,0,0,0,0,0,0,2011-2012
+8469508,Jay McClement,Forward,Colorado Avalanche,7,80,0,10,13:45,54,31,-8,0,0,0,0,0,0,2011-2012
+8470152,Joakim Lindstrom,Forward,Colorado Avalanche,3,16,0,2,13:55,6,0,-9,0,0,0,0,0,0,2011-2012
+8470189,David Van Der Gulik,Forward,Colorado Avalanche,5,25,0,1,8:12,11,2,3,0,0,0,0,0,0,2011-2012
+8470672,Ryan O'Byrne,Defenseman,Colorado Avalanche,6,74,0,1,18:51,141,57,-5,0,0,0,0,0,0,2011-2012
+8470699,Jan Hejda,Defenseman,Colorado Avalanche,14,81,0,5,20:40,134,24,-17,0,0,0,0,0,0,2011-2012
+8470724,Kyle Quincey,Defenseman,Colorado Avalanche,19,72,0,7,21:51,94,89,-1,0,0,0,0,0,0,2011-2012
+8470839,Shane O'Brien,Defenseman,Colorado Avalanche,17,76,0,3,19:13,86,105,2,0,0,0,0,0,0,2011-2012
+8470877,David Jones,Forward,Colorado Avalanche,17,72,0,20,15:45,24,32,-8,0,0,0,0,0,0,2011-2012
+8471331,Kevin Porter,Forward,Colorado Avalanche,3,35,0,4,9:10,8,17,-2,0,0,0,0,0,0,2011-2012
+8471436,Matt Hunwick,Defenseman,Colorado Avalanche,3,33,0,3,18:03,30,8,-3,0,0,0,0,0,0,2011-2012
+8471450,Brandon Yip,Forward,Colorado Avalanche,4,35,0,3,10:40,10,28,1,0,0,0,0,0,0,2011-2012
+8471476,Daniel Winnik,Forward,Colorado Avalanche,15,84,0,8,16:41,50,52,-11,0,0,0,0,0,0,2011-2012
+8471657,Cody McLeod,Forward,Colorado Avalanche,5,75,0,6,7:11,13,164,0,0,0,0,0,0,0,2011-2012
+8471669,Paul Stastny,Forward,Colorado Avalanche,32,79,0,21,18:49,49,34,-8,0,0,0,0,0,0,2011-2012
+8471703,Steve Downie,Forward,Colorado Avalanche,27,75,0,14,15:55,25,137,-6,0,0,0,0,0,0,2011-2012
+8471730,Evan Brophey,Forward,Colorado Avalanche,0,3,0,0,4:10,0,0,0,0,0,0,0,0,0,2011-2012
+8473446,Erik Johnson,Defenseman,Colorado Avalanche,22,73,0,4,20:50,94,26,-7,0,0,0,0,0,0,2011-2012
+8473465,Jamie McGinn,Forward,Colorado Avalanche,17,78,0,20,13:26,37,37,-3,0,0,0,0,0,0,2011-2012
+8473526,Peter Mueller,Forward,Colorado Avalanche,9,32,0,7,14:39,10,8,-3,0,0,0,0,0,0,2011-2012
+8473700,Ryan Wilson,Defenseman,Colorado Avalanche,20,59,0,1,18:44,70,33,11,0,0,0,0,0,0,2011-2012
+8474001,TJ Galiardi,Forward,Colorado Avalanche,6,69,0,9,13:02,22,53,-8,0,0,0,0,0,0,2011-2012
+8474089,Brad Malone,Forward,Colorado Avalanche,2,9,0,0,10:02,1,0,1,0,0,0,0,0,0,2011-2012
+8474705,Mark Olver,Forward,Colorado Avalanche,3,24,0,4,12:56,9,15,0,0,0,0,0,0,0,2011-2012
+8475158,Ryan O'Reilly,Forward,Colorado Avalanche,37,81,0,18,19:31,50,12,-1,0,0,0,0,0,0,2011-2012
+8475168,Matt Duchene,Forward,Colorado Avalanche,14,58,0,14,16:17,41,8,-11,0,0,0,0,0,0,2011-2012
+8475197,Tyson Barrie,Defenseman,Colorado Avalanche,0,10,0,0,17:38,10,0,-2,0,0,0,0,0,0,2011-2012
+8475206,Stefan Elliott,Defenseman,Colorado Avalanche,9,39,0,4,17:08,31,8,2,0,0,0,0,0,0,2011-2012
+8476225,Mike Connolly,Forward,Colorado Avalanche,0,2,0,0,12:20,1,2,0,0,0,0,0,0,0,2011-2012
+8476455,Gabriel Landeskog,Forward,Colorado Avalanche,30,82,0,22,18:36,58,51,20,0,0,0,0,0,0,2011-2012
+8462044,Jean-Sebastien Giguere,Goalie,Colorado Avalanche,0,32,30,0,56:51:00,0,0,0,15,11,2.275267,850,69,2,2011-2012
+8473575,Semyon Varlamov,Goalie,Colorado Avalanche,0,53,52,0,59:27:00,0,0,0,26,24,2.589366,1564,136,4,2011-2012
+8460496,Ryan Smyth,Forward,Edmonton Oilers,27,82,0,19,19:04,31,82,-5,0,0,0,0,0,0,2011-2012
+8464984,Josh Green,Forward,Edmonton Oilers,1,7,0,1,11:49,2,7,-6,0,0,0,0,0,0,2011-2012
+8465050,Eric Belanger,Forward,Edmonton Oilers,12,78,0,4,14:44,41,32,-13,0,0,0,0,0,0,2011-2012
+8467304,Andy Sutton,Defenseman,Edmonton Oilers,7,52,0,3,16:41,95,80,5,0,0,0,0,0,0,2011-2012
+8467423,Shawn Horcoff,Forward,Edmonton Oilers,21,81,0,13,19:35,47,24,-23,0,0,0,0,0,0,2011-2012
+8468513,Nick Schultz,Defenseman,Edmonton Oilers,6,82,0,1,19:42,165,40,-12,0,0,0,0,0,0,2011-2012
+8468660,Darcy Hordichuk,Forward,Edmonton Oilers,2,43,0,1,4:21,2,64,-3,0,0,0,0,0,0,2011-2012
+8469466,Ales Hemsky,Forward,Edmonton Oilers,26,69,0,10,17:36,21,43,-13,0,0,0,0,0,0,2011-2012
+8470104,Tom Gilbert,Defenseman,Edmonton Oilers,19,67,0,3,24:03:00,115,20,-8,0,0,0,0,0,0,2011-2012
+8470280,Ben Eager,Forward,Edmonton Oilers,5,63,0,8,8:32,17,107,-1,0,0,0,0,0,0,2011-2012
+8470309,Ryan Whitney,Defenseman,Edmonton Oilers,17,51,0,3,20:57,85,16,-16,0,0,0,0,0,0,2011-2012
+8470714,Corey Potter,Defenseman,Edmonton Oilers,17,62,0,4,19:56,79,24,-16,0,0,0,0,0,0,2011-2012
+8470988,Bryan Rodney,Defenseman,Edmonton Oilers,0,1,0,0,13:17,0,0,-1,0,0,0,0,0,0,2011-2012
+8471216,Cam Barker,Defenseman,Edmonton Oilers,0,25,0,2,18:21,19,23,0,0,0,0,0,0,0,2011-2012
+8471222,Ladislav Smid,Defenseman,Edmonton Oilers,10,78,0,5,20:54,184,44,4,0,0,0,0,0,0,2011-2012
+8471323,Ryan Jones,Forward,Edmonton Oilers,16,79,0,17,15:25,61,42,-7,0,0,0,0,0,0,2011-2012
+8471402,Lennart Petrell,Forward,Edmonton Oilers,5,60,0,4,9:38,47,45,-10,0,0,0,0,0,0,2011-2012
+8471689,Ryan O'Marra,Forward,Edmonton Oilers,1,9,0,0,9:16,7,4,-1,0,0,0,0,0,0,2011-2012
+8471710,Taylor Chorney,Defenseman,Edmonton Oilers,0,5,0,0,14:08,4,0,-1,0,0,0,0,0,0,2011-2012
+8471762,Chris VandeVelde,Forward,Edmonton Oilers,0,5,0,1,9:51,3,2,2,0,0,0,0,0,0,2011-2012
+8473507,Jeff Petry,Defenseman,Edmonton Oilers,23,73,0,2,21:45,126,26,-7,0,0,0,0,0,0,2011-2012
+8473525,Theo Peckham,Defenseman,Edmonton Oilers,2,54,0,1,16:52,72,80,0,0,0,0,0,0,0,2011-2012
+8474040,Sam Gagner,Forward,Edmonton Oilers,29,75,0,18,17:10,23,36,5,0,0,0,0,0,0,2011-2012
+8474046,Alex Plante,Defenseman,Edmonton Oilers,1,3,0,0,10:38,1,2,0,0,0,0,0,0,0,2011-2012
+8474059,Linus Omark,Forward,Edmonton Oilers,0,14,0,3,13:27,6,8,-5,0,0,0,0,0,0,2011-2012
+8474128,Milan Kytnar,Forward,Edmonton Oilers,0,1,0,0,5:31,0,0,0,0,0,0,0,0,0,2011-2012
+8474575,Colten Teubert,Defenseman,Edmonton Oilers,1,24,0,0,12:38,28,25,-5,0,0,0,0,0,0,2011-2012
+8474586,Jordan Eberle,Forward,Edmonton Oilers,42,78,0,34,17:35,24,10,4,0,0,0,0,0,0,2011-2012
+8474691,Philippe Cornet,Forward,Edmonton Oilers,1,2,0,0,10:34,0,0,0,0,0,0,0,0,0,2011-2012
+8474719,Teemu Hartikainen,Forward,Edmonton Oilers,3,17,0,2,13:00,11,6,1,0,0,0,0,0,0,2011-2012
+8475165,Anton Lander,Forward,Edmonton Oilers,4,56,0,2,10:36,12,12,-8,0,0,0,0,0,0,2011-2012
+8475175,Magnus Paajarvi,Forward,Edmonton Oilers,6,41,0,2,13:10,8,4,-7,0,0,0,0,0,0,2011-2012
+8475791,Taylor Hall,Forward,Edmonton Oilers,26,61,0,27,18:13,34,36,-3,0,0,0,0,0,0,2011-2012
+8476454,Ryan Nugent-Hopkins,Forward,Edmonton Oilers,34,62,0,18,17:36,33,16,-2,0,0,0,0,0,0,2011-2012
+8459140,Nikolai Khabibulin,Goalie,Edmonton Oilers,0,40,40,0,56:30:00,0,0,0,12,20,2.65428,1114,100,2,2011-2012
+8471186,Yann Danis,Goalie,Edmonton Oilers,0,1,0,0,32:26:00,0,0,0,0,0,3.699897,12,2,0,2011-2012
+8471227,Devan Dubnyk,Goalie,Edmonton Oilers,0,47,42,0,56:27:00,0,0,0,20,20,2.668224,1380,118,2,2011-2012
+8464979,Marco Sturm,Forward,Vancouver Canucks,2,48,0,3,12:18,14,25,-13,0,0,0,0,0,0,2011-2012
+8465192,Samuel Pahlsson,Forward,Vancouver Canucks,13,80,0,4,14:46,37,34,-2,0,0,0,0,0,0,2011-2012
+8465202,Sami Salo,Defenseman,Vancouver Canucks,16,69,0,9,20:26,77,10,7,0,0,0,0,0,0,2011-2012
+8467334,Manny Malhotra,Forward,Vancouver Canucks,11,78,0,7,12:20,45,14,-11,0,0,0,0,0,0,2011-2012
+8467463,Mikael Samuelsson,Forward,Vancouver Canucks,17,54,0,14,15:56,11,20,1,0,0,0,0,0,0,2011-2012
+8467875,Daniel Sedin,Forward,Vancouver Canucks,37,72,0,30,18:48,15,40,14,0,0,0,0,0,0,2011-2012
+8467876,Henrik Sedin,Forward,Vancouver Canucks,67,82,0,14,19:05,17,52,23,0,0,0,0,0,0,2011-2012
+8469465,Dan Hamhuis,Defenseman,Vancouver Canucks,33,82,0,4,23:25,99,46,29,0,0,0,0,0,0,2011-2012
+8469598,Kevin Bieksa,Defenseman,Vancouver Canucks,36,78,0,8,23:38,106,94,12,0,0,0,0,0,0,2011-2012
+8469626,Andrew Alberts,Defenseman,Vancouver Canucks,1,44,0,2,14:17,39,40,4,0,0,0,0,0,0,2011-2012
+8470054,Keith Ballard,Defenseman,Vancouver Canucks,6,47,0,1,15:33,63,64,0,0,0,0,0,0,0,2011-2012
+8470274,Chris Higgins,Forward,Vancouver Canucks,25,71,0,18,16:18,29,16,11,0,0,0,0,0,0,2011-2012
+8470310,Aaron Rome,Defenseman,Vancouver Canucks,6,43,0,4,15:13,62,46,-4,0,0,0,0,0,0,2011-2012
+8470358,Alexandre Burrows,Forward,Vancouver Canucks,24,80,0,28,18:28,38,90,24,0,0,0,0,0,0,2011-2012
+8470616,Ryan Kesler,Forward,Vancouver Canucks,27,77,0,22,20:05,59,56,11,0,0,0,0,0,0,2011-2012
+8470654,Maxim Lapierre,Forward,Vancouver Canucks,10,82,0,9,11:13,24,130,-3,0,0,0,0,0,0,2011-2012
+8470685,Alexander Sulzer,Defenseman,Vancouver Canucks,6,27,0,3,17:49,38,8,8,0,0,0,0,0,0,2011-2012
+8470700,Byron Bitz,Forward,Vancouver Canucks,3,10,0,1,10:29,7,14,2,0,0,0,0,0,0,2011-2012
+8471266,David Booth,Forward,Vancouver Canucks,14,62,0,16,14:55,13,34,-5,0,0,0,0,0,0,2011-2012
+8471268,Victor Oreskovich,Forward,Vancouver Canucks,0,1,0,0,6:17,0,7,0,0,0,0,0,0,0,2011-2012
+8471303,Alexander Edler,Defenseman,Vancouver Canucks,38,82,0,11,23:51,145,34,0,0,0,0,0,0,0,2011-2012
+8471419,Mark Mancari,Forward,Vancouver Canucks,0,6,0,0,8:18,0,0,0,0,0,0,0,0,0,2011-2012
+8471498,Jannik Hansen,Forward,Vancouver Canucks,23,82,0,16,14:53,24,34,18,0,0,0,0,0,0,2011-2012
+8471664,Mason Raymond,Forward,Vancouver Canucks,10,55,0,10,15:35,13,18,4,0,0,0,0,0,0,2011-2012
+8471752,Marc-Andre Gragnani,Defenseman,Vancouver Canucks,13,58,0,2,16:08,41,26,6,0,0,0,0,0,0,2011-2012
+8471941,Mike Duco,Forward,Vancouver Canucks,2,6,0,0,8:03,2,5,1,0,0,0,0,0,0,2011-2012
+8473682,Andrew Ebbett,Forward,Vancouver Canucks,1,18,0,5,9:35,9,6,2,0,0,0,0,0,0,2011-2012
+8474035,Bill Sweatt,Forward,Vancouver Canucks,0,2,0,0,5:20,2,0,0,0,0,0,0,0,0,2011-2012
+8474570,Cody Hodgson,Forward,Vancouver Canucks,22,83,0,19,13:49,29,10,1,0,0,0,0,0,0,2011-2012
+8474668,Dale Weise,Forward,Vancouver Canucks,4,68,0,4,8:09,23,81,-1,0,0,0,0,0,0,2011-2012
+8475178,Zack Kassian,Forward,Vancouver Canucks,6,44,0,4,11:17,2,51,-2,0,0,0,0,0,0,2011-2012
+8475619,Aaron Volpatti,Forward,Vancouver Canucks,0,23,0,1,8:58,8,37,-2,0,0,0,0,0,0,2011-2012
+8475690,Christopher Tanev,Defenseman,Vancouver Canucks,2,25,0,0,16:43,43,2,10,0,0,0,0,0,0,2011-2012
+8466141,Roberto Luongo,Goalie,Vancouver Canucks,0,55,54,0,57:29:00,0,0,0,31,14,2.409575,1577,127,5,2011-2012
+8471239,Cory Schneider,Goalie,Vancouver Canucks,0,33,28,0,55:32:00,0,0,0,20,8,1.964172,945,60,3,2011-2012
+8457981,Teemu Selanne,Forward,Anaheim Ducks,40,82,0,26,17:52,20,50,-1,0,0,0,0,0,0,2011-2012
+8459442,Saku Koivu,Forward,Anaheim Ducks,27,74,0,11,18:07,24,50,7,0,0,0,0,0,0,2011-2012
+8465042,Toni Lydman,Defenseman,Anaheim Ducks,13,74,0,0,18:54,153,46,0,0,0,0,0,0,0,2011-2012
+8467335,Mark Bell,Forward,Anaheim Ducks,0,5,0,0,6:26,0,5,0,0,0,0,0,0,0,2011-2012
+8467400,Francois Beauchemin,Defenseman,Anaheim Ducks,14,82,0,8,25:33:00,194,48,-14,0,0,0,0,0,0,2011-2012
+8467844,Jason Blake,Forward,Anaheim Ducks,5,45,0,7,14:08,17,6,-4,0,0,0,0,0,0,2011-2012
+8467943,Niklas Hagman,Forward,Anaheim Ducks,14,71,0,9,14:34,29,14,-7,0,0,0,0,0,0,2011-2012
+8468095,George Parros,Forward,Anaheim Ducks,3,46,0,1,6:22,16,85,1,0,0,0,0,0,0,2011-2012
+8468520,Kurtis Foster,Defenseman,Anaheim Ducks,10,51,0,4,15:53,35,35,-13,0,0,0,0,0,0,2011-2012
+8468598,Lubomir Visnovsky,Defenseman,Anaheim Ducks,21,68,0,6,20:47,78,47,7,0,0,0,0,0,0,2011-2012
+8469992,Sheldon Brookbank,Defenseman,Anaheim Ducks,11,80,0,3,15:36,110,72,11,0,0,0,0,0,0,2011-2012
+8470317,Nate Guenin,Defenseman,Anaheim Ducks,0,15,0,2,11:09,17,6,6,0,0,0,0,0,0,2011-2012
+8470612,Ryan Getzlaf,Forward,Anaheim Ducks,46,82,0,11,21:35,72,75,-11,0,0,0,0,0,0,2011-2012
+8470621,Corey Perry,Forward,Anaheim Ducks,23,80,0,37,21:22,45,127,-7,0,0,0,0,0,0,2011-2012
+8470661,Jean-Francois Jacques,Forward,Anaheim Ducks,0,6,0,0,6:37,0,12,2,0,0,0,0,0,0,2011-2012
+8471409,Andrew Gordon,Forward,Anaheim Ducks,3,37,0,2,10:51,17,6,-10,0,0,0,0,0,0,2011-2012
+8471676,Bobby Ryan,Forward,Anaheim Ducks,26,82,0,31,18:21,24,53,1,0,0,0,0,0,0,2011-2012
+8471689,Ryan O'Marra,Forward,Anaheim Ducks,1,9,0,0,9:16,7,4,-1,0,0,0,0,0,0,2011-2012
+8471699,Andrew Cogliano,Forward,Anaheim Ducks,13,82,0,13,14:42,43,15,-4,0,0,0,0,0,0,2011-2012
+8472355,Rod Pelley,Forward,Anaheim Ducks,1,52,0,2,7:45,25,16,-3,0,0,0,0,0,0,2011-2012
+8473492,Matt Beleskey,Forward,Anaheim Ducks,11,70,0,4,10:15,20,72,-2,0,0,0,0,0,0,2011-2012
+8473493,Ben Maxwell,Forward,Anaheim Ducks,5,15,0,1,6:44,6,2,4,0,0,0,0,0,0,2011-2012
+8474009,Nick Bonino,Forward,Anaheim Ducks,13,50,0,5,12:28,39,8,1,0,0,0,0,0,0,2011-2012
+8474034,Pat Maroon,Forward,Anaheim Ducks,0,2,0,0,12:32,1,2,0,0,0,0,0,0,0,2011-2012
+8474139,Maxime Macenauer,Forward,Anaheim Ducks,3,29,0,1,10:48,4,18,-4,0,0,0,0,0,0,2011-2012
+8474579,Luca Sbisa,Defenseman,Anaheim Ducks,19,80,0,5,17:55,99,66,-5,0,0,0,0,0,0,2011-2012
+8474646,Brandon McMillan,Forward,Anaheim Ducks,4,25,0,0,11:12,13,20,-10,0,0,0,0,0,0,2011-2012
+8475151,Kyle Palmieri,Forward,Anaheim Ducks,3,18,0,4,11:31,6,6,3,0,0,0,0,0,0,2011-2012
+8475162,Mat Clark,Defenseman,Anaheim Ducks,0,2,0,0,11:01,2,0,-2,0,0,0,0,0,0,2011-2012
+8475180,Peter Holland,Forward,Anaheim Ducks,0,4,0,1,7:42,1,2,0,0,0,0,0,0,0,2011-2012
+8475758,Devante Smith-Pelly,Forward,Anaheim Ducks,6,49,0,7,12:02,9,16,-7,0,0,0,0,0,0,2011-2012
+8475764,Cam Fowler,Defenseman,Anaheim Ducks,24,82,0,5,23:15,94,18,-28,0,0,0,0,0,0,2011-2012
+8468540,Dan Ellis,Goalie,Anaheim Ducks,0,10,5,0,41:52:00,0,0,0,1,5,2.722713,214,19,0,2011-2012
+8470074,Jeff Deslauriers,Goalie,Anaheim Ducks,0,4,4,0,60:18:00,0,0,0,3,1,2.736318,113,11,0,2011-2012
+8473972,Jonas Hiller,Goalie,Anaheim Ducks,0,73,73,0,58:15:00,0,0,0,29,30,2.567891,2021,182,4,2011-2012
+8476243,Iiro Tarkki,Goalie,Anaheim Ducks,0,1,0,0,40:51:00,0,0,0,1,0,4.406365,10,3,0,2011-2012
+8460561,Sheldon Souray,Defenseman,Dallas Stars,15,64,0,6,20:27,90,73,11,0,0,0,0,0,0,2011-2012
+8462041,Radek Dvorak,Forward,Dallas Stars,17,73,0,4,14:16,56,12,-16,0,0,0,0,0,0,2011-2012
+8462196,Stephane Robidas,Defenseman,Dallas Stars,17,75,0,5,22:45,110,48,-5,0,0,0,0,0,0,2011-2012
+8466160,Brenden Morrow,Forward,Dallas Stars,15,57,0,11,17:02,33,97,1,0,0,0,0,0,0,2011-2012
+8467371,Mike Ribeiro,Forward,Dallas Stars,45,74,0,18,20:02,46,66,5,0,0,0,0,0,0,2011-2012
+8467428,Krys Barch,Forward,Dallas Stars,3,51,0,2,7:21,10,114,0,0,0,0,0,0,0,2011-2012
+8467543,Toby Petersen,Forward,Dallas Stars,3,39,0,2,7:39,14,6,-7,0,0,0,0,0,0,2011-2012
+8467545,Michael Ryder,Forward,Dallas Stars,27,82,0,35,17:22,50,46,17,0,0,0,0,0,0,2011-2012
+8468505,Steve Ott,Forward,Dallas Stars,28,74,0,11,18:20,27,156,5,0,0,0,0,0,0,2011-2012
+8469759,Vernon Fiddler,Forward,Dallas Stars,13,82,0,8,13:59,67,60,-13,0,0,0,0,0,0,2011-2012
+8470063,Adam Burish,Forward,Dallas Stars,13,65,0,6,12:47,36,76,6,0,0,0,0,0,0,2011-2012
+8470110,Trevor Daley,Defenseman,Dallas Stars,21,79,0,4,21:38,115,42,3,0,0,0,0,0,0,2011-2012
+8470180,Eric Nystrom,Forward,Dallas Stars,5,74,0,16,13:44,38,24,-10,0,0,0,0,0,0,2011-2012
+8470626,Loui Eriksson,Forward,Dallas Stars,45,82,0,26,19:45,40,12,18,0,0,0,0,0,0,2011-2012
+8470777,Francis Wathier,Forward,Dallas Stars,0,1,0,0,5:25,0,0,0,0,0,0,0,0,0,2011-2012
+8471241,Mark Fistric,Defenseman,Dallas Stars,2,60,0,0,16:30,105,41,-3,0,0,0,0,0,0,2011-2012
+8471269,Nicklas Grossmann,Defenseman,Dallas Stars,11,74,0,0,18:48,152,36,5,0,0,0,0,0,0,2011-2012
+8471274,Alex Goligoski,Defenseman,Dallas Stars,21,71,0,9,22:46,93,16,0,0,0,0,0,0,0,2011-2012
+8471352,Jake Dowell,Forward,Dallas Stars,5,52,0,2,7:37,11,53,-3,0,0,0,0,0,0,2011-2012
+8471385,Adam Pardy,Defenseman,Dallas Stars,3,36,0,0,16:28,49,16,-5,0,0,0,0,0,0,2011-2012
+8471807,Tom Wandell,Forward,Dallas Stars,9,72,0,6,9:44,30,16,-5,0,0,0,0,0,0,2011-2012
+8473994,Jamie Benn,Forward,Dallas Stars,37,71,0,26,18:04,52,55,15,0,0,0,0,0,0,2011-2012
+8474707,Philip Larsen,Defenseman,Dallas Stars,8,55,0,3,17:57,73,16,11,0,0,0,0,0,0,2011-2012
+8474818,Jordie Benn,Defenseman,Dallas Stars,2,3,0,0,13:57,2,0,1,0,0,0,0,0,0,2011-2012
+8475173,Scott Glennie,Forward,Dallas Stars,0,1,0,0,9:35,0,2,0,0,0,0,0,0,0,2011-2012
+8475191,Reilly Smith,Forward,Dallas Stars,0,3,0,0,8:24,0,2,-3,0,0,0,0,0,0,2011-2012
+8475266,Tomas Vincour,Forward,Dallas Stars,6,47,0,4,10:19,16,2,-2,0,0,0,0,0,0,2011-2012
+8475455,Brenden Dillon,Defenseman,Dallas Stars,0,1,0,0,19:59,3,0,0,0,0,0,0,0,0,2011-2012
+8475671,Matt Fraser,Forward,Dallas Stars,0,1,0,0,3:57,1,0,0,0,0,0,0,0,0,2011-2012
+8476116,Ryan Garbutt,Forward,Dallas Stars,1,20,0,2,8:16,3,22,-1,0,0,0,0,0,0,2011-2012
+8467453,Andrew Raycroft,Goalie,Dallas Stars,0,10,8,0,52:56:00,0,0,0,2,8,3.513522,303,31,0,2011-2012
+8470140,Kari Lehtonen,Goalie,Dallas Stars,0,59,59,0,59:16:00,0,0,0,32,22,2.333551,1739,136,4,2011-2012
+8473614,Richard Bachman,Goalie,Dallas Stars,0,18,15,0,51:50:00,0,0,0,8,5,2.765026,477,43,1,2011-2012
+8460504,Ethan Moreau,Forward,Los Angeles Kings,3,28,0,1,10:31,6,20,-3,0,0,0,0,0,0,2011-2012
+8465185,Willie Mitchell,Defenseman,Los Angeles Kings,19,76,0,5,22:13,139,44,20,0,0,0,0,0,0,2011-2012
+8467346,Simon Gagne,Forward,Los Angeles Kings,10,34,0,7,17:59,10,18,-1,0,0,0,0,0,0,2011-2012
+8467452,Rob Scuderi,Defenseman,Los Angeles Kings,8,82,0,1,20:36,116,16,-7,0,0,0,0,0,0,2011-2012
+8467466,Trent Hunter,Forward,Los Angeles Kings,5,38,0,2,10:05,6,8,-4,0,0,0,0,0,0,2011-2012
+8468508,Justin Williams,Forward,Los Angeles Kings,37,82,0,22,17:09,37,44,10,0,0,0,0,0,0,2011-2012
+8468526,Jarret Stoll,Forward,Los Angeles Kings,15,78,0,6,16:40,46,60,2,0,0,0,0,0,0,2011-2012
+8470121,Matt Greene,Defenseman,Los Angeles Kings,11,82,0,4,16:40,112,58,4,0,0,0,0,0,0,2011-2012
+8470604,Jeff Carter,Forward,Los Angeles Kings,13,55,0,21,19:11,17,16,-12,0,0,0,0,0,0,2011-2012
+8470606,Dustin Brown,Forward,Los Angeles Kings,32,82,0,22,20:10,32,53,18,0,0,0,0,0,0,2011-2012
+8470617,Mike Richards,Forward,Los Angeles Kings,26,74,0,18,18:53,39,71,3,0,0,0,0,0,0,2011-2012
+8470662,Colin Fraser,Forward,Los Angeles Kings,6,67,0,2,9:44,25,67,-2,0,0,0,0,0,0,2011-2012
+8470755,Brad Richardson,Forward,Los Angeles Kings,3,59,0,5,12:51,15,30,-6,0,0,0,0,0,0,2011-2012
+8471208,Dustin Penner,Forward,Los Angeles Kings,10,65,0,7,14:19,16,43,-7,0,0,0,0,0,0,2011-2012
+8471386,Scott Parse,Forward,Los Angeles Kings,0,9,0,2,11:16,4,14,1,0,0,0,0,0,0,2011-2012
+8471677,Jack Johnson,Defenseman,Los Angeles Kings,26,82,0,12,23:46,129,39,-7,0,0,0,0,0,0,2011-2012
+8471685,Anze Kopitar,Forward,Los Angeles Kings,51,82,0,25,21:20,53,20,12,0,0,0,0,0,0,2011-2012
+8473453,Trevor Lewis,Forward,Los Angeles Kings,4,72,0,3,13:14,25,26,-3,0,0,0,0,0,0,2011-2012
+8473908,Kevin Westgarth,Forward,Los Angeles Kings,1,25,0,1,5:15,6,39,-3,0,0,0,0,0,0,2011-2012
+8474100,Dwight King,Forward,Los Angeles Kings,9,27,0,5,14:38,5,10,3,0,0,0,0,0,0,2011-2012
+8474166,Alec Martinez,Defenseman,Los Angeles Kings,6,51,0,6,14:43,48,8,-1,0,0,0,0,0,0,2011-2012
+8474518,Davis Drewiske,Defenseman,Los Angeles Kings,0,9,0,2,12:33,5,2,0,0,0,0,0,0,0,2011-2012
+8474563,Drew Doughty,Defenseman,Los Angeles Kings,26,77,0,10,24:53:00,70,69,-2,0,0,0,0,0,0,2011-2012
+8474594,Slava Voynov,Defenseman,Los Angeles Kings,12,54,0,8,18:32,47,12,12,0,0,0,0,0,0,2011-2012
+8474681,Andrei Loktionov,Forward,Los Angeles Kings,4,39,0,3,12:31,6,2,-4,0,0,0,0,0,0,2011-2012
+8475160,Kyle Clifford,Forward,Los Angeles Kings,7,81,0,5,9:24,9,123,-5,0,0,0,0,0,0,2011-2012
+8475325,Jordan Nolan,Forward,Los Angeles Kings,2,26,0,2,9:20,4,28,2,0,0,0,0,0,0,2011-2012
+8471734,Jonathan Quick,Goalie,Los Angeles Kings,0,69,69,0,59:24:00,0,0,0,35,21,1.946611,1863,133,10,2011-2012
+8473541,Jonathan Bernier,Goalie,Los Angeles Kings,0,16,13,0,55:38:00,0,0,0,5,6,2.35902,383,35,1,2011-2012
+8458537,Ray Whitney,Forward,Phoenix Coyotes,53,82,0,24,18:38,10,28,26,0,0,0,0,0,0,2011-2012
+8459053,Adrian Aucoin,Defenseman,Phoenix Coyotes,7,64,0,2,20:14,67,42,14,0,0,0,0,0,0,2011-2012
+8462036,Daymond Langkow,Forward,Phoenix Coyotes,19,73,0,11,15:45,50,14,-4,0,0,0,0,0,0,2011-2012
+8462038,Shane Doan,Forward,Phoenix Coyotes,28,79,0,22,19:36,27,48,-8,0,0,0,0,0,0,2011-2012
+8464966,Derek Morris,Defenseman,Phoenix Coyotes,9,59,0,2,18:59,78,38,-12,0,0,0,0,0,0,2011-2012
+8465058,Michal Rozsival,Defenseman,Phoenix Coyotes,12,54,0,1,19:19,91,34,8,0,0,0,0,0,0,2011-2012
+8467881,Taylor Pyatt,Forward,Phoenix Coyotes,10,73,0,9,12:19,20,23,-4,0,0,0,0,0,0,2011-2012
+8468085,Radim Vrbata,Forward,Phoenix Coyotes,27,77,0,35,18:38,16,24,24,0,0,0,0,0,0,2011-2012
+8468484,Rostislav Klesla,Defenseman,Phoenix Coyotes,10,65,0,3,19:21,150,54,13,0,0,0,0,0,0,2011-2012
+8468485,Raffi Torres,Forward,Phoenix Coyotes,11,79,0,15,11:22,21,83,2,0,0,0,0,0,0,2011-2012
+8468535,Antoine Vermette,Forward,Phoenix Coyotes,26,82,0,11,17:12,48,28,-13,0,0,0,0,0,0,2011-2012
+8470159,Boyd Gordon,Forward,Phoenix Coyotes,15,75,0,8,15:55,86,10,9,0,0,0,0,0,0,2011-2012
+8470615,Marc-Antoine Pouliot,Forward,Phoenix Coyotes,4,13,0,0,11:11,1,2,-2,0,0,0,0,0,0,2011-2012
+8470649,Patrick O'Sullivan,Forward,Phoenix Coyotes,2,23,0,2,11:02,4,2,-4,0,0,0,0,0,0,2011-2012
+8470713,Paul Bissonnette,Forward,Phoenix Coyotes,0,31,0,1,6:04,1,41,-4,0,0,0,0,0,0,2011-2012
+8470719,Alexandre Bolduc,Forward,Phoenix Coyotes,0,2,0,0,7:09,0,2,-1,0,0,0,0,0,0,2011-2012
+8471229,Petteri Nokelainen,Forward,Phoenix Coyotes,4,56,0,3,8:48,10,37,-6,0,0,0,0,0,0,2011-2012
+8471231,Kyle Chipchura,Forward,Phoenix Coyotes,13,53,0,3,10:31,14,42,2,0,0,0,0,0,0,2011-2012
+8471232,Lauri Korpikoski,Forward,Phoenix Coyotes,20,82,0,17,17:08,43,14,3,0,0,0,0,0,0,2011-2012
+8471680,Gilbert Brule,Forward,Phoenix Coyotes,9,33,0,5,11:33,13,11,7,0,0,0,0,0,0,2011-2012
+8471691,Martin Hanzal,Forward,Phoenix Coyotes,26,64,0,8,18:26,32,63,12,0,0,0,0,0,0,2011-2012
+8471735,Keith Yandle,Defenseman,Phoenix Coyotes,32,82,0,11,22:20,77,51,5,0,0,0,0,0,0,2011-2012
+8471811,Cal O'Reilly,Forward,Phoenix Coyotes,5,33,0,2,12:45,10,4,-11,0,0,0,0,0,0,2011-2012
+8471821,Matt Watkins,Forward,Phoenix Coyotes,0,1,0,0,6:37,0,0,-1,0,0,0,0,0,0,2011-2012
+8473589,Chris Summers,Defenseman,Phoenix Coyotes,3,21,0,0,12:27,19,11,-4,0,0,0,0,0,0,2011-2012
+8473673,David Schlemko,Defenseman,Phoenix Coyotes,10,46,0,1,18:21,88,10,7,0,0,0,0,0,0,2011-2012
+8474068,Kyle Turris,Forward,Phoenix Coyotes,17,55,0,12,16:51,14,31,10,0,0,0,0,0,0,2011-2012
+8474571,Mikkel Boedker,Forward,Phoenix Coyotes,13,82,0,11,13:38,21,12,-2,0,0,0,0,0,0,2011-2012
+8474628,Michael Stone,Defenseman,Phoenix Coyotes,2,13,0,1,13:53,18,2,7,0,0,0,0,0,0,2011-2012
+8475171,Oliver Ekman-Larsson,Defenseman,Phoenix Coyotes,19,82,0,13,22:06,92,32,0,0,0,0,0,0,0,2011-2012
+8475182,David Rundblad,Defenseman,Phoenix Coyotes,6,30,0,1,15:00,28,6,-12,0,0,0,0,0,0,2011-2012
+8476206,Andy Miele,Forward,Phoenix Coyotes,0,7,0,0,8:56,0,6,-3,0,0,0,0,0,0,2011-2012
+8467391,Jason LaBarbera,Goalie,Phoenix Coyotes,0,19,14,0,53:24:00,0,0,0,3,9,2.54279,486,43,0,2011-2012
+8469608,Mike Smith,Goalie,Phoenix Coyotes,0,67,67,0,58:15:00,0,0,0,38,18,2.213568,2066,144,8,2011-2012
+8470147,Curtis McElhinney,Goalie,Phoenix Coyotes,0,2,1,0,35:53:00,0,0,0,1,0,1.672085,36,2,0,2011-2012
+8462129,Michal Handzus,Forward,San Jose Sharks,17,67,0,7,14:27,59,18,-6,0,0,0,0,0,0,2011-2012
+8465005,Colin White,Defenseman,San Jose Sharks,3,54,0,1,14:56,94,21,-5,0,0,0,0,0,0,2011-2012
+8466138,Joe Thornton,Forward,San Jose Sharks,59,82,0,18,20:28,26,31,17,0,0,0,0,0,0,2011-2012
+8466139,Patrick Marleau,Forward,San Jose Sharks,34,82,0,30,20:28,33,26,10,0,0,0,0,0,0,2011-2012
+8467096,Dan Boyle,Defenseman,San Jose Sharks,39,81,0,9,25:34:00,137,57,10,0,0,0,0,0,0,2011-2012
+8467899,Martin Havlat,Forward,San Jose Sharks,20,39,0,7,17:37,14,22,10,0,0,0,0,0,0,2011-2012
+8468114,Douglas Murray,Defenseman,San Jose Sharks,4,60,0,0,18:22,143,31,3,0,0,0,0,0,0,2011-2012
+8468213,Jim Vandermeer,Defenseman,San Jose Sharks,3,25,0,1,10:24,10,33,3,0,0,0,0,0,0,2011-2012
+8468515,Brad Winchester,Forward,San Jose Sharks,4,67,0,6,7:48,13,88,-5,0,0,0,0,0,0,2011-2012
+8468575,Dominic Moore,Forward,San Jose Sharks,21,79,0,4,15:32,23,54,-18,0,0,0,0,0,0,2011-2012
+8469622,Ryane Clowe,Forward,San Jose Sharks,28,76,0,17,17:51,36,97,-5,0,0,0,0,0,0,2011-2012
+8469685,Andrew Murray,Forward,San Jose Sharks,3,39,0,1,7:42,8,4,3,0,0,0,0,0,0,2011-2012
+8470613,Brent Burns,Defenseman,San Jose Sharks,26,81,0,11,22:32,117,34,8,0,0,0,0,0,0,2011-2012
+8470794,Joe Pavelski,Forward,San Jose Sharks,30,82,0,31,20:36,84,31,18,0,0,0,0,0,0,2011-2012
+8471338,Torrey Mitchell,Forward,San Jose Sharks,10,76,0,9,12:26,33,29,-6,0,0,0,0,0,0,2011-2012
+8471476,Daniel Winnik,Forward,San Jose Sharks,15,84,0,8,16:41,50,52,-11,0,0,0,0,0,0,2011-2012
+8471709,Marc-Edouard Vlasic,Defenseman,San Jose Sharks,19,82,0,4,23:09,171,40,11,0,0,0,0,0,0,2011-2012
+8471956,Andrew Desjardins,Forward,San Jose Sharks,13,76,0,4,9:34,49,47,4,0,0,0,0,0,0,2011-2012
+8473465,Jamie McGinn,Forward,San Jose Sharks,17,78,0,20,13:26,37,37,-3,0,0,0,0,0,0,2011-2012
+8473562,John McCarthy,Forward,San Jose Sharks,0,10,0,0,9:26,1,10,-2,0,0,0,0,0,0,2011-2012
+8473600,Benn Ferriero,Forward,San Jose Sharks,1,35,0,7,12:02,13,8,0,0,0,0,0,0,0,2011-2012
+8473712,Frazer McLaren,Forward,San Jose Sharks,0,7,0,0,4:52,2,9,0,0,0,0,0,0,0,2011-2012
+8474001,TJ Galiardi,Forward,San Jose Sharks,6,69,0,9,13:02,22,53,-8,0,0,0,0,0,0,2011-2012
+8474027,Justin Braun,Defenseman,San Jose Sharks,9,66,0,2,16:32,66,23,-2,0,0,0,0,0,0,2011-2012
+8474053,Logan Couture,Forward,San Jose Sharks,34,80,0,31,18:33,76,16,2,0,0,0,0,0,0,2011-2012
+8474218,Jason Demers,Defenseman,San Jose Sharks,9,57,0,4,16:50,58,22,-8,0,0,0,0,0,0,2011-2012
+8474739,Tommy Wingels,Forward,San Jose Sharks,6,33,0,3,13:44,23,18,-1,0,0,0,0,0,0,2011-2012
+8471306,Thomas Greiss,Goalie,San Jose Sharks,0,19,14,0,54:52:00,0,0,0,9,7,2.30168,472,40,0,2011-2012
+8474550,Antti Niemi,Goalie,San Jose Sharks,0,68,68,0,57:52:00,0,0,0,34,22,2.423924,1865,159,6,2011-2012
+8459492,Vinny Prospal,Forward,Columbus Blue Jackets,39,82,0,16,17:53,39,36,-11,0,0,0,0,0,0,2011-2012
+8465192,Samuel Pahlsson,Forward,Columbus Blue Jackets,13,80,0,4,14:46,37,34,-2,0,0,0,0,0,0,2011-2012
+8466181,Kristian Huselius,Forward,Columbus Blue Jackets,0,2,0,0,16:12,0,2,-2,0,0,0,0,0,0,2011-2012
+8468001,Derek MacKenzie,Forward,Columbus Blue Jackets,7,66,0,7,10:30,19,40,4,0,0,0,0,0,0,2011-2012
+8468086,Alexandre Giroux,Forward,Columbus Blue Jackets,0,9,0,1,12:11,0,8,-2,0,0,0,0,0,0,2011-2012
+8468101,Radek Martinek,Defenseman,Columbus Blue Jackets,0,7,0,1,19:26,7,0,-3,0,0,0,0,0,0,2011-2012
+8468535,Antoine Vermette,Forward,Columbus Blue Jackets,26,82,0,11,17:12,48,28,-13,0,0,0,0,0,0,2011-2012
+8469469,R.J. Umberger,Forward,Columbus Blue Jackets,20,77,0,20,18:11,70,27,-10,0,0,0,0,0,0,2011-2012
+8469492,Fedor Tyutin,Defenseman,Columbus Blue Jackets,21,66,0,5,24:08:00,91,49,-21,0,0,0,0,0,0,2011-2012
+8469534,Aaron Johnson,Defenseman,Columbus Blue Jackets,13,56,0,3,16:30,72,26,-12,0,0,0,0,0,0,2011-2012
+8470041,Rick Nash,Forward,Columbus Blue Jackets,29,82,0,30,19:05,21,40,-19,0,0,0,0,0,0,2011-2012
+8470222,James Wisniewski,Defenseman,Columbus Blue Jackets,21,48,0,6,24:47:00,74,37,-13,0,0,0,0,0,0,2011-2012
+8470604,Jeff Carter,Forward,Columbus Blue Jackets,13,55,0,21,19:11,17,16,-12,0,0,0,0,0,0,2011-2012
+8470760,Marc Methot,Defenseman,Columbus Blue Jackets,6,46,0,1,20:03,52,24,-11,0,0,0,0,0,0,2011-2012
+8470838,Andrew Joudrey,Forward,Columbus Blue Jackets,0,1,0,0,9:16,2,0,0,0,0,0,0,0,0,2011-2012
+8470986,Darryl Boyce,Forward,Columbus Blue Jackets,4,37,0,1,9:58,14,35,-8,0,0,0,0,0,0,2011-2012
+8471187,Brett Lebda,Defenseman,Columbus Blue Jackets,3,30,0,1,16:28,21,14,-1,0,0,0,0,0,0,2011-2012
+8471261,Dane Byers,Forward,Columbus Blue Jackets,0,8,0,0,8:05,4,29,0,0,0,0,0,0,0,2011-2012
+8471348,Nikita Nikitin,Defenseman,Columbus Blue Jackets,25,61,0,7,23:11,114,18,-10,0,0,0,0,0,0,2011-2012
+8471482,Grant Clitsome,Defenseman,Columbus Blue Jackets,13,63,0,4,17:00,61,32,-9,0,0,0,0,0,0,2011-2012
+8471677,Jack Johnson,Defenseman,Columbus Blue Jackets,26,82,0,12,23:46,129,39,-7,0,0,0,0,0,0,2011-2012
+8471729,Kris Russell,Defenseman,Columbus Blue Jackets,6,55,0,6,17:00,78,25,12,0,0,0,0,0,0,2011-2012
+8471760,Cody Bass,Forward,Columbus Blue Jackets,1,14,0,0,9:05,7,32,0,0,0,0,0,0,0,2011-2012
+8471766,Jared Boll,Forward,Columbus Blue Jackets,1,54,0,2,8:07,10,126,-8,0,0,0,0,0,0,2011-2012
+8471868,Ryan Russell,Forward,Columbus Blue Jackets,0,41,0,2,11:40,44,2,-7,0,0,0,0,0,0,2011-2012
+8473432,Derek Dorsett,Forward,Columbus Blue Jackets,8,77,0,12,14:41,40,235,-11,0,0,0,0,0,0,2011-2012
+8473544,Derick Brassard,Forward,Columbus Blue Jackets,27,74,0,14,16:20,16,42,-20,0,0,0,0,0,0,2011-2012
+8473914,Mark Letestu,Forward,Columbus Blue Jackets,14,62,0,11,15:38,19,8,-9,0,0,0,0,0,0,2011-2012
+8474121,Colton Gillies,Forward,Columbus Blue Jackets,6,75,0,2,10:05,46,35,-9,0,0,0,0,0,0,2011-2012
+8474195,Maksim Mayorov,Forward,Columbus Blue Jackets,1,10,0,1,10:39,3,2,-3,0,0,0,0,0,0,2011-2012
+8474597,Cody Goloubef,Defenseman,Columbus Blue Jackets,0,1,0,0,6:00,0,0,1,0,0,0,0,0,0,2011-2012
+8474685,Matt Calvert,Forward,Columbus Blue Jackets,3,13,0,0,9:07,1,16,-5,0,0,0,0,0,0,2011-2012
+8474693,Tomas Kubalik,Forward,Columbus Blue Jackets,1,8,0,1,13:17,5,6,-3,0,0,0,0,0,0,2011-2012
+8474715,Cam Atkinson,Forward,Columbus Blue Jackets,7,27,0,7,15:23,17,14,1,0,0,0,0,0,0,2011-2012
+8474774,Dalton Prout,Defenseman,Columbus Blue Jackets,0,5,0,0,11:47,3,0,1,0,0,0,0,0,0,2011-2012
+8475186,John Moore,Defenseman,Columbus Blue Jackets,5,67,0,2,15:49,70,8,-23,0,0,0,0,0,0,2011-2012
+8475233,David Savard,Defenseman,Columbus Blue Jackets,8,31,0,2,16:34,15,16,0,0,0,0,0,0,0,2011-2012
+8475793,Ryan Johansen,Forward,Columbus Blue Jackets,12,67,0,9,12:44,24,24,-2,0,0,0,0,0,0,2011-2012
+8468166,Curtis Sanford,Goalie,Columbus Blue Jackets,0,36,32,0,55:04:00,0,0,0,10,18,2.602227,971,86,1,2011-2012
+8473461,Steve Mason,Goalie,Columbus Blue Jackets,0,46,45,0,55:04:00,0,0,0,16,26,3.386374,1355,143,1,2011-2012
+8474057,Allen York,Goalie,Columbus Blue Jackets,0,11,5,0,37:52:00,0,0,0,3,2,2.303816,199,16,0,2011-2012
+8476803,Shawn Hunwick,Goalie,Columbus Blue Jackets,0,1,0,0,2:33,0,0,0,0,0,0,0,0,0,2011-2012
+8464989,Matt Cullen,Forward,Minnesota Wild,21,73,0,14,18:56,39,24,-10,0,0,0,0,0,0,2011-2012
+8468482,Dany Heatley,Forward,Minnesota Wild,29,82,0,24,20:56,45,28,2,0,0,0,0,0,0,2011-2012
+8468510,Jeff Taffe,Forward,Minnesota Wild,2,5,0,0,12:54,2,0,2,0,0,0,0,0,0,2011-2012
+8468513,Nick Schultz,Defenseman,Minnesota Wild,6,82,0,1,19:42,165,40,-12,0,0,0,0,0,0,2011-2012
+8468520,Kurtis Foster,Defenseman,Minnesota Wild,10,51,0,4,15:53,35,35,-13,0,0,0,0,0,0,2011-2012
+8468584,Jon Disalvatore,Forward,Minnesota Wild,0,1,0,0,14:27,0,2,0,0,0,0,0,0,0,2011-2012
+8468636,Greg Zanon,Defenseman,Minnesota Wild,5,56,0,3,17:47,136,18,3,0,0,0,0,0,0,2011-2012
+8468887,Warren Peters,Forward,Minnesota Wild,4,58,0,1,10:35,34,54,-15,0,0,0,0,0,0,2011-2012
+8469459,Mikko Koivu,Forward,Minnesota Wild,32,55,0,12,21:21,21,28,10,0,0,0,0,0,0,2011-2012
+8469542,Stephane Veilleux,Forward,Minnesota Wild,2,22,0,0,9:48,5,15,-2,0,0,0,0,0,0,2011-2012
+8469623,Marek Zidlicky,Defenseman,Minnesota Wild,20,63,0,2,21:19,58,34,-6,0,0,0,0,0,0,2011-2012
+8470104,Tom Gilbert,Defenseman,Minnesota Wild,19,67,0,3,24:03:00,115,20,-8,0,0,0,0,0,0,2011-2012
+8470153,Pierre-Marc Bouchard,Forward,Minnesota Wild,13,37,0,9,16:19,9,18,-1,0,0,0,0,0,0,2011-2012
+8470299,Erik Christensen,Forward,Minnesota Wild,5,49,0,7,10:24,4,8,-13,0,0,0,0,0,0,2011-2012
+8470580,Jed Ortmeyer,Forward,Minnesota Wild,1,35,0,1,9:43,14,14,-8,0,0,0,0,0,0,2011-2012
+8470803,Kyle Brodziak,Forward,Minnesota Wild,22,82,0,22,19:03,62,66,-15,0,0,0,0,0,0,2011-2012
+8470886,Clayton Stoner,Defenseman,Minnesota Wild,4,51,0,1,17:35,80,62,3,0,0,0,0,0,0,2011-2012
+8471280,Nick Johnson,Forward,Minnesota Wild,18,77,0,8,14:26,21,45,-6,0,0,0,0,0,0,2011-2012
+8471314,Mike Lundin,Defenseman,Minnesota Wild,2,17,0,0,20:12,35,4,-1,0,0,0,0,0,0,2011-2012
+8471521,Brad Staubitz,Forward,Minnesota Wild,0,62,0,1,6:31,20,121,-5,0,0,0,0,0,0,2011-2012
+8471670,Guillaume Latendresse,Forward,Minnesota Wild,4,16,0,5,15:11,3,20,6,0,0,0,0,0,0,2011-2012
+8471682,Devin Setoguchi,Forward,Minnesota Wild,17,69,0,19,17:35,23,28,-17,0,0,0,0,0,0,2011-2012
+8471719,Matt Kassian,Forward,Minnesota Wild,0,24,0,2,5:32,5,55,-2,0,0,0,0,0,0,2011-2012
+8471846,Kris Fredheim,Defenseman,Minnesota Wild,0,3,0,0,11:58,5,2,-2,0,0,0,0,0,0,2011-2012
+8471885,Chad Rau,Forward,Minnesota Wild,0,9,0,2,10:53,5,0,-1,0,0,0,0,0,0,2011-2012
+8473504,Cal Clutterbuck,Forward,Minnesota Wild,12,74,0,15,16:21,31,103,-4,0,0,0,0,0,0,2011-2012
+8473511,David McIntyre,Forward,Minnesota Wild,1,7,0,1,10:54,3,2,-1,0,0,0,0,0,0,2011-2012
+8473932,Darroll Powe,Forward,Minnesota Wild,7,82,0,6,13:59,91,57,-20,0,0,0,0,0,0,2011-2012
+8473992,Justin Falk,Defenseman,Minnesota Wild,8,47,0,1,19:29,78,54,-13,0,0,0,0,0,0,2011-2012
+8473999,Nick Palmieri,Forward,Minnesota Wild,3,38,0,4,10:35,7,14,-10,0,0,0,0,0,0,2011-2012
+8474000,Steven Kampfer,Defenseman,Minnesota Wild,3,23,0,2,14:54,31,6,-1,0,0,0,0,0,0,2011-2012
+8474042,Cody Almond,Forward,Minnesota Wild,0,10,0,1,10:12,8,15,-5,0,0,0,0,0,0,2011-2012
+8474077,Carson McMillan,Forward,Minnesota Wild,2,11,0,1,11:03,9,11,1,0,0,0,0,0,0,2011-2012
+8474121,Colton Gillies,Forward,Minnesota Wild,6,75,0,2,10:05,46,35,-9,0,0,0,0,0,0,2011-2012
+8474585,Tyler Cuma,Defenseman,Minnesota Wild,0,1,0,0,11:09,1,2,0,0,0,0,0,0,0,2011-2012
+8474618,Marco Scandella,Defenseman,Minnesota Wild,9,63,0,3,21:46,106,19,-22,0,0,0,0,0,0,2011-2012
+8474716,Jared Spurgeon,Defenseman,Minnesota Wild,20,70,0,3,21:35,95,6,-4,0,0,0,0,0,0,2011-2012
+8475219,Kristopher Foucault,Forward,Minnesota Wild,0,1,0,0,8:50,0,0,0,0,0,0,0,0,0,2011-2012
+8475602,Casey Wellman,Forward,Minnesota Wild,5,14,0,2,12:44,7,0,-4,0,0,0,0,0,0,2011-2012
+8475613,Nate Prosser,Defenseman,Minnesota Wild,11,51,0,1,19:14,124,57,-17,0,0,0,0,0,0,2011-2012
+8475679,Jarod Palmer,Forward,Minnesota Wild,0,6,0,1,13:20,1,4,-2,0,0,0,0,0,0,2011-2012
+8475722,Jason Zucker,Forward,Minnesota Wild,2,6,0,0,11:01,2,2,-2,0,0,0,0,0,0,2011-2012
+8475757,Brett Bulmer,Forward,Minnesota Wild,3,9,0,0,11:01,2,6,1,0,0,0,0,0,0,2011-2012
+8476224,Chay Genoway,Defenseman,Minnesota Wild,1,1,0,0,18:16,1,0,0,0,0,0,0,0,0,2011-2012
+8470216,Josh Harding,Goalie,Minnesota Wild,0,34,30,0,54:33:00,0,0,0,13,12,2.620134,981,81,2,2011-2012
+8473404,Niklas Backstrom,Goalie,Minnesota Wild,0,46,45,0,56:17:00,0,0,0,19,18,2.43273,1299,105,4,2011-2012
+8475252,Matt Hackett,Goalie,Minnesota Wild,0,12,7,0,46:17:00,0,0,0,3,6,2.375952,282,22,0,2011-2012
+8467353,Nik Antropov,Forward,Winnipeg Jets,20,69,0,15,16:30,41,42,0,0,0,0,0,0,0,2011-2012
+8468493,Ron Hainsey,Defenseman,Winnipeg Jets,10,56,0,0,21:05,133,23,9,0,0,0,0,0,0,2011-2012
+8468704,Antti Miettinen,Forward,Winnipeg Jets,8,45,0,5,11:42,11,0,-5,0,0,0,0,0,0,2011-2012
+8468881,Jason Jaffray,Forward,Winnipeg Jets,1,13,0,0,6:30,2,7,-1,0,0,0,0,0,0,2011-2012
+8469501,Chris Thorburn,Forward,Winnipeg Jets,7,72,0,4,10:10,46,83,-6,0,0,0,0,0,0,2011-2012
+8469581,Kyle Wellwood,Forward,Winnipeg Jets,29,77,0,18,14:57,13,4,3,0,0,0,0,0,0,2011-2012
+8469665,Johnny Oduya,Defenseman,Winnipeg Jets,15,81,0,3,20:27,140,33,-6,0,0,0,0,0,0,2011-2012
+8470061,Derek Meech,Defenseman,Winnipeg Jets,0,2,0,0,11:26,0,4,1,0,0,0,0,0,0,2011-2012
+8470289,Jim Slater,Forward,Winnipeg Jets,8,78,0,13,14:45,73,42,-9,0,0,0,0,0,0,2011-2012
+8470611,Eric Fehr,Forward,Winnipeg Jets,1,35,0,2,9:41,13,12,-6,0,0,0,0,0,0,2011-2012
+8470614,Mark Stuart,Defenseman,Winnipeg Jets,11,80,0,3,17:12,182,98,-4,0,0,0,0,0,0,2011-2012
+8470780,Mark Flood,Defenseman,Winnipeg Jets,4,33,0,3,15:20,43,10,-1,0,0,0,0,0,0,2011-2012
+8470828,Toby Enstrom,Defenseman,Winnipeg Jets,27,62,0,6,23:50,84,38,6,0,0,0,0,0,0,2011-2012
+8470834,Dustin Byfuglien,Defenseman,Winnipeg Jets,41,66,0,12,24:06:00,57,72,-8,0,0,0,0,0,0,2011-2012
+8470854,Tanner Glass,Forward,Winnipeg Jets,11,78,0,5,13:25,51,73,-12,0,0,0,0,0,0,2011-2012
+8470905,Randy Jones,Defenseman,Winnipeg Jets,1,39,0,1,14:48,40,8,4,0,0,0,0,0,0,2011-2012
+8471217,Andrew Ladd,Forward,Winnipeg Jets,22,82,0,28,19:33,25,64,-8,0,0,0,0,0,0,2011-2012
+8471218,Blake Wheeler,Forward,Winnipeg Jets,47,80,0,17,19:04,46,55,3,0,0,0,0,0,0,2011-2012
+8471451,Aaron Gagnon,Forward,Winnipeg Jets,0,7,0,0,9:26,4,0,-1,0,0,0,0,0,0,2011-2012
+8471482,Grant Clitsome,Defenseman,Winnipeg Jets,13,63,0,4,17:00,61,32,-9,0,0,0,0,0,0,2011-2012
+8471694,Kenndal McArdle,Forward,Winnipeg Jets,0,9,0,0,6:06,4,4,-3,0,0,0,0,0,0,2011-2012
+8471978,Brett Festerling,Defenseman,Winnipeg Jets,0,5,0,0,13:07,3,2,-1,0,0,0,0,0,0,2011-2012
+8472379,Tim Stapleton,Forward,Winnipeg Jets,16,63,0,11,10:08,23,10,-2,0,0,0,0,0,0,2011-2012
+8473412,Bryan Little,Forward,Winnipeg Jets,22,74,0,24,20:13,13,26,-11,0,0,0,0,0,0,2011-2012
+8473459,Arturs Kulda,Defenseman,Winnipeg Jets,0,9,0,0,10:52,8,4,3,0,0,0,0,0,0,2011-2012
+8473493,Ben Maxwell,Forward,Winnipeg Jets,5,15,0,1,6:44,6,2,4,0,0,0,0,0,0,2011-2012
+8474050,Brett MacLean,Forward,Winnipeg Jets,2,5,0,0,8:29,1,2,1,0,0,0,0,0,0,2011-2012
+8474074,Paul Postma,Defenseman,Winnipeg Jets,0,3,0,0,8:30,1,0,0,0,0,0,0,0,0,2011-2012
+8474146,Spencer Machacek,Forward,Winnipeg Jets,7,13,0,2,7:30,1,7,8,0,0,0,0,0,0,2011-2012
+8474567,Zach Bogosian,Defenseman,Winnipeg Jets,25,65,0,5,23:18,109,71,-3,0,0,0,0,0,0,2011-2012
+8474616,Patrice Cormier,Forward,Winnipeg Jets,0,9,0,0,6:21,0,0,1,0,0,0,0,0,0,2011-2012
+8475159,Carl Klingberg,Forward,Winnipeg Jets,0,6,0,0,5:29,0,4,-1,0,0,0,0,0,0,2011-2012
+8475169,Evander Kane,Forward,Winnipeg Jets,27,74,0,30,17:31,31,53,11,0,0,0,0,0,0,2011-2012
+8475788,Alexander Burmistrov,Forward,Winnipeg Jets,15,76,0,13,16:39,15,42,4,0,0,0,0,0,0,2011-2012
+8476460,Mark Scheifele,Forward,Winnipeg Jets,0,7,0,1,10:56,1,0,0,0,0,0,0,0,0,2011-2012
+8462152,Chris Mason,Goalie,Winnipeg Jets,0,20,15,0,49:44:00,0,0,0,8,7,2.593312,422,43,2,2011-2012
+8471715,Ondrej Pavelec,Goalie,Winnipeg Jets,0,68,67,0,57:49:00,0,0,0,29,28,2.914226,2036,191,4,2011-2012
+8474771,Peter Mannino,Goalie,Winnipeg Jets,0,1,0,0,19:51,0,0,0,0,0,0,4,0,0,2011-2012
