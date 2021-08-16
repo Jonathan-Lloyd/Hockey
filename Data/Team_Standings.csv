@@ -1,17 +1,17 @@
-Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Result
-2011-12,Anaheim Ducks,NHL,Pacific,82,34,36,0,5,7,80,0.488,204,231,,14760,"Carlyle, Boudreau {+}",Out of Playoffs
+ï»¿Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Result
+2011-12,Anaheim Ducks,NHL,Pacific,82,34,36,0,5,7,80,0.488,204,231,,14760,"Carlyle,Â BoudreauÂ {+}",Out of Playoffs
 2012-13,Anaheim Ducks,NHL,Pacific,48,30,12,0,3,3,66,0.688,140,118,,15888,Bruce Boudreau,Lost in round 1
 2013-14,Anaheim Ducks,NHL,Pacific,82,54,20,0,2,6,116,0.707,266,209,894,16469,Bruce Boudreau,Lost in round 2
 2014-15,Anaheim Ducks,NHL,Pacific,82,51,24,0,2,5,109,0.665,236,226,887,16874,Bruce Boudreau,Lost in round 3
 2015-16,Anaheim Ducks,NHL,Pacific,82,46,25,0,7,4,103,0.628,218,192,,16337,Bruce Boudreau,Lost in round 1
 2016-17,Anaheim Ducks,NHL,Pacific,82,46,23,0,10,3,105,0.64,223,200,,15942,Randy Carlyle,Lost in round 3
 2017-18,Anaheim Ducks,NHL,Pacific,82,44,25,0,6,7,101,0.616,235,216,,16636,Randy Carlyle,Lost in round 1
-2018-19,Anaheim Ducks,NHL,Pacific,82,35,37,0,7,3,80,0.488,199,251,,16814,"Carlyle, Murray {+}",Out of Playoffs
+2018-19,Anaheim Ducks,NHL,Pacific,82,35,37,0,7,3,80,0.488,199,251,,16814,"Carlyle,Â MurrayÂ {+}",Out of Playoffs
 2019-20,Anaheim Ducks,NHL,Pacific,71,29,33,0,8,1,67,0.472,187,226,,15847,Dallas Eakins,Out of Playoffs
 2020-21,Anaheim Ducks,NHL,West,56,17,30,0,7,2,43,0.384,126,179,,,Dallas Eakins,Out of Playoffs
 2011-12,Winnipeg Jets,NHL,Southeast,82,37,35,0,6,4,84,0.512,225,246,,15004,Claude Noel,Out of Playoffs
 2012-13,Winnipeg Jets,NHL,Southeast,48,24,21,0,0,3,51,0.531,128,144,,15004,Claude Noel,Out of Playoffs
-2013-14,Winnipeg Jets,NHL,Central,82,37,35,0,4,6,84,0.512,227,237,973,15004,"Noel, Maurice {+}",Out of Playoffs
+2013-14,Winnipeg Jets,NHL,Central,82,37,35,0,4,6,84,0.512,227,237,973,15004,"Noel,Â MauriceÂ {+}",Out of Playoffs
 2014-15,Winnipeg Jets,NHL,Central,82,43,26,0,7,6,99,0.604,230,210,,15038,Paul Maurice,Lost in round 1
 2015-16,Winnipeg Jets,NHL,Central,82,35,39,0,5,3,78,0.476,215,239,,15294,Paul Maurice,Out of Playoffs
 2016-17,Winnipeg Jets,NHL,Central,82,40,35,0,6,1,87,0.53,249,256,,15732,Paul Maurice,Out of Playoffs
@@ -24,21 +24,21 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2013-14,Boston Bruins,NHL,Atlantic,82,54,19,0,3,6,117,0.713,261,177,886,17565,Claude Julien,Lost in round 2
 2014-15,Boston Bruins,NHL,Atlantic,82,41,27,0,4,10,96,0.585,213,211,,17565,Claude Julien,Out of Playoffs
 2015-16,Boston Bruins,NHL,Atlantic,82,42,31,0,7,2,93,0.567,240,230,,18777,Claude Julien,Out of Playoffs
-2016-17,Boston Bruins,NHL,Atlantic,82,44,31,0,4,3,95,0.579,234,212,,17565,"Julien, Cassidy {+}",Lost in round 1
+2016-17,Boston Bruins,NHL,Atlantic,82,44,31,0,4,3,95,0.579,234,212,,17565,"Julien,Â CassidyÂ {+}",Lost in round 1
 2017-18,Boston Bruins,NHL,Atlantic,82,50,20,0,9,3,112,0.683,270,214,,17565,Bruce Cassidy,Lost in round 2
 2018-19,Boston Bruins,NHL,Atlantic,82,49,24,0,6,3,107,0.652,259,215,,17565,Bruce Cassidy,Lost in Finals
 2019-20,Boston Bruins,NHL,Atlantic,70,44,14,0,5,7,100,0.714,227,174,,17681,Bruce Cassidy,Lost in round 3
 2020-21,Boston Bruins,NHL,East,56,33,16,0,5,2,73,0.652,168,136,,,Bruce Cassidy,Lost in round 2
 2011-12,Buffalo Sabres,NHL,Northeast,82,39,32,0,4,7,89,0.543,218,230,,18550,Lindy Ruff,Out of Playoffs
-2012-13,Buffalo Sabres,NHL,Northeast,48,21,21,0,2,4,48,0.5,125,143,,18970,"Ruff, Rolston {+}",Out of Playoffs
-2013-14,Buffalo Sabres,NHL,Atlantic,82,21,51,0,5,5,52,0.317,157,248,903,18580,"Rolston, Nolan {+}",Out of Playoffs
+2012-13,Buffalo Sabres,NHL,Northeast,48,21,21,0,2,4,48,0.5,125,143,,18970,"Ruff,Â RolstonÂ {+}",Out of Playoffs
+2013-14,Buffalo Sabres,NHL,Atlantic,82,21,51,0,5,5,52,0.317,157,248,903,18580,"Rolston,Â NolanÂ {+}",Out of Playoffs
 2014-15,Buffalo Sabres,NHL,Atlantic,82,23,51,0,3,5,54,0.329,161,274,,18581,Ted Nolan,Out of Playoffs
 2015-16,Buffalo Sabres,NHL,Atlantic,82,35,36,0,4,7,81,0.494,201,222,,18541,Dan Bylsma,Out of Playoffs
 2016-17,Buffalo Sabres,NHL,Atlantic,82,33,37,0,6,6,78,0.476,201,237,,18592,Dan Bylsma,Out of Playoffs
 2017-18,Buffalo Sabres,NHL,Atlantic,82,25,45,0,10,2,62,0.378,199,280,,18564,Phil Housley,Out of Playoffs
 2018-19,Buffalo Sabres,NHL,Atlantic,82,33,39,0,7,3,76,0.463,226,271,,17908,Phil Housley,Out of Playoffs
 2019-20,Buffalo Sabres,NHL,Atlantic,69,30,31,0,6,2,68,0.493,195,217,,17167,Ralph Krueger,Out of Playoffs
-2020-21,Buffalo Sabres,NHL,East,56,15,34,0,4,3,37,0.33,138,199,,,"Krueger, Granato {+}",Out of Playoffs
+2020-21,Buffalo Sabres,NHL,East,56,15,34,0,4,3,37,0.33,138,199,,,"Krueger,Â GranatoÂ {+}",Out of Playoffs
 2011-12,Calgary Flames,NHL,Northwest,82,37,29,0,7,9,90,0.549,202,226,,19289,Brent Sutter,Out of Playoffs
 2012-13,Calgary Flames,NHL,Northwest,48,19,25,0,1,3,42,0.438,128,160,,19289,Bob Hartley,Out of Playoffs
 2013-14,Calgary Flames,NHL,Pacific,82,35,40,0,4,3,77,0.47,209,241,858,19302,Bob Hartley,Out of Playoffs
@@ -47,7 +47,7 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2016-17,Calgary Flames,NHL,Pacific,82,45,33,0,2,2,94,0.573,226,221,,18728,Glen Gulutzan,Lost in round 1
 2017-18,Calgary Flames,NHL,Pacific,82,37,35,0,5,5,84,0.512,218,248,,18905,Glen Gulutzan,Out of Playoffs
 2018-19,Calgary Flames,NHL,Pacific,82,50,25,0,3,4,107,0.652,289,227,,18501,Bill Peters,Lost in round 1
-2019-20,Calgary Flames,NHL,Pacific,70,36,27,0,6,1,79,0.564,210,215,,18751,"Peters, Ward {+}",Lost in round 2
+2019-20,Calgary Flames,NHL,Pacific,70,36,27,0,6,1,79,0.564,210,215,,18751,"Peters,Â WardÂ {+}",Lost in round 2
 2020-21,Calgary Flames,NHL,North,56,26,27,0,2,1,55,0.491,156,161,,,Darryl Sutter,Out of Playoffs
 2011-12,Chicago Blackhawks,NHL,Central,82,45,26,0,4,7,101,0.616,248,238,,21534,Joel Quenneville,Lost in round 1
 2012-13,Chicago Blackhawks,NHL,Central,48,36,7,0,0,5,77,0.802,155,102,,21776,Joel Quenneville,Won Championship
@@ -56,14 +56,14 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2015-16,Chicago Blackhawks,NHL,Central,82,47,26,0,7,2,103,0.628,235,209,,21860,Joel Quenneville,Lost in round 1
 2016-17,Chicago Blackhawks,NHL,Central,82,50,23,0,8,1,109,0.665,244,213,,21752,Joel Quenneville,Lost in round 1
 2017-18,Chicago Blackhawks,NHL,Central,82,33,39,0,8,2,76,0.463,229,256,,21654,Joel Quenneville,Out of Playoffs
-2018-19,Chicago Blackhawks,NHL,Central,82,36,34,0,11,1,84,0.512,270,292,,22734,"Quenneville, Colliton {+}",Out of Playoffs
+2018-19,Chicago Blackhawks,NHL,Central,82,36,34,0,11,1,84,0.512,270,292,,22734,"Quenneville,Â CollitonÂ {+}",Out of Playoffs
 2019-20,Chicago Blackhawks,NHL,Central,70,32,30,0,4,4,72,0.514,212,218,,21441,Jeremy Colliton,Lost in round 2
 2020-21,Chicago Blackhawks,NHL,Central,56,24,25,0,5,2,55,0.491,161,186,,,Jeremy Colliton,Out of Playoffs
-2011-12,Columbus Blue Jackets,NHL,Central,82,29,46,0,2,5,65,0.396,202,262,,14660,"Arniel, Richards {+}",Out of Playoffs
+2011-12,Columbus Blue Jackets,NHL,Central,82,29,46,0,2,5,65,0.396,202,262,,14660,"Arniel,Â RichardsÂ {+}",Out of Playoffs
 2012-13,Columbus Blue Jackets,NHL,Central,48,24,17,0,3,4,55,0.573,120,119,,14565,Todd Richards,Out of Playoffs
 2013-14,Columbus Blue Jackets,NHL,Metropolitan,82,43,32,0,5,2,93,0.567,231,216,910,14698,Todd Richards,Lost in round 1
 2014-15,Columbus Blue Jackets,NHL,Metropolitan,82,42,35,0,3,2,89,0.543,236,250,,15512,Todd Richards,Out of Playoffs
-2015-16,Columbus Blue Jackets,NHL,Metropolitan,82,34,40,0,4,4,76,0.463,219,252,,14666,"Richards, Tortorella {+}",Out of Playoffs
+2015-16,Columbus Blue Jackets,NHL,Metropolitan,82,34,40,0,4,4,76,0.463,219,252,,14666,"Richards,Â TortorellaÂ {+}",Out of Playoffs
 2016-17,Columbus Blue Jackets,NHL,Metropolitan,82,50,24,0,6,2,108,0.659,249,195,,15857,John Tortorella,Lost in round 1
 2017-18,Columbus Blue Jackets,NHL,Metropolitan,82,45,30,0,3,4,97,0.591,242,230,,16659,John Tortorella,Lost in round 1
 2018-19,Columbus Blue Jackets,NHL,Metropolitan,82,47,31,0,3,1,98,0.598,258,232,,16658,John Tortorella,Lost in round 2
@@ -77,7 +77,7 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2016-17,Dallas Stars,NHL,Central,82,34,37,0,9,2,79,0.482,223,262,,18102,Lindy Ruff,Out of Playoffs
 2017-18,Dallas Stars,NHL,Central,82,42,32,0,5,3,92,0.561,235,225,,18110,Ken Hitchcock,Out of Playoffs
 2018-19,Dallas Stars,NHL,Central,82,43,32,0,5,2,93,0.567,210,202,,18178,Jim Montgomery,Lost in round 2
-2019-20,Dallas Stars,NHL,Central,69,37,24,0,5,3,82,0.594,180,177,,20326,"Montgomery, Bowness {+}",Lost in Finals
+2019-20,Dallas Stars,NHL,Central,69,37,24,0,5,3,82,0.594,180,177,,20326,"Montgomery,Â BownessÂ {+}",Lost in Finals
 2020-21,Dallas Stars,NHL,Central,56,23,19,0,8,6,60,0.536,158,154,,,Rick Bowness,Out of Playoffs
 2011-12,Colorado Avalanche,NHL,Northwest,82,41,35,0,4,2,88,0.537,208,220,,15499,Joe Sacco,Out of Playoffs
 2012-13,Colorado Avalanche,NHL,Northwest,48,16,25,0,5,2,39,0.406,116,152,,15445,Joe Sacco,Out of Playoffs
@@ -102,57 +102,57 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2011-12,New Jersey Devils,NHL,Atlantic,82,48,28,0,2,4,102,0.622,228,209,,15397,Peter DeBoer,Lost in Finals
 2012-13,New Jersey Devils,NHL,Atlantic,48,19,19,0,3,7,48,0.5,112,129,,17114,Peter DeBoer,Out of Playoffs
 2013-14,New Jersey Devils,NHL,Metropolitan,82,35,29,0,5,13,88,0.537,197,208,656,15868,Peter DeBoer,Out of Playoffs
-2014-15,New Jersey Devils,NHL,Metropolitan,82,32,36,0,7,7,78,0.476,181,216,,15190,"DeBoer, Lamoriello {+}",Out of Playoffs
+2014-15,New Jersey Devils,NHL,Metropolitan,82,32,36,0,7,7,78,0.476,181,216,,15190,"DeBoer,Â LamorielloÂ {+}",Out of Playoffs
 2015-16,New Jersey Devils,NHL,Metropolitan,82,38,36,0,2,6,84,0.512,184,208,,15074,John Hynes,Out of Playoffs
 2016-17,New Jersey Devils,NHL,Metropolitan,82,28,40,0,11,3,70,0.427,183,244,,14567,John Hynes,Out of Playoffs
 2017-18,New Jersey Devils,NHL,Metropolitan,82,44,29,0,5,4,97,0.591,248,244,,15201,John Hynes,Lost in round 1
 2018-19,New Jersey Devils,NHL,Metropolitan,82,31,41,0,6,4,72,0.439,222,275,,14834,John Hynes,Out of Playoffs
-2019-20,New Jersey Devils,NHL,Metropolitan,69,28,29,0,6,6,68,0.493,189,230,,14899,"Hynes, Nasreddine {+}",Out of Playoffs
+2019-20,New Jersey Devils,NHL,Metropolitan,69,28,29,0,6,6,68,0.493,189,230,,14899,"Hynes,Â NasreddineÂ {+}",Out of Playoffs
 2020-21,New Jersey Devils,NHL,East,56,19,30,0,2,5,45,0.402,145,194,,,Lindy Ruff,Out of Playoffs
 2011-12,Edmonton Oilers,NHL,Northwest,82,32,40,0,3,7,74,0.451,212,239,,16839,Tom Renney,Out of Playoffs
 2012-13,Edmonton Oilers,NHL,Northwest,48,19,22,0,4,3,45,0.469,125,134,,16839,Ralph Krueger,Out of Playoffs
 2013-14,Edmonton Oilers,NHL,Pacific,82,29,44,0,6,3,67,0.409,203,270,966,16828,Dallas Eakins,Out of Playoffs
-2014-15,Edmonton Oilers,NHL,Pacific,82,24,44,0,7,7,62,0.378,198,283,,16839,"Eakins, MacTavish, Nelson {+}",Out of Playoffs
+2014-15,Edmonton Oilers,NHL,Pacific,82,24,44,0,7,7,62,0.378,198,283,,16839,"Eakins,Â MacTavish,Â NelsonÂ {+}",Out of Playoffs
 2015-16,Edmonton Oilers,NHL,Pacific,82,31,43,0,5,3,70,0.427,203,245,,16841,Todd McLellan,Out of Playoffs
 2016-17,Edmonton Oilers,NHL,Pacific,82,47,26,0,4,5,103,0.628,247,212,,18347,Todd McLellan,Lost in round 2
 2017-18,Edmonton Oilers,NHL,Pacific,82,36,40,0,5,1,78,0.476,234,263,,18347,Todd McLellan,Out of Playoffs
-2018-19,Edmonton Oilers,NHL,Pacific,82,35,38,0,6,3,79,0.482,232,274,,18347,"McLellan, Hitchcock {+}",Out of Playoffs
+2018-19,Edmonton Oilers,NHL,Pacific,82,35,38,0,6,3,79,0.482,232,274,,18347,"McLellan,Â HitchcockÂ {+}",Out of Playoffs
 2019-20,Edmonton Oilers,NHL,Pacific,71,37,25,0,7,2,83,0.585,225,217,,17510,Dave Tippett,Lost in round 1
 2020-21,Edmonton Oilers,NHL,North,56,35,19,0,2,0,72,0.643,183,154,,,Dave Tippett,Lost in round 1
 2017-18,Vegas Golden Knights,NHL,Pacific,82,51,24,0,4,3,109,0.665,272,228,,18042,Gerard Gallant,Lost in Finals
 2018-19,Vegas Golden Knights,NHL,Pacific,82,43,32,0,5,2,93,0.567,249,230,,18319,Gerard Gallant,Lost in round 1
-2019-20,Vegas Golden Knights,NHL,Pacific,71,39,24,0,6,2,86,0.606,227,211,,18311,"Gallant, DeBoer {+}",Lost in round 4
+2019-20,Vegas Golden Knights,NHL,Pacific,71,39,24,0,6,2,86,0.606,227,211,,18311,"Gallant,Â DeBoerÂ {+}",Lost in round 4
 2020-21,Vegas Golden Knights,NHL,West,56,40,14,0,0,2,82,0.732,191,124,,,Peter DeBoer,Lost in round 3
-2011-12,Los Angeles Kings,NHL,Pacific,82,40,27,0,6,9,95,0.579,194,179,,17920,"Murray, Stevens, Sutter {+}",Won Championship
+2011-12,Los Angeles Kings,NHL,Pacific,82,40,27,0,6,9,95,0.579,194,179,,17920,"Murray,Â Stevens,Â SutterÂ {+}",Won Championship
 2012-13,Los Angeles Kings,NHL,Pacific,48,27,16,0,1,4,59,0.615,133,118,,18179,Darryl Sutter,Lost in round 3
 2013-14,Los Angeles Kings,NHL,Pacific,82,46,28,0,2,6,100,0.61,206,174,876,19018,Darryl Sutter,Won Championship
 2014-15,Los Angeles Kings,NHL,Pacific,82,40,27,0,7,8,95,0.579,220,205,,18266,Darryl Sutter,Out of Playoffs
 2015-16,Los Angeles Kings,NHL,Pacific,82,48,28,0,3,3,102,0.622,225,195,,18274,Darryl Sutter,Lost in round 1
 2016-17,Los Angeles Kings,NHL,Pacific,82,39,35,0,4,4,86,0.524,201,205,,18240,Darryl Sutter,Out of Playoffs
 2017-18,Los Angeles Kings,NHL,Pacific,82,45,29,0,7,1,98,0.598,239,203,,18240,John Stevens,Lost in round 1
-2018-19,Los Angeles Kings,NHL,Pacific,82,31,42,0,5,4,71,0.433,202,263,,18001,"Stevens, Desjardins {+}",Out of Playoffs
+2018-19,Los Angeles Kings,NHL,Pacific,82,31,42,0,5,4,71,0.433,202,263,,18001,"Stevens,Â DesjardinsÂ {+}",Out of Playoffs
 2019-20,Los Angeles Kings,NHL,Pacific,70,29,35,0,3,3,64,0.457,178,212,,16916,Todd McLellan,Out of Playoffs
 2020-21,Los Angeles Kings,NHL,West,56,21,28,0,6,1,49,0.438,143,170,,,Todd McLellan,Out of Playoffs
 2011-12,Florida Panthers,NHL,Southeast,82,38,26,0,7,11,94,0.573,203,227,,16628,Kevin Dineen,Lost in round 1
 2012-13,Florida Panthers,NHL,Southeast,48,15,27,0,5,1,36,0.375,112,171,,16992,Kevin Dineen,Out of Playoffs
-2013-14,Florida Panthers,NHL,Atlantic,82,29,45,0,2,6,66,0.402,196,268,848,14525,"Dineen, Horachek {+}",Out of Playoffs
+2013-14,Florida Panthers,NHL,Atlantic,82,29,45,0,2,6,66,0.402,196,268,848,14525,"Dineen,Â HorachekÂ {+}",Out of Playoffs
 2014-15,Florida Panthers,NHL,Atlantic,82,38,29,0,5,10,91,0.555,206,223,,11271,Gerard Gallant,Out of Playoffs
 2015-16,Florida Panthers,NHL,Atlantic,82,47,26,0,6,3,103,0.628,239,203,,15384,Gerard Gallant,Lost in round 1
-2016-17,Florida Panthers,NHL,Atlantic,82,35,36,0,5,6,81,0.494,210,237,,14621,"Gallant, Rowe {+}",Out of Playoffs
+2016-17,Florida Panthers,NHL,Atlantic,82,35,36,0,5,6,81,0.494,210,237,,14621,"Gallant,Â RoweÂ {+}",Out of Playoffs
 2017-18,Florida Panthers,NHL,Atlantic,82,44,30,0,5,3,96,0.585,248,246,,13851,Bob Boughner,Out of Playoffs
 2018-19,Florida Panthers,NHL,Atlantic,82,36,32,0,7,7,86,0.524,267,280,,13262,Bob Boughner,Out of Playoffs
 2019-20,Florida Panthers,NHL,Atlantic,69,35,26,0,4,4,78,0.565,231,228,,14105,Joel Quenneville,Lost in round 1
 2020-21,Florida Panthers,NHL,Central,56,37,14,0,3,2,79,0.705,189,153,,,Joel Quenneville,Lost in round 1
-2011-12,Montreal Canadiens,NHL,Northeast,82,31,35,0,4,12,78,0.476,212,226,,21273,"Martin, Cunneyworth {+}",Out of Playoffs
+2011-12,Montreal Canadiens,NHL,Northeast,82,31,35,0,4,12,78,0.476,212,226,,21273,"Martin,Â CunneyworthÂ {+}",Out of Playoffs
 2012-13,Montreal Canadiens,NHL,Northeast,48,29,14,0,3,2,63,0.656,149,126,,21273,Michel Therrien,Lost in round 1
 2013-14,Montreal Canadiens,NHL,Atlantic,82,46,28,0,5,3,100,0.61,215,204,1063,21273,Michel Therrien,Lost in round 3
 2014-15,Montreal Canadiens,NHL,Atlantic,82,50,22,0,5,5,110,0.671,221,189,,21287,Michel Therrien,Lost in round 2
 2015-16,Montreal Canadiens,NHL,Atlantic,82,38,38,0,3,3,82,0.5,221,236,,21288,Michel Therrien,Out of Playoffs
-2016-17,Montreal Canadiens,NHL,Atlantic,82,47,26,0,7,2,103,0.628,226,200,,21288,"Therrien, Julien {+}",Lost in round 1
+2016-17,Montreal Canadiens,NHL,Atlantic,82,47,26,0,7,2,103,0.628,226,200,,21288,"Therrien,Â JulienÂ {+}",Lost in round 1
 2017-18,Montreal Canadiens,NHL,Atlantic,82,29,40,0,7,6,71,0.433,209,264,,21302,Claude Julien,Out of Playoffs
 2018-19,Montreal Canadiens,NHL,Atlantic,82,44,30,0,8,0,96,0.585,249,236,,21047,Claude Julien,Out of Playoffs
 2019-20,Montreal Canadiens,NHL,Atlantic,71,31,31,0,8,1,71,0.5,212,221,,21085,Claude Julien,Lost in round 2
-2020-21,Montreal Canadiens,NHL,North,56,24,21,0,8,3,59,0.527,159,168,,,"Julien, Ducharme {+}",Lost in Finals
+2020-21,Montreal Canadiens,NHL,North,56,24,21,0,8,3,59,0.527,159,168,,,"Julien,Â DucharmeÂ {+}",Lost in Finals
 2011-12,Nashville Predators,NHL,Central,82,48,26,0,3,5,104,0.634,237,210,,16691,Barry Trotz,Lost in round 2
 2012-13,Nashville Predators,NHL,Central,48,16,23,0,3,6,41,0.427,111,139,,16974,Barry Trotz,Out of Playoffs
 2013-14,Nashville Predators,NHL,Central,82,38,32,0,3,9,88,0.537,216,242,808,16600,Barry Trotz,Out of Playoffs
@@ -161,7 +161,7 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2016-17,Nashville Predators,NHL,Central,82,41,29,0,8,4,94,0.573,240,224,,17160,Peter Laviolette,Lost in Finals
 2017-18,Nashville Predators,NHL,Central,82,53,18,0,4,7,117,0.713,267,211,,17307,Peter Laviolette,Lost in round 2
 2018-19,Nashville Predators,NHL,Central,82,47,29,0,4,2,100,0.61,240,214,,17446,Peter Laviolette,Lost in round 1
-2019-20,Nashville Predators,NHL,Central,69,35,26,0,5,3,78,0.565,215,217,,17407,"Laviolette, Hynes {+}",Lost in round 1
+2019-20,Nashville Predators,NHL,Central,69,35,26,0,5,3,78,0.565,215,217,,17407,"Laviolette,Â HynesÂ {+}",Lost in round 1
 2020-21,Nashville Predators,NHL,Central,56,31,23,0,2,0,64,0.571,156,154,,,John Hynes,Lost in round 1
 2011-12,New York Rangers,NHL,Atlantic,82,51,24,0,2,5,109,0.665,226,187,,18192,John Tortorella,Lost in round 3
 2012-13,New York Rangers,NHL,Atlantic,48,26,18,0,0,4,56,0.583,130,112,,17200,John Tortorella,Lost in round 2
@@ -176,21 +176,21 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2011-12,Ottawa Senators,NHL,Northeast,82,41,31,0,6,4,92,0.561,249,240,,19356,Paul MacLean,Lost in round 1
 2012-13,Ottawa Senators,NHL,Northeast,48,25,17,0,2,4,56,0.583,116,104,,19408,Paul MacLean,Lost in round 2
 2013-14,Ottawa Senators,NHL,Atlantic,82,37,31,0,7,7,88,0.537,236,265,1094,18109,Paul MacLean,Out of Playoffs
-2014-15,Ottawa Senators,NHL,Atlantic,82,43,26,0,6,7,99,0.604,238,215,,18247,"MacLean, Cameron {+}",Lost in round 1
+2014-15,Ottawa Senators,NHL,Atlantic,82,43,26,0,6,7,99,0.604,238,215,,18247,"MacLean,Â CameronÂ {+}",Lost in round 1
 2015-16,Ottawa Senators,NHL,Atlantic,82,38,35,0,3,6,85,0.518,236,247,,18085,Dave Cameron,Out of Playoffs
 2016-17,Ottawa Senators,NHL,Atlantic,82,44,28,0,6,4,98,0.598,212,214,,16744,Guy Boucher,Lost in round 3
 2017-18,Ottawa Senators,NHL,Atlantic,82,28,43,0,4,7,67,0.409,221,291,,15829,Guy Boucher,Out of Playoffs
-2018-19,Ottawa Senators,NHL,Atlantic,82,29,47,0,5,1,64,0.39,242,302,,14553,"Boucher, Crawford {+}",Out of Playoffs
+2018-19,Ottawa Senators,NHL,Atlantic,82,29,47,0,5,1,64,0.39,242,302,,14553,"Boucher,Â CrawfordÂ {+}",Out of Playoffs
 2019-20,Ottawa Senators,NHL,Atlantic,71,25,34,0,7,5,62,0.437,191,243,,12618,D.J. Smith,Out of Playoffs
 2020-21,Ottawa Senators,NHL,North,56,23,28,0,4,1,51,0.455,157,190,,,D.J. Smith,Out of Playoffs
 2011-12,Philadelphia Flyers,NHL,Atlantic,82,47,26,0,2,7,103,0.628,264,232,,20433,Peter Laviolette,Lost in round 2
 2012-13,Philadelphia Flyers,NHL,Atlantic,48,23,22,0,1,2,49,0.51,133,141,,19787,Peter Laviolette,Out of Playoffs
-2013-14,Philadelphia Flyers,NHL,Metropolitan,82,42,30,0,2,8,94,0.573,236,235,1180,19839,"Laviolette, Berube {+}",Lost in round 1
+2013-14,Philadelphia Flyers,NHL,Metropolitan,82,42,30,0,2,8,94,0.573,236,235,1180,19839,"Laviolette,Â BerubeÂ {+}",Lost in round 1
 2014-15,Philadelphia Flyers,NHL,Metropolitan,82,33,31,0,7,11,84,0.512,215,234,,19271,Craig Berube,Out of Playoffs
 2015-16,Philadelphia Flyers,NHL,Metropolitan,82,41,27,0,6,8,96,0.585,214,218,,19227,Dave Hakstol,Lost in round 1
 2016-17,Philadelphia Flyers,NHL,Metropolitan,82,39,33,0,5,5,88,0.537,219,236,,19644,Dave Hakstol,Out of Playoffs
 2017-18,Philadelphia Flyers,NHL,Metropolitan,82,42,26,0,7,7,98,0.598,251,243,,19517,Dave Hakstol,Lost in round 1
-2018-19,Philadelphia Flyers,NHL,Metropolitan,82,37,37,0,7,1,82,0.5,244,281,,20372,"Hakstol, Gordon {+}",Out of Playoffs
+2018-19,Philadelphia Flyers,NHL,Metropolitan,82,37,37,0,7,1,82,0.5,244,281,,20372,"Hakstol,Â GordonÂ {+}",Out of Playoffs
 2019-20,Philadelphia Flyers,NHL,Metropolitan,69,41,21,0,2,5,89,0.645,232,196,,18391,Alain Vigneault,Lost in round 3
 2020-21,Philadelphia Flyers,NHL,East,56,25,23,0,4,4,58,0.518,163,201,,,Alain Vigneault,Out of Playoffs
 2011-12,Phoenix Coyotes,NHL,Pacific,82,42,27,0,3,10,97,0.591,216,204,,12421,Dave Tippett,Lost in round 3
@@ -207,13 +207,13 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2012-13,Pittsburgh Penguins,NHL,Atlantic,48,36,12,0,0,0,72,0.75,165,119,,18648,Dan Bylsma,Lost in round 3
 2013-14,Pittsburgh Penguins,NHL,Metropolitan,82,51,24,0,4,3,109,0.665,249,207,832,18618,Dan Bylsma,Lost in round 2
 2014-15,Pittsburgh Penguins,NHL,Metropolitan,82,43,27,0,6,6,98,0.598,221,210,,18618,Mike Johnston,Lost in round 1
-2015-16,Pittsburgh Penguins,NHL,Metropolitan,82,48,26,0,4,4,104,0.634,245,203,,18551,"Johnston, Sullivan {+}",Won Championship
+2015-16,Pittsburgh Penguins,NHL,Metropolitan,82,48,26,0,4,4,104,0.634,245,203,,18551,"Johnston,Â SullivanÂ {+}",Won Championship
 2016-17,Pittsburgh Penguins,NHL,Metropolitan,82,50,21,0,6,5,111,0.677,282,234,,19763,Mike Sullivan,Won Championship
 2017-18,Pittsburgh Penguins,NHL,Metropolitan,82,47,29,0,4,2,100,0.61,272,250,,18580,Mike Sullivan,Lost in round 2
 2018-19,Pittsburgh Penguins,NHL,Metropolitan,82,44,26,0,9,3,100,0.61,273,241,,18566,Mike Sullivan,Lost in round 1
 2019-20,Pittsburgh Penguins,NHL,Metropolitan,69,40,23,0,6,0,86,0.623,224,196,,18538,Mike Sullivan,Lost in round 1
 2020-21,Pittsburgh Penguins,NHL,East,56,37,16,0,2,1,77,0.688,196,156,,,Mike Sullivan,Lost in round 1
-2011-12,Carolina Hurricanes,NHL,Southeast,82,33,33,0,10,6,82,0.5,213,243,,16043,"Maurice, Muller {+}",Out of Playoffs
+2011-12,Carolina Hurricanes,NHL,Southeast,82,33,33,0,10,6,82,0.5,213,243,,16043,"Maurice,Â MullerÂ {+}",Out of Playoffs
 2012-13,Carolina Hurricanes,NHL,Southeast,48,19,25,0,3,1,42,0.438,128,160,,17560,Kirk Muller,Out of Playoffs
 2013-14,Carolina Hurricanes,NHL,Metropolitan,82,36,35,0,7,4,83,0.506,207,230,650,15484,Kirk Muller,Out of Playoffs
 2014-15,Carolina Hurricanes,NHL,Metropolitan,82,30,41,0,4,7,71,0.433,188,226,,12716,Bill Peters,Out of Playoffs
@@ -231,30 +231,30 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2016-17,San Jose Sharks,NHL,Pacific,82,46,29,0,6,1,99,0.604,221,201,,17508,Peter DeBoer,Lost in round 1
 2017-18,San Jose Sharks,NHL,Pacific,82,45,27,0,7,3,100,0.61,252,229,,17366,Peter DeBoer,Lost in round 2
 2018-19,San Jose Sharks,NHL,Pacific,82,46,27,0,6,3,101,0.616,289,261,,17266,Peter DeBoer,Lost in round 3
-2019-20,San Jose Sharks,NHL,Pacific,70,29,36,0,4,1,63,0.45,182,226,,16428,"DeBoer, Boughner {+}",Out of Playoffs
+2019-20,San Jose Sharks,NHL,Pacific,70,29,36,0,4,1,63,0.45,182,226,,16428,"DeBoer,Â BoughnerÂ {+}",Out of Playoffs
 2020-21,San Jose Sharks,NHL,West,56,21,28,0,4,3,49,0.438,151,199,,,Bob Boughner,Out of Playoffs
-2011-12,St. Louis Blues,NHL,Central,82,49,22,0,1,10,109,0.665,210,165,,18810,"Payne, Hitchcock {+}",Lost in round 2
+2011-12,St. Louis Blues,NHL,Central,82,49,22,0,1,10,109,0.665,210,165,,18810,"Payne,Â HitchcockÂ {+}",Lost in round 2
 2012-13,St. Louis Blues,NHL,Central,48,29,17,0,1,1,60,0.625,129,115,,17901,Ken Hitchcock,Lost in round 1
 2013-14,St. Louis Blues,NHL,Central,82,52,23,0,4,3,111,0.677,248,191,1162,17498,Ken Hitchcock,Lost in round 1
 2014-15,St. Louis Blues,NHL,Central,82,51,24,0,3,4,109,0.665,248,201,,18545,Ken Hitchcock,Lost in round 1
 2015-16,St. Louis Blues,NHL,Central,82,49,24,0,5,4,107,0.652,224,201,,18451,Ken Hitchcock,Lost in round 3
-2016-17,St. Louis Blues,NHL,Central,82,46,29,0,5,2,99,0.604,235,218,,19540,"Hitchcock, Yeo {+}",Lost in round 2
+2016-17,St. Louis Blues,NHL,Central,82,46,29,0,5,2,99,0.604,235,218,,19540,"Hitchcock,Â YeoÂ {+}",Lost in round 2
 2017-18,St. Louis Blues,NHL,Central,82,44,32,0,6,0,94,0.573,226,222,,18357,Mike Yeo,Out of Playoffs
-2018-19,St. Louis Blues,NHL,Central,82,45,28,0,6,3,99,0.604,247,223,,17362,"Yeo, Berube {+}",Won Championship
+2018-19,St. Louis Blues,NHL,Central,82,45,28,0,6,3,99,0.604,247,223,,17362,"Yeo,Â BerubeÂ {+}",Won Championship
 2019-20,St. Louis Blues,NHL,Central,71,42,19,0,7,3,94,0.662,225,193,,18096,Craig Berube,Lost in round 2
 2020-21,St. Louis Blues,NHL,West,56,27,20,0,6,3,63,0.563,169,170,,,Craig Berube,Lost in round 1
 2011-12,Minnesota Wild,NHL,Northwest,82,35,36,0,2,9,81,0.494,177,226,,17773,Mike Yeo,Out of Playoffs
 2012-13,Minnesota Wild,NHL,Northwest,48,26,19,0,1,2,55,0.573,122,127,,18795,Mike Yeo,Lost in round 1
 2013-14,Minnesota Wild,NHL,Central,82,43,27,0,4,8,98,0.598,207,206,783,18506,Mike Yeo,Lost in round 2
 2014-15,Minnesota Wild,NHL,Central,82,46,28,0,5,3,100,0.61,231,201,,19023,Mike Yeo,Lost in round 2
-2015-16,Minnesota Wild,NHL,Central,82,38,33,0,9,2,87,0.53,216,206,,19827,"Yeo, Torchetti {+}",Lost in round 1
+2015-16,Minnesota Wild,NHL,Central,82,38,33,0,9,2,87,0.53,216,206,,19827,"Yeo,Â TorchettiÂ {+}",Lost in round 1
 2016-17,Minnesota Wild,NHL,Central,82,49,25,0,6,2,106,0.646,266,208,,19070,Bruce Boudreau,Lost in round 1
 2017-18,Minnesota Wild,NHL,Central,82,45,26,0,8,3,101,0.616,253,232,,19037,Bruce Boudreau,Lost in round 1
 2018-19,Minnesota Wild,NHL,Central,82,37,36,0,5,4,83,0.506,211,237,,18908,Bruce Boudreau,Out of Playoffs
-2019-20,Minnesota Wild,NHL,Central,69,35,27,0,4,3,77,0.558,220,220,,17467,"Boudreau, Evason {+}",Lost in round 1
+2019-20,Minnesota Wild,NHL,Central,69,35,27,0,4,3,77,0.558,220,220,,17467,"Boudreau,Â EvasonÂ {+}",Lost in round 1
 2020-21,Minnesota Wild,NHL,West,56,35,16,0,4,1,75,0.67,181,160,,,Dean Evason,Lost in round 1
 2011-12,Tampa Bay Lightning,NHL,Southeast,82,38,36,0,5,3,84,0.512,235,281,,18468,Guy Boucher,Out of Playoffs
-2012-13,Tampa Bay Lightning,NHL,Southeast,48,18,26,0,1,3,40,0.417,148,150,,19056,"Boucher, Cooper {+}",Out of Playoffs
+2012-13,Tampa Bay Lightning,NHL,Southeast,48,18,26,0,1,3,40,0.417,148,150,,19056,"Boucher,Â CooperÂ {+}",Out of Playoffs
 2013-14,Tampa Bay Lightning,NHL,Atlantic,82,46,27,0,3,6,101,0.616,240,215,844,18612,Jon Cooper,Lost in round 1
 2014-15,Tampa Bay Lightning,NHL,Atlantic,82,50,24,0,3,5,108,0.659,262,211,,18823,Jon Cooper,Lost in Finals
 2015-16,Tampa Bay Lightning,NHL,Atlantic,82,46,31,0,2,3,97,0.591,227,201,,19092,Jon Cooper,Lost in round 3
@@ -263,22 +263,22 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2018-19,Tampa Bay Lightning,NHL,Atlantic,82,62,16,0,3,1,128,0.78,325,222,,19092,Jon Cooper,Lost in round 1
 2019-20,Tampa Bay Lightning,NHL,Atlantic,70,43,21,0,5,1,92,0.657,245,195,,18923,Jon Cooper,Won Championship
 2020-21,Tampa Bay Lightning,NHL,Central,56,36,17,0,1,2,75,0.67,181,147,,,Jon Cooper,Won Championship
-2011-12,Toronto Maple Leafs,NHL,Northeast,82,35,37,0,5,5,80,0.488,231,264,,19507,"Wilson, Carlyle {+}",Out of Playoffs
+2011-12,Toronto Maple Leafs,NHL,Northeast,82,35,37,0,5,5,80,0.488,231,264,,19507,"Wilson,Â CarlyleÂ {+}",Out of Playoffs
 2012-13,Toronto Maple Leafs,NHL,Northeast,48,26,17,0,0,5,57,0.594,145,133,,19426,Randy Carlyle,Lost in round 1
 2013-14,Toronto Maple Leafs,NHL,Atlantic,82,38,36,0,4,4,84,0.512,231,256,1040,19447,Randy Carlyle,Out of Playoffs
-2014-15,Toronto Maple Leafs,NHL,Atlantic,82,30,44,0,3,5,68,0.415,211,262,,19063,"Carlyle, Horachek {+}",Out of Playoffs
+2014-15,Toronto Maple Leafs,NHL,Atlantic,82,30,44,0,3,5,68,0.415,211,262,,19063,"Carlyle,Â HorachekÂ {+}",Out of Playoffs
 2015-16,Toronto Maple Leafs,NHL,Atlantic,82,29,42,0,5,6,69,0.421,198,246,,19158,Mike Babcock,Out of Playoffs
 2016-17,Toronto Maple Leafs,NHL,Atlantic,82,40,27,0,7,8,95,0.579,251,242,,19764,Mike Babcock,Lost in round 1
 2017-18,Toronto Maple Leafs,NHL,Atlantic,82,49,26,0,5,2,105,0.64,277,232,,19187,Mike Babcock,Lost in round 1
 2018-19,Toronto Maple Leafs,NHL,Atlantic,82,46,28,0,6,2,100,0.61,286,251,,19276,Mike Babcock,Lost in round 1
-2019-20,Toronto Maple Leafs,NHL,Atlantic,70,36,25,0,4,5,81,0.579,238,227,,19302,"Babcock, Keefe {+}",Lost in round 1
+2019-20,Toronto Maple Leafs,NHL,Atlantic,70,36,25,0,4,5,81,0.579,238,227,,19302,"Babcock,Â KeefeÂ {+}",Lost in round 1
 2020-21,Toronto Maple Leafs,NHL,North,56,35,14,0,7,0,77,0.688,187,148,,,Sheldon Keefe,Lost in round 1
 2011-12,New York Islanders,NHL,Atlantic,82,34,37,0,7,4,79,0.482,203,255,,13191,Jack Capuano,Out of Playoffs
 2012-13,New York Islanders,NHL,Atlantic,48,24,17,0,4,3,55,0.573,139,139,,13307,Jack Capuano,Lost in round 1
 2013-14,New York Islanders,NHL,Metropolitan,82,34,37,0,5,6,79,0.482,225,267,1015,14741,Jack Capuano,Out of Playoffs
 2014-15,New York Islanders,NHL,Metropolitan,82,47,28,0,1,6,101,0.616,252,230,,15335,Jack Capuano,Lost in round 1
 2015-16,New York Islanders,NHL,Metropolitan,82,45,27,0,5,5,100,0.61,232,216,,13627,Jack Capuano,Lost in round 2
-2016-17,New York Islanders,NHL,Metropolitan,82,41,29,0,8,4,94,0.573,241,242,,13101,"Capuano, Weight {+}",Out of Playoffs
+2016-17,New York Islanders,NHL,Metropolitan,82,41,29,0,8,4,94,0.573,241,242,,13101,"Capuano,Â WeightÂ {+}",Out of Playoffs
 2017-18,New York Islanders,NHL,Metropolitan,82,35,37,0,7,3,80,0.488,264,296,,12002,Doug Weight,Out of Playoffs
 2018-19,New York Islanders,NHL,Metropolitan,82,48,27,0,2,5,103,0.628,228,196,,12443,Barry Trotz,Lost in round 2
 2019-20,New York Islanders,NHL,Metropolitan,68,35,23,0,7,3,80,0.588,192,193,,12811,Barry Trotz,Lost in round 4
@@ -293,7 +293,7 @@ Season,Team,League,Division,GP,W,L,T,OTL,SOL,Pts,Pct,GF,GA,PIM,Atten.,Coach,Resu
 2018-19,Vancouver Canucks,NHL,Pacific,82,35,36,0,5,6,81,0.494,225,254,,18022,Travis Green,Out of Playoffs
 2019-20,Vancouver Canucks,NHL,Pacific,69,36,27,0,3,3,78,0.565,228,217,,18680,Travis Green,Lost in round 3
 2020-21,Vancouver Canucks,NHL,North,56,23,29,0,3,1,50,0.446,151,188,,,Travis Green,Out of Playoffs
-2011-12,Washington Capitals,NHL,Southeast,82,42,32,0,4,4,92,0.561,222,230,,18506,"Boudreau, Hunter {+}",Lost in round 2
+2011-12,Washington Capitals,NHL,Southeast,82,42,32,0,4,4,92,0.561,222,230,,18506,"Boudreau,Â HunterÂ {+}",Lost in round 2
 2012-13,Washington Capitals,NHL,Southeast,48,27,18,0,3,0,57,0.594,149,130,,18506,Adam Oates,Lost in round 1
 2013-14,Washington Capitals,NHL,Metropolitan,82,38,30,0,3,11,90,0.549,235,240,960,18506,Adam Oates,Out of Playoffs
 2014-15,Washington Capitals,NHL,Metropolitan,82,45,26,0,7,4,101,0.616,242,203,,19099,Barry Trotz,Lost in round 2
