@@ -6,7 +6,7 @@
 The National Hockey League (NHL) was formed on November 26, 1917 and only had 8 teams. Since then the NHL has expanded and grown to now include 32 teams across Canda and The United States. Considered by most to premier ice hockey league in the world backed by its talent and revenue. This study will break down the last 10 years of Hockey by statistics and finances.
 
 ### Motivation
-I have lived in the greater Nashville Area since 1997, I was 10. I grew up playing competitve sports and sport videos games in my childhood. I always have had an interest in understanding the how and why behind how major sport teams. In 1999 the city of Nashville enjoyed its first year as a NHL city and I was introduced to Hockey at the highest level. Since that time I have become and avid fan and played multiple NHL licensed game titles. Ive always enjoyed constructing theoretical teams through videogames respective Franchise game modes 
+I have lived in the greater Nashville Area since 1997, I was 10. I grew up playing competitve sports and sport videos games in my childhood. I always have had an interest in understanding the how and why behind how major sport teams. In 1999 the city of Nashville enjoyed its first year as a NHL city and I was introduced to Hockey at the highest level. Since that time I have become and avid fan and played multiple NHL licensed game titles. Ive always enjoyed constructing theoretical teams through videogames respective Franchise game modes .
 
 ### The why?
 The last two years the Tampa Bay Lighting  have won the league championship, Lord Stanley's Cup. How did this team win in a salary cap league 2 years with a static cap(pandemic)?How did they build their team to get to this point? Now, with my recent studies in data analytics I wanted analyze and present findings from real world sources.
@@ -30,10 +30,22 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
     
 ### Getting the Raw data
 * So after reading the documention I found the API had mulitple arguments that I was going to use. One for teams rosters, and another for individual players that both fell directly after the orginal API endpoint. I found the player stats were nested in the players arguments but I needed their player id which was nested in the team rosters.
-* I first created a loop to run through the api and grab every team's roster with player ids in a given year to create a dataframe..
+* Using Pandas in Python I first created a loop to run through the api and grab every team's roster with player ids in a given year to create a dataframe...
 ![player id dataframe](Images/player_id_dataframe.PNG)
+
+* I then used the itterows function to loop throught my created dataframe and grab the stats for each respective year...
+
 ![player stats dataframe](Images/player_stats_dataframe.PNG)
 
+###### I used this process for each year starting in 2011-12 and ending in 2020-21 and saved each respective year to a csv...
+
+
+### Creating a Grading System
+* Since there are mulitple stats that were pulled I decided creating a grading system for players would help paint a more clear picture of player abilities compared to the league. I created histograms for each respective stat to get a more accurate gauge on how to base my ratings..
+![ratings histograms](Images/ratings_histograms.PNG)
+
+* I then created a function to apply the ratings to the dataframe...
+![ratings function](Images/ratings_functions.PNG)
 
 
 ### What this analysis finds
