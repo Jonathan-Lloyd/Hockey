@@ -49,7 +49,7 @@ Another thanks to my instructors teaching me API basics so I could even pull wha
 * I then created a function to apply the ratings to the dataframe...
 ![ratings function](Images/ratings_function.PNG)
 
-* I finally took those new ratings and gave a string value to each column based on their total of multiple ratings
+* I finally took those new ratings and gave a skill value to each new column based on their total of multiple ratings
 ![string rating function](Images/string_ratings_function.PNG)
 
 
@@ -64,14 +64,15 @@ Another thanks to my instructors teaching me API basics so I could even pull wha
 
 ### Dashboard
  I finally had all my data cleaned and analyzed. I chose to create an interactive Dashboad using Tableau as my classed covered two data visualization programs and I have learned to love Tableau. I envision this dashboard to be used during the offseason by front offices to target players to help supplement the teams roster after the annual draft, or a fan wanting to know how their team faired compared to other teams. I wanted make sure I would Include the following features...
- *Top teams based on a year filter
- *Positional salary breakdown based on a team and year filter
- *Average salary based on position for each year]
- *Search bar for individual player
- *Cap Hit slider to select players based their cap hit range
- *Player ratings and individual stats based on a team and year filter
+ * Top teams based on a year filter
+ * Positional salary breakdown based on a team and year filter
+ * Average salary based on position for each year]
+ * Search bar for individual player
+ * Cap Hit slider to select players based their cap hit range
+ * Filter player skill rating
+ * Player ratings and individual stats based on a team and year filter
  
- 
+ You can see the dashboard [here](https://public.tableau.com/app/profile/jonathan.lloyd5465/viz/NHLTableau/Dashboard1?publish=yes)
 
 
 
