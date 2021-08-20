@@ -24,11 +24,13 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
  
 ### Data search that is as Cold as Ice, was I willing to Sacrifice?
 * When I started to gather raw data,I felt webscraping was the route I was going to have to take since I didnt find any APIs or free datasets in my search. Webscraping where it wasnt behind a login or was disallowed quickly became the norm and I worried that my capstone idea would be on ice. So before giving up I looked for an API once more. Turns out there is an undocumented NHL API that was created and luckily someone took upon themselves the arduous task of documenting multiple parameters.
-    A huge thanks and shout out to [Drew Hynes](https://github.com/dword4/nhlapi).
-    Another thanks to my instructors teaching me API basics so I could even pull what I needed.
+
+A huge thanks and shout out to [Drew Hynes](https://github.com/dword4/nhlapi).
+
+Another thanks to my instructors teaching me API basics so I could even pull what I needed.
     
     
-### Getting the Raw data
+### Getting the Raw statistical data
 * So after reading the documention I found the API had mulitple arguments that I was going to use. One for teams rosters, and another for individual players that both fell directly after the orginal API endpoint. I found the player stats were nested in the players arguments but I needed their player id which was nested in the team rosters.
 * Using Pandas in Python I first created a loop to run through the api and grab every team's roster with player ids in a given year to create a dataframe...
 ![player id dataframe](Images/player_id_dataframe.PNG)
@@ -45,10 +47,32 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
 ![ratings histograms](Images/ratings_histograms.PNG)
 
 * I then created a function to apply the ratings to the dataframe...
-![ratings function](Images/ratings_functions.PNG)
+![ratings function](Images/ratings_function.PNG)
+
+* I finally took those new ratings and gave a string value to each column based on their total of multiple ratings
+![string rating function](Images/string_ratings_function.PNG)
 
 
-### What this analysis finds
+### Adding the financial data
+
+* I ended up having to get a yearly subscription to [sportac](https://www.spotrac.com) to pull all of my financial data. It was simple copy and paste from the site sorted by year and merged that with my rating dataframe. If a players cap hit a Nan value then they were in the minors so their cap hit didnt count against their respective teams total cap.
+
+* I found a breakdown of the salary cap and included it in my presentation...
+![salary cap breakdown](Images/salary_cap_breakdown.PNG)
 
 
-### Sources
+
+### Dashboard
+ I finally had all my data cleaned and analyzed. I chose to create an interactive Dashboad using Tableau as my classed covered two data visualization programs and I have learned to love Tableau. I envision this dashboard to be used during the offseason by front offices to target players to help supplement the teams roster after the annual draft, or a fan wanting to know how their team faired compared to other teams. I wanted make sure I would Include the following features...
+ *Top teams based on a year filter
+ *Positional salary breakdown based on a team and year filter
+ *Average salary based on position for each year]
+ *Search bar for individual player
+ *Cap Hit slider to select players based their cap hit range
+ *Player ratings and individual stats based on a team and year filter
+ 
+ 
+
+
+
+
