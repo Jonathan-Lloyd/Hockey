@@ -26,10 +26,12 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
 * When I started to gather raw data,I felt webscraping was the route I was going to have to take since I didnt find any APIs or free datasets in my search. Webscraping where it wasnt behind a login or was disallowed quickly became the norm and I worried that my capstone idea would be on ice. So before giving up I looked for an API once more. Turns out there is an undocumented NHL API that was created and luckily someone took upon themselves the arduous task of documenting multiple parameters.
     A huge thanks and shout out to [Drew Hynes](https://github.com/dword4/nhlapi).
     Another thanks to my instructors teaching me API basics so I could even pull what I needed.
-
+    
+    
+### Getting the Raw data
 * So after reading the documention I found the API had mulitple arguments that I was going to use. One for teams rosters, and another for individual players that both fell directly after the orginal API endpoint. I found the player stats were nested in the players arguments but I needed their player id which was nested in the team rosters.
 * I first created a loop to run through the api and grab every team's roster with player ids in a given year to create a dataframe..
-![raw data](images/player_id_dataframe.png)
+![player id dataframe](Images/player_id_dataframe.png)
 
 
 
