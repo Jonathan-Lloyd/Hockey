@@ -1,4 +1,4 @@
-# 2011-2021 NHL  Data Analysis
+# 2011-2021 NHL Player Analysis
 
 
 
@@ -17,25 +17,17 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
 
 * How the top 4 teams of each year(ranked by playoff finish) built their teams.
 
-* Do multiple bad contracts guarantee a team to not make the postseason and what are said long term effects. 
-
-#### I then will be taking a deeper dive into individual teams yearly salary breakdowns to find the following
-
 * I will Define Salary Cap rules that have been collectively bargained.
-
-* Does buying out contracts do more harm than good?
-
-* Do state income taxes affect free agency signings of the salary cap?
-
 
 ###### I will provide interactive visualizations in Power Bi and/or Tableau that will be filterable by player, team, ratings
 
  
-### Who is this for?
-* test
+### Challenges I faced
+When I started to gather raw data,I felt webscraping was the route I was going to have to take since I didnt find any APIs or free datasets in my search. Webscraping where it wasnt behind a login or was disallowed quickly became the norm and I worried that my capstone idea would be on ice. So before giving up I looked for an API once more. Turns out there is an undocumented NHL API that was created and luckily someone took upon themselves the arduous task of documenting multiple parameters.
+* A huge thanks and shout out to [Drew Hynes}(https://github.com/dword4/nhlapi)
+
 
 ### What this analysis finds
-* test
-* test
+
 
 ### Sources
