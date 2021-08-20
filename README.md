@@ -31,7 +31,8 @@ The last two years the Tampa Bay Lighting  have won the league championship, Lor
 ### Getting the Raw data
 * So after reading the documention I found the API had mulitple arguments that I was going to use. One for teams rosters, and another for individual players that both fell directly after the orginal API endpoint. I found the player stats were nested in the players arguments but I needed their player id which was nested in the team rosters.
 * I first created a loop to run through the api and grab every team's roster with player ids in a given year to create a dataframe..
-![player id dataframe](Images/player_id_dataframe.png)
+![player id dataframe](Images/player_id_dataframe.PNG)
+![player stats dataframe](Images/player_stats_dataframe.PNG)
 
 
 
